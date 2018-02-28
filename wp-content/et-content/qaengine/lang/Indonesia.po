@@ -1,0 +1,6824 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QAEngine v2.0.9\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"MO-Creation-Date: 2017-12-13 03:45:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: ET <support@enginethemes.com>\n"
+"POT-Creation-Date: 2016-09-14 10:01+0700\n"
+"PO-Revision-Date: 2016-09-14 10:01+0700\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\YOUNGWORLD\\YW.THEME\\QAEngine\\qaengine\n"
+"X-Poedit-SearchPathExcluded-0: includes/aecore/assets/js\n"
+
+msgid "Ops! Lost your way?"
+msgstr "Ops! Salah jalan?"
+
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "Maaf, halaman yang Anda cari tidak ada di sini."
+
+msgid "Back to home page"
+msgstr "Kembali ke beranda"
+
+msgid "Package name"
+msgstr "Nama paket"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Pump number"
+msgstr "Nomor pump"
+
+msgid "pumps"
+msgstr "pumps"
+
+msgid "Short description about this package"
+msgstr "Deskripsi paket"
+
+msgid "Save Package"
+msgstr "Simpan paket"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Enter a name for your plan"
+msgstr "Masukkan perencanaan nama"
+
+msgid "Save Plan"
+msgstr "Simpan perencanaan"
+
+msgid "All Polls"
+msgstr "Semua Polling"
+
+msgid "No questions has been created yet."
+msgstr "Belum ada pertanyaan yang dibuat"
+
+msgid "All Questions"
+msgstr "Pertanyaan"
+
+msgid "%s's Profile"
+msgstr "%s's  Profil"
+
+msgid "Edit"
+msgstr "Ubah"
+
+msgid "Logout"
+msgstr "Keluar"
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "Earth"
+msgstr "Bumi"
+
+msgid "Email is hidden."
+msgstr "Email tersembunyi"
+
+msgid "Points"
+msgstr "Poin"
+
+msgid "Questions"
+msgstr "Pertanyaan"
+
+msgid "Answers"
+msgstr "Jawaban"
+
+msgid "Your pump package"
+msgstr "Paket pump anda"
+
+msgid "Pumps"
+msgstr "Pump"
+
+msgid "Cooldown"
+msgstr "Tenang"
+
+msgid "Buy more pump"
+msgstr "Beli lebih banyak pump"
+
+msgid "Pump"
+msgstr "Pump"
+
+msgid "You can buy more pump package to pump faster."
+msgstr "Anda dapat membeli lebih banyak paket pump untuk pump lebih cepat"
+
+msgid "Polls"
+msgstr "Polling"
+
+msgid "Following"
+msgstr "Pengikut"
+
+msgid "There are no polls yet."
+msgstr "Belum ada pendapat"
+
+msgid "There are no answers yet."
+msgstr "Belum ada jawaban"
+
+msgid "There are no questions or polls yet."
+msgstr "Belum ada pertanyaan atau jawaban"
+
+msgid "There are no questions yet."
+msgstr "Belum ada pertanyaan"
+
+msgid "Please check your mailbox to confirm your email address."
+msgstr "Silakan periksa kotak surat Anda untuk mengonfirmasi alamat email Anda"
+
+msgid "or"
+msgstr "atau"
+
+msgid "Resend the confirmation email."
+msgstr "Kirim ulang email konfirmasi"
+
+msgid "Search at blog"
+msgstr "Cari di blog"
+
+msgid "Be the first to post a comment."
+msgstr "Jadilah yang pertama memposkan komentar"
+
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+msgid "%s Comments"
+msgstr "%s Komentar"
+
+msgid "1 Comment on this article"
+msgstr "1 Komentar pada artikel ini"
+
+msgid "% Comments on this article"
+msgstr "% Komentar pada artikel ini"
+
+msgid "Comment closed!"
+msgstr "Komentar ditutup!"
+
+msgid "Reply "
+msgstr "Jawab"
+
+msgid "Add a comment"
+msgstr "Tambahkan komentar"
+
+msgid "Clear"
+msgstr "Bersihkan"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Select Color"
+msgstr "Pilih Warna"
+
+msgid "Please enter a valid captcha!"
+msgstr "Silahkan masukkan captcha yang valid!"
+
+msgid "Enter Keywords"
+msgstr "Masukkan kata kunci"
+
+msgid "User Profile"
+msgstr "Profil pengguna"
+
+msgid "User Settings"
+msgstr "Pengaturan pengguna"
+
+msgid "Log out"
+msgstr "Keluar"
+
+msgid "Login or Register"
+msgstr "Masuk atau Mendaftar"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Website Title"
+msgstr "Judul situs"
+
+msgid "Enter your website title."
+msgstr "Masukkan judul situs web Anda"
+
+msgid "Website Description"
+msgstr "Deskripsi situs web"
+
+msgid "Enter your website description"
+msgstr "Masukkan deskripsi situs web Anda"
+
+msgid "Copyright"
+msgstr "Hak cipta"
+
+msgid "This copyright information will appear in the footer."
+msgstr "Informasi hak cipta ini akan muncul di footer"
+
+msgid "Google Analytics Script"
+msgstr "Skrip Google Analytics"
+
+msgid "Google analytics is a service offered by Google that generates detailed statistics about the visits to a website."
+msgstr "Google analytics adalah layanan yang ditawarkan oleh Google yang menghasilkan statistik rinci tentang kunjungan ke situs web"
+
+msgid "Email Confirmation"
+msgstr "Konfirmasi email"
+
+msgid "Enabling this will require users to confirm their email addresses after registration."
+msgstr "Untuk mengaktifkan ini mengharuskan pengguna mengonfirmasi alamat email mereka setelah pendaftaran."
+
+msgid "User Confirm"
+msgstr "Konfirmasi pengguna"
+
+msgid "Administrator Email"
+msgstr "Email Administrator"
+
+msgid "This email is used for admin purposes."
+msgstr "Email ini digunakan untuk tujuan admin."
+
+msgid "Social"
+msgstr "Sosial"
+
+msgid "Twitter API"
+msgstr "Twitter API"
+
+msgid "Enabling this will allow users to login via Twitter."
+msgstr "Mengaktifkan ini akan memungkinkan pengguna untuk login melalui Twitter"
+
+msgid "Twitter API "
+msgstr "Twitter API"
+
+msgid "Twitter key "
+msgstr "Kunci Twitter"
+
+msgid "Twitter Consumer Key"
+msgstr "Kunci Pengguna Twitter"
+
+msgid "Twitter secret "
+msgstr "Rahasia Twitter"
+
+msgid "Twitter Consumer Secret"
+msgstr "Rahasia Pengguna Twitter"
+
+msgid "Facebook API"
+msgstr "Facebook API"
+
+msgid "Enabling this will allow users to login via Facebook."
+msgstr "Mengaktifkan ini akan memungkinkan pengguna untuk login melalui Facebook."
+
+msgid "Facebook API "
+msgstr "Facebook API"
+
+msgid "Facebook key "
+msgstr "Kunci Facebook"
+
+msgid "Facebook Application ID"
+msgstr "ID Aplikasi Facebook"
+
+msgid "Facebook secret key "
+msgstr "Kunci rahasia Facebook"
+
+msgid "Facebook Secret Key ID"
+msgstr "ID Kunci Rahasia Facebook"
+
+msgid "Google API"
+msgstr "Google API"
+
+msgid "Enabling this will allow users to login via Google.(<a target=\"_blank\" href=\"https://code.google.com/apis/console\">get key</a>)"
+msgstr "Mengaktifkan ini akan memungkinkan pengguna masuk melalui Google.Enabling this will allow users to login via Google.(<a target=\"_blank\" href=\"https://code.google.com/apis/console\">get key</a>)"
+
+msgid "Google API "
+msgstr "Google API"
+
+msgid "Google client key"
+msgstr "Kunci klien Google"
+
+msgid "Client ID"
+msgstr "ID Klien"
+
+msgid "Google secret key"
+msgstr "Kunci rahasia Google"
+
+msgid "Secret ID"
+msgstr "ID Rahasia"
+
+msgid "Google Plus"
+msgstr "Google Plus"
+
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+msgid "Youtube URL"
+msgstr "URL Youtube"
+
+msgid "LinkedIn URL"
+msgstr "URL LinkedIn"
+
+msgid "Content"
+msgstr "Content"
+
+msgid "Filter Bad Words ( Questions / Answers )"
+msgstr "Filter Kata Buruk (Pertanyaan / Jawaban)"
+
+msgid "Each word seperate by comma (,)"
+msgstr "Setiap kata dipisahkan dengan koma (,)"
+
+msgid "Enter Keywords Here"
+msgstr "Masukkan Kata Kunci Disini"
+
+msgid "Intro Text"
+msgstr "Teks Intro"
+
+msgid "This text will appear in the intro page."
+msgstr "Teks ini akan muncul di halaman intro."
+
+msgid "Intro Slide Texts"
+msgstr "Teks Slide Intro"
+
+msgid "Intro Bottom Texts"
+msgstr "Intro Bottom Texts"
+
+msgid "Maximum length of title"
+msgstr "Panjang maksimal judul"
+
+msgid "Insert the maximum length of the title"
+msgstr "Masukkan panjang maksimum judul"
+
+msgid "Editor Upload Images"
+msgstr "Editor Upload Gambar"
+
+msgid "Turn on / off Feature Images Upload in Editor."
+msgstr "Mengaktifkan / menonaktifkan Upload Foto Unggulan pada Editor."
+
+msgid "Upload Images"
+msgstr "Unggah gambar"
+
+msgid "Login To View Content"
+msgstr "Login Untuk Melihat Konten"
+
+msgid "If you enable this option, users have to login to see content."
+msgstr "Jika Anda mengaktifkan opsi ini, pengguna harus masuk untuk melihat konten."
+
+msgid "Login"
+msgstr "Masuk"
+
+msgid "Pending Questions"
+msgstr "Pertanyaan yang Tertunda"
+
+msgid "If you enable this option, the new posted questions have to be approved to be displayed."
+msgstr "Jika Anda mengaktifkan opsi ini, pertanyaan yang baru diposting  harus disetujui untuk ditampilkan"
+
+msgid "Pending Answers"
+msgstr "Jawaban yang tertunda"
+
+msgid "If you enable this option, the new posted answers have to be approved to be displayed."
+msgstr "Jika Anda mengaktifkan opsi ini, jawaban yang  baru diposting harus disetujui untuk ditampilkan"
+
+msgid "Email Notification For Followed Questions"
+msgstr "Pemberitahuan Email untuk Pertanyaan yang Diikuti"
+
+msgid "If you enable this option, whenever there's a new answer for the followed questions, the system will automatically send emails to the following users."
+msgstr "Jika Anda mengaktifkan opsi ini, kapan pun ada jawaban baru untuk pertanyaan yang diikuti, sistem akan secara otomatis mengirim email ke pengguna berikut."
+
+msgid "Send Mail Following"
+msgstr "Kirim Mail mengikuti"
+
+msgid "Infinite Scroll"
+msgstr "Scroll tak terbatas"
+
+msgid "Enabling this will activate the Infinite Scrolling."
+msgstr "Mengaktifkan ini akan mengaktifkan Scroll tak terbatas"
+
+msgid "Live Notifications"
+msgstr "Pemberitahuan Langsung"
+
+msgid "Turn on / off live notifications feature."
+msgstr "Mengaktifkan / menonaktifkan fitur pemberitahuan langsung"
+
+msgid "Login To View Answer"
+msgstr "Login untuk melihat jawaban"
+
+msgid "If you enable this option, users have to login to see answer"
+msgstr "Jika Anda mengaktifkan opsi ini, pengguna harus login untuk melihat jawaban"
+
+msgid "View answer"
+msgstr "Lihat Jawaban"
+
+msgid "Send Email From"
+msgstr "Kirim Email Dari"
+
+msgid "This email will appear in the email's header"
+msgstr "Email ini akan muncul di header email"
+
+msgid "Url slug"
+msgstr "Url slug"
+
+msgid "Enter slug for your Single Question page (this slug must be unique, please re-save the permalink options after changed slug)."
+msgstr "Masukkan slug untuk halaman Pertanyaan Tunggal Anda (slug ini pasti unik, tolong simpan kembali opsi permalink setelah slug diganti )."
+
+msgid "Single Question page Slug"
+msgstr "Slug halaman pertanyaan tunggal"
+
+msgid "Questions Category"
+msgstr "Kategori Pertanyaan"
+
+msgid "Enter slug for your Question Category archive (this slug must be unique and can not be 'category', please re-save the permalink options after changed slug)."
+msgstr "Masukkan slug untuk arsip Kategori Pertanyaan (slug harus unik dan tidak boleh menjadi  'kategori', tolong simpan kembali opsi permalink setelah slug diubah"
+
+msgid "Questions Category Slug"
+msgstr "Slug Kategori Pertanyaan"
+
+msgid "Questions Tag"
+msgstr "Tag Pertanyaan"
+
+msgid "Enter slug for your Question Tag archive (this slug must be unique, please re-save the permalink options after changed slug)."
+msgstr "Masukkan slug untuk arsip Tag Pertanyaan Anda (Slug harus unik, silahkan simpan kembali opsi permalink setelah slug diganti."
+
+msgid "Questions Tag Slug"
+msgstr "Slug Tag Pertanyaan"
+
+msgid "Questions Search"
+msgstr "Pencarian Pertanyaan"
+
+msgid "Questions Search Slug"
+msgstr "Slug Pencarian Pertanyaan"
+
+msgid "Members"
+msgstr "Anggota"
+
+msgid "Members Slug Page"
+msgstr "Halaman Slug Anggota"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Google reCaptcha"
+msgstr "Google reCaptcha"
+
+msgid "Enabling this will prevent spammers to register.<a href='https://www.google.com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+msgstr "Mengaktifkan ini akan mencegah spammer untuk mendaftar. .<a href='https://www.google.com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+
+msgid "Site key"
+msgstr "Kunci situs"
+
+msgid "reCaptcha Site Key"
+msgstr "kunci situs reCaptcha"
+
+msgid "Secret key"
+msgstr "Kunci rahasia"
+
+msgid "reCaptcha Secret Key"
+msgstr "kunci rahasia reCaptcha"
+
+msgid "Google reCaptcha for Questions"
+msgstr "Google reCaptcha untuk Pertanyaan"
+
+msgid "Enable Google reCaptcha for Questions"
+msgstr "Aktifkan Google reCaptcha untuk Pertanyaan"
+
+msgid "Branding"
+msgstr " Branding"
+
+msgid "Site logo"
+msgstr "Logo situs"
+
+msgid "Your logo should be in PNG, GIF or JPG format, within 150x50px and less than 1500Kb."
+msgstr "Logo Anda harus dalam format PNG, GIF atau JPG, dalam jarak 150x50px dan kurang dari 1500Kb."
+
+msgid "Site Logo"
+msgstr "Logo Situs"
+
+msgid "Mobile Icon"
+msgstr "Ikon Seluler"
+
+msgid "This icon will be used as a launcher icon for iPhone and Android smartphones and also as the website favicon. The image dimensions should be 57x57px."
+msgstr "Ikon ini akan digunakan sebagai ikon peluncur untuk smartphone iPhone dan Android dan juga sebagai favicon website. Dimensi gambar harus 57x57px."
+
+msgid "Intro Page Background"
+msgstr "Intro Gambar Latar Halaman"
+
+msgid "This image will be used as a background image in Intro Page. The image dimensions should be 1400x700px or more and size less than 1000KB."
+msgstr "Gambar ini akan digunakan sebagai gambar latar di Intro Page. Dimensi gambar harus berukuran 1400x700px atau lebih dan ukurannya kurang dari 1000KB"
+
+msgid "Mailing"
+msgstr "Mailing"
+
+msgid "Authentication Mail Template"
+msgstr "Template Email Otentikasi"
+
+msgid "Mail description here"
+msgstr "Deskripsi surat disini"
+
+msgid "Email templates for authentication process. You can use placeholders to include some specific content."
+msgstr "Email template untuk proses otentikasi. Anda dapat menggunakan placeholder untuk menyertakan beberapa konten tertentu"
+
+msgid "user's details you want to send mail"
+msgstr "rincian pengguna yang ingin Anda kirimi surat"
+
+msgid "member dashboard url "
+msgstr "url dashboard anggota"
+
+msgid "question title, link and details"
+msgstr "judul pertanyaan, link dan rinciannya"
+
+msgid "activate link is require for user to renew their pass"
+msgstr "mengaktifkan link mengharuskan pengguna untuk memperbarui pass mereka"
+
+msgid " site info, admin email"
+msgstr "info situs, email admin"
+
+msgid "Register Mail Template"
+msgstr "Daftar template email"
+
+msgid "Register Mail"
+msgstr "Daftar email"
+
+msgid "Confirmation Mail Template"
+msgstr "Template Email Konfirmasi"
+
+msgid "Confirmation Mail"
+msgstr "Email Konfirmasi"
+
+msgid "Confirmed Mail Template"
+msgstr "Template Email yang Dikonfirmasi"
+
+msgid "Forgotpass Mail Template"
+msgstr "Template Email Lupa Password"
+
+msgid "Resetpass Mail Template"
+msgstr "Resetpass Template email"
+
+msgid "Resetpassword Mail"
+msgstr "Resetpassword Mail"
+
+msgid "Pending Questions Mail Template"
+msgstr "Template Mail Pertanyaan Tertunda"
+
+msgid "Pending Questions Mail"
+msgstr "Email Pertanyaan Tertunda"
+
+msgid "New Answer Mail Template"
+msgstr "Template Email Jawaban Baru"
+
+msgid "New Answer Mail"
+msgstr "Email Jawaban Baru"
+
+msgid "Report Mail Template"
+msgstr "Template Email Laporan"
+
+msgid "Report Mail"
+msgstr "Mail Laporan"
+
+msgid "Best Answer Mail Template"
+msgstr "Template Email Jawaban Terbaik"
+
+msgid "Best Answer Mail"
+msgstr "Email Jawaban Terbaik"
+
+msgid "Ban User Mail Template"
+msgstr "Template Email Larangan Pengguna"
+
+msgid "Ban User Mail"
+msgstr "Mail Larangan Pengguna"
+
+msgid "Inbox Mail Template"
+msgstr "Template Kotak Masuk"
+
+msgid "Inbox User Mail"
+msgstr "Kotak Masuk Pengguna"
+
+msgid "New Badges Mail Template"
+msgstr "Template Email Lencana Baru"
+
+msgid "New Badges Mail"
+msgstr "Email Lencana Baru"
+
+msgid "Down Badges Mail Template"
+msgstr "Tamplate Email Lencana Down"
+
+msgid "Down Badges Mail"
+msgstr "Down Badges Mail"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Website Language"
+msgstr "Bahasa Website"
+
+msgid "Select the language you want to use for your website."
+msgstr "Pilih bahasa yang ingin Anda gunakan untuk situs web Anda."
+
+msgid "Translator"
+msgstr "Penerjemah"
+
+msgid "Translate a language"
+msgstr "Terjemahkan sebuah bahasa"
+
+msgid "Update"
+msgstr "Memperbarui"
+
+msgid "License Key"
+msgstr "Kunci lisensi"
+
+msgid "Overview"
+msgstr "Ikhtisar"
+
+msgid "OVERVIEW"
+msgstr "TINJAUAN"
+
+msgid "%s overview"
+msgstr "%s Ikhtisar"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "SETTINGS"
+msgstr "PENGATURAN"
+
+msgid "Manage how your Q&A Engine looks and feels"
+msgstr "Kelola bagaimana mesin Q & A terlihat dan berguna"
+
+msgid "MEMBERS"
+msgstr "ANGGOTA"
+
+msgid "Overview of registered members"
+msgstr "Ikhtisar anggota terdaftar"
+
+msgid "Positive Point"
+msgstr "Nilai Positif"
+
+msgid "Set up points that users can gain"
+msgstr "Atur nilai yang bisa didapatkan pengguna"
+
+msgid "create a question"
+msgstr "buat pertanyaan"
+
+msgid "answer a question"
+msgstr "jawab pertanyaan"
+
+msgid "question is voted up"
+msgstr "pertanyaan dipilih"
+
+msgid "answer is voted up"
+msgstr "jawaban dipilih"
+
+msgid "answer is marked 'accepted' "
+msgstr "jawaban yang telah ditandai 'diterima'"
+
+msgid "Negative Point"
+msgstr "Nilai Negatif"
+
+msgid "Set up points that user can lose"
+msgstr "Atur nilai yang dapat dihilangkan oleh pengguna"
+
+msgid "your question is voted down"
+msgstr "Pertanyaan Anda Ditolak"
+
+msgid "your answer is voted down"
+msgstr "Jawaban Anda ditolak"
+
+msgid "you vote down an answer or question"
+msgstr "anda menolak jawaban atau pertanyaan"
+
+msgid "Privileges"
+msgstr "Hak istimewa"
+
+msgid "Set up point users have to achieve to have specific privileges"
+msgstr "Atur nilai pengguna yang harus didapatkan untuk memiliki hak istimewa tertentu"
+
+msgid "Level"
+msgstr "Tingkatan"
+
+msgid "User Badges"
+msgstr "Lencana Pengguna"
+
+msgid "USER BADGES"
+msgstr "LENCANA PENGGUNA"
+
+msgid "Manage what your members can do."
+msgstr "Atur hal yang dapat dilakukan oleh anggota Anda"
+
+msgid "%s color has been updated"
+msgstr "warna % s telah diperbarui"
+
+msgid "An error has occurred!"
+msgstr "Kesalahan Terjadi"
+
+msgid "%s icon has been updated"
+msgstr "%s icon telah diperbarui"
+
+msgid "Add a category"
+msgstr "Tambahkan Kategori"
+
+msgid "Add sub tax for this tax"
+msgstr "Tambahkan tambahan harga untuk harga tersebut"
+
+msgid "Move jobs to"
+msgstr "Pindah Lembar Kerja"
+
+msgid "Accept"
+msgstr "Menerima"
+
+msgid "There is an error occurred"
+msgstr "Terjadi Error"
+
+msgid "You cannot delete a parent category. You need to delete its sub-categories first."
+msgstr "Anda tidak dapat menghapus induk kategori. Anda harus menghapus sub-kategori terlebih dahulu."
+
+msgid "Can't delete category"
+msgstr "Tidak dapat menghapus kategori"
+
+msgid "Category name is required"
+msgstr "Diperlukan nama kategori"
+
+msgid "Cannot find category"
+msgstr "Tidak dapat menemukan kategori"
+
+msgid "Already added."
+msgstr "Telah ditambahkan"
+
+msgid "Please wait 2 minutes after each action submission."
+msgstr "Silahkan tunggu selama 2 menit setelah setiap penyerahan tindakan"
+
+msgid "You have already comment on this."
+msgstr "Andaa telah berkomentar disini"
+
+msgid "Invalid file name!"
+msgstr "Nama file tidak sah"
+
+msgid "Adding new language successfully."
+msgstr "Penambahan bahasa baru telah berhasil"
+
+msgid "Theme functions required to create a folder wp-content/et-content. Please set chmod folder wp-content to 755."
+msgstr "Fungsi tema dibutuhkan untuk membuat folder wp-content / et-content. Harap atur chmod folder wp-content ke 755 "
+
+msgid "There was no changes in your translation."
+msgstr "Tidak ada perubahan dalam terjemahan Anda"
+
+msgid "Translation saved! "
+msgstr "Terjemahan disimpan"
+
+msgid "Type the translation in your language"
+msgstr "Ketik terjemahan dalam bahasa Anda"
+
+msgid "Loading successfully!"
+msgstr "Berhasil memuat!"
+
+msgid "Congratulations! Your account has been verified successfully."
+msgstr "Selamat! Akun Anda telah berhasil diverifikasi."
+
+msgid "[%s] New Private Message From %s"
+msgstr "[%s] Pesan Pribadi Baru Dari %s"
+
+msgid "Activate Link"
+msgstr "Aktifkan Link"
+
+msgid "[%s] Password Reset"
+msgstr "[%s] Reset Password"
+
+msgid "[%s]New report message from %s."
+msgstr "[%s] Laporan Pesan baru dari %s."
+
+msgid "[%s]Your claim request has been approved."
+msgstr "[%s] Permintaan klaim Anda telah disetujui."
+
+msgid "[%s]Your claim request has been rejected."
+msgstr "[%s] Permintaan klaim baru dari %s."
+
+msgid "[%s]New claim request from %s."
+msgstr "[%s] Permintaan klaim baru dari %s."
+
+msgid "Congratulations! You have successfully registered to %s."
+msgstr "Selamat! Anda telah berhasil mendaftar ke %s."
+
+msgid "You have request a confirm email from %s."
+msgstr "Anda memiliki permintaan sebuah email konfirmasi dari %s."
+
+msgid "Your post '%s' has been approved."
+msgstr "Post anda '%s' telah disetujui."
+
+msgid "Your post \"%s\" has been archived"
+msgstr "Pos Anda \"% s\" telah diarsipkan"
+
+msgid "Your post '%s' has been rejected."
+msgstr "Pos Anda '% s' telah ditolak"
+
+msgid "Have a new post on your site."
+msgstr "Miliki pos baru di situs Anda."
+
+msgid "<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>"
+msgstr "<p> Hai, </ p> <p> Miliki pos baru di situs Anda. Anda dapat memeriksanya di sini: %s </ p>"
+
+msgid "You submit a post by cash on '%s'"
+msgstr "Anda mengirimkan sebuah postingan secara tunai di '%s'"
+
+msgid "You purchase successfully package '%s' by cash on '%s'"
+msgstr "Anda berhasil membeli paket '%s' secara tunai di '%s'"
+
+msgid "Thank you for your payment!"
+msgstr "Terima kasih atas pembayaran Anda!"
+
+msgid "Author's Posts"
+msgstr "Postingan Penulis"
+
+msgid "Confirm link"
+msgstr " Konfirmasikan tautan"
+
+msgid "Post ad"
+msgstr "Poskan iklan"
+
+msgid "3 Months Overview"
+msgstr "3 Bulan terakhir dilihat"
+
+msgid "2 weeks Overview"
+msgstr "2 Minggu terakhir dilihat"
+
+msgid "Signup"
+msgstr "Daftar"
+
+msgid "Revenue(%s)"
+msgstr "Pendapatan(%s)"
+
+msgid "Revenue"
+msgstr "Pendapatan"
+
+msgid "content here"
+msgstr "Isi disini"
+
+msgid "(%s)%s for %d days"
+msgstr "(%s)%s untuk %d hari"
+
+msgid "(%s)%s for %d day"
+msgstr "(%s)%s untuk %d hari"
+
+msgid "(%s)%s for unlimited days"
+msgstr "(%s)%s untuk hari tak terbatas"
+
+msgid "%s(%s) for %d days"
+msgstr "(%s)%s untuk %d hari"
+
+msgid "%s(%s) for %d day"
+msgstr "(%s)%s untuk %d hari"
+
+msgid "%s(%s) for unlimited days"
+msgstr "(%s)%s untuk hari tak terbatas"
+
+msgid "Sync success."
+msgstr "Proses Sinkronisasi Sukses Dilakukan"
+
+msgid "Sorry, SKU you entered already exists. Try another?"
+msgstr "Maaf, SKU yang anda masukkan sudah ada. Coba yang lain?"
+
+msgid "Payment plans have been sorted"
+msgstr "Rencana pembayaran telah disortir"
+
+msgid "%s for %d days"
+msgstr "%s untuk %d beberapa hari"
+
+msgid "You have reached the maximum number of Free posts. Please select another plan."
+msgstr "Anda telah mencapai jumlah maksimum dari postingan gratis. Silakan pilih rencana lain."
+
+msgid "Loading..."
+msgstr "Memuat..."
+
+msgid "Loading"
+msgstr "Memuat"
+
+msgid "Categories' level is limited to 3"
+msgstr "Tingkat Kategori hanya sampai pada level 3"
+
+msgid "Image Files"
+msgstr "Berkas Gambar"
+
+msgid "You must enter an integer value."
+msgstr "Anda harus memasukkan nilai integer."
+
+msgid "The free package already existed."
+msgstr "Paket gratis sudah ada."
+
+msgid "Administration"
+msgstr "Administrasi"
+
+msgid "You are an admin. Here you administrate."
+msgstr "Anda adalah Admin. Registrasi disini."
+
+msgid "Engine Settings"
+msgstr "Pengaturan Mesin"
+
+msgid "You do not have permission to change option."
+msgstr "Anda tidak memiliki izin untuk mengubah pilihan."
+
+msgid "Update option successfully!"
+msgstr "Update opsi sukses!"
+
+msgid "You must login to upload image."
+msgstr "Anda harus masuk untuk mengupload gambar."
+
+msgid "Missing image ID"
+msgstr "Kehilangan ID gambar"
+
+msgid "Security error!"
+msgstr "Error keamanan!"
+
+msgid "Branding image has been uploaded successfully"
+msgstr "Gambar branding telah sukses diunggah"
+
+msgid "Error when updating settings."
+msgstr "Error terjadi ketika mengupdate pengaturan."
+
+msgid "Uploaded file not found"
+msgstr "Fille yang telah diunggah tidak ditemukan"
+
+msgid "Site Dashboard"
+msgstr "Situs Dashboard"
+
+msgid "Post author information is incorrect!"
+msgstr "Post informasi penulis tidak valid!"
+
+msgid "There is no payment plan."
+msgstr "Tidak ada rencana pembayaran"
+
+msgid "Invalid payment gateway"
+msgstr "Invalid payment gateway "
+
+msgid "REJECTED"
+msgstr "TOLAK"
+
+msgid "ARCHIVED"
+msgstr "SIMPAN"
+
+msgid "PENDING"
+msgstr "TUNGGU"
+
+msgid "DRAFT"
+msgstr "DRAFT"
+
+msgid "ACTIVE"
+msgstr "AKTIF"
+
+msgid "TRASHED"
+msgstr "SAMPAH"
+
+msgid "SOLD"
+msgstr "JUAL"
+
+msgid "The ID already existed!"
+msgstr "ID ini telah ada!"
+
+msgid "You must login to submit listing."
+msgstr "Anda harus masuk untuk mensubmit daftar."
+
+msgid "Post not found!"
+msgstr "Post tidak ditemukan!"
+
+msgid "You can not edit other posts!"
+msgstr "Anda tidak dapat mengubah post lain!"
+
+msgid "You do not have permission to delete post."
+msgstr "Anda tidak mendapat izin untuk menghapus post."
+
+msgid "Invalid method"
+msgstr "Invalid method"
+
+msgid "Successs"
+msgstr "Sukses"
+
+msgid "Get user data successfully!"
+msgstr "Sukses get data user!"
+
+msgid "Input invalid"
+msgstr "Input invalid"
+
+msgid "Join on %s"
+msgstr "Gabung pada %s"
+
+msgid "Logged in as <span class=\"name\">%s<span>"
+msgstr "Masuk sebagai <span class=\"name\">%s<span>"
+
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr "Username yang diperbolehkan hanya huruf kecil (a-z) dan angka."
+
+msgid "Email field is invalid."
+msgstr "Bagian email tidak valid."
+
+msgid "Password field is required."
+msgstr "Bagian password dibutuhkan."
+
+msgid "Repeat Passwords mismatch."
+msgstr "Ulangi password mismatch."
+
+msgid "You can't create an administrator account."
+msgstr "Anda tidak dapat membuat sebuah akun admin."
+
+msgid "You have registered successfully!"
+msgstr "Anda telah mendaftar dengan sukses!"
+
+msgid "You have registered successfully. Please check your mailbox to activate your account."
+msgstr "Anda telah mendaftar dengan sukses. Mohon cek inbox email anda untuk mengaktifasi akun anda."
+
+msgid "Permission Denied!"
+msgstr "Izin ditolak!"
+
+msgid "Old password does not match!"
+msgstr "Password lama tidak cocok!"
+
+msgid "Retype password is not equal."
+msgstr "Retype password tidak sama."
+
+msgid "This email is already used. Please enter a new email."
+msgstr "Email ini telah digunakan. Mohon masukkan email baru."
+
+msgid "Your profile has been saved successfully!"
+msgstr "Profil anda telah disimpan dengan sukses!"
+
+msgid "Your password has been changed successfully!"
+msgstr "Password anda telah diubah dengan sukses!"
+
+msgid "User has been banned!"
+msgstr "Pengguna telah ditolak!"
+
+msgid "User's data update successfully!"
+msgstr "Data pengguna diupdate dengan sukses!"
+
+msgid "You have been banned from %s"
+msgstr "Anda telah ditolak dari %s"
+
+msgid "The login information you entered were incorrect. Please try again!"
+msgstr "Informasi masuk yang anda berikan tidak sah. Coba lagi!"
+
+msgid "Your account is banned."
+msgstr "Akun anda telah ditolak."
+
+msgid "You have signed in successfully!"
+msgstr "Anda telah masuk dengan sukses!"
+
+msgid "You cannot change other user password"
+msgstr "Anda tidak dapat mengubah password pengguna lain"
+
+msgid "ERROR: Enter username or email address."
+msgstr "ERROR: Masukkan username atau alamat email."
+
+msgid "ERROR: There is no user registered with that email address."
+msgstr "ERROR: tidak ada pengguna yang telah terdaftar dengan alamat email tersebut."
+
+msgid "ERROR: Invalid username or email address."
+msgstr "ERROR: Username atau alamat email tidak valid."
+
+msgid "Password reset is not allowed for this user"
+msgstr "Reset password tidak diizinkan untuk pengguna ini."
+
+msgid "We have sent an reset password mail to your mailbox. Please check your mail."
+msgstr "Kami telah mengirimkan sebuah email reset password ke mailbox anda. Mohon cek email anda."
+
+msgid "Invalid Activation Key."
+msgstr "Kunci Aktivasi Invalid."
+
+msgid "Invalid User Name"
+msgstr "User Name Invalid"
+
+msgid "Username is empty."
+msgstr "Username kosong."
+
+msgid "Invalid Activation Key"
+msgstr "Kunci Aktivasi Invalid"
+
+msgid "Please enter your new password"
+msgstr "Mohon ketik password baru anda"
+
+msgid "Your password have updated successfull. You can login with your new password now."
+msgstr "Password anda telah diupdate dengan sukses. Sekarang, anda dapat masuk dengan password baru anda."
+
+msgid "Your message has been sent successfully!"
+msgstr "Pesan anda telah dikirimkan dengan sukses!"
+
+msgid "Get users successfull"
+msgstr "Sukses get pengguna"
+
+msgid "No user found by your query"
+msgstr "Tidak ada pengguna yang ditemukan berdasarkan queri anda"
+
+msgid "New confirm email already send to your email account."
+msgstr "Email konfirmasi yang baru telah dikirmkan ke akun email anda."
+
+msgid "An unknown error has occurred. Please try again later."
+msgstr "Terjadi error yang tidak diketahui. Mohon coba lagi nanti."
+
+msgid "Please wait 5 minutes to resend an activation code!"
+msgstr "Mohon tunggu 5 menit unutk mengirim ulang kode aktivasi!"
+
+msgid "You have just installed DirectoryEngine theme, we recommend you follow through our <a href='%s'>setup wizard</a> to set up the basic configuration for your website! <a href='%s'>Close this message</a>"
+msgstr "You have just installed DirectoryEngine theme, we recommend you follow through our <a href='%s'>setup wizard</a> to set up the basic configuration for your website! <a href='%s'>Close this message</a>"
+
+msgid "Import Data Successfully."
+msgstr "Sukses mengimport data."
+
+msgid "Delete Data Successfully."
+msgstr "Sukses menghapus data."
+
+msgid "Insert sample data"
+msgstr "Masukkan data sample"
+
+msgid "Delete sample data"
+msgstr "Hapus data sample"
+
+msgid "Insert sample data false"
+msgstr "Masukkan data sample yang salah"
+
+msgid "Delete sample data false"
+msgstr "Hapus data sample yang salah"
+
+msgid "It would take up to a few minutes for your images to be uploaded to the server. Please don't close or reload this page."
+msgstr "Ini akan menghabiskan waktu dalam beberapa menit untuk mengunggah gambar anda ke server. Mohon untuk tidak menutup atau mereload halaman ini."
+
+msgid "SAMPLE DATA"
+msgstr "DATA SAMPLE"
+
+msgid "The sample data includes some items for the list below: profile, project, etc."
+msgstr "Data sample harus berisi beberapa item seperti: profil, projek, dll."
+
+msgid "Install sample data"
+msgstr "Instal data sample"
+
+msgid "Places"
+msgstr "Tempat"
+
+msgid "Add new place types or modify the sample ones to suit your site style."
+msgstr "Tambahkan tempat baru atau modifikasi salah satunya untuk menyesuaikan gaya situs anda."
+
+msgid "Place Categories"
+msgstr "Kategori Tempat"
+
+msgid "Add new categories or modify the sample data to match your directory business."
+msgstr "Tambahkan kategori baru atau modifikasi data saple untuk mencocokkan direktori bisnis anda."
+
+msgid "Place Locations"
+msgstr "Lokasi Tempat"
+
+msgid "Add new locations or modify the sample data to match your directory business."
+msgstr "Tambahkan lokasi baru atau modifikasi data sample untuk mencocokkan direktori bisnis anda."
+
+msgid "Pages"
+msgstr "Halaman"
+
+msgid "Modify the sample \"About us, Contact us, ...\" pages or add your extra pages when needed."
+msgstr "Modifikasi sampel  halaman \"Tentang kami, Kontak kami, ...\" atau tambahkan halaman tambahan ketika dibutuhkan."
+
+msgid "Posts"
+msgstr "Post"
+
+msgid "A couple of news & event posts have been added for your review. You can delete it or add your own posts here."
+msgstr "Beberapa post berita & event telah ditambahkan ke review anda. Anda dapat menghapusnya atau menambahkan post anda sendiri disini."
+
+msgid "MORE SETTINGS"
+msgstr "PENGATURAN LEBIH"
+
+msgid "Enhance your site by customizing these other features"
+msgstr "Tingkatkan situs anda dengan mengkostumisasi fitur yang ada"
+
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+msgid "Modify your site information, social links, analytics script, or add a language, etc."
+msgstr "Modifikasi informasi situs anda, link sosial, skrip analis, atau tambahkan bahasa, dll."
+
+msgid "Front Page"
+msgstr "Halaman Depan"
+
+msgid "Rearrange content elements or add more information in your front page to suit your needs."
+msgstr "Atur ulang elemen konten atau tambah informasi tambahan ke halaman depan unutk menyesuaikan kebutuhan anda."
+
+msgid "Menus"
+msgstr "Menu"
+
+msgid "Edit all available menus in your site here."
+msgstr "Ubah semua menu yang tersedia di situs anda disini."
+
+msgid "Sidebars & Widgets"
+msgstr "Sidebars & Widgets"
+
+msgid "Add or remove widgets in sidebars throughout the site to best suit your need."
+msgstr "Tambah atau hapus widget di sidebar situs unutk menyesuaikan kebutuhan anda."
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Paypal"
+msgstr "Paypal"
+
+msgid "2Checkout"
+msgstr "2Checkout"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Search post..."
+msgstr "Cari post..."
+
+msgid "All Orders"
+msgstr "Semua Order"
+
+msgid "There are no payments yet."
+msgstr "Belum ada pembayaran"
+
+msgid "More Payments"
+msgstr "More Payments"
+
+msgid "No order found by your query."
+msgstr "Tidak ada order yang ditemukan berdasarkan queri anda."
+
+msgid "Update order successfull."
+msgstr "Sukses mengupdate order."
+
+msgid "Search users..."
+msgstr "Cari pengguna..."
+
+msgid "All Users"
+msgstr "Semua Pengguna"
+
+msgid "More Users"
+msgstr "More Pengguna"
+
+msgid "Ban user"
+msgstr "Larang Pengguna"
+
+msgid "Ban for"
+msgstr "Larang untuk"
+
+msgid "Reason"
+msgstr "Alasan"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Banned until %s"
+msgstr "Larang sampai %s"
+
+msgid "Unban this user"
+msgstr "Jangan larang pengguna ini"
+
+msgid "Ban this user"
+msgstr "Larang pengguna ini"
+
+msgid "Browse"
+msgstr "Browse"
+
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Removed successfully!"
+msgstr "Sukses menghapus!"
+
+msgid "Removed failed!"
+msgstr "Gagal menghapus!"
+
+msgid "Add a new language"
+msgstr "Tambahkan bahasa baru"
+
+msgid "Enter language name"
+msgstr "Masukkan nama bahasa"
+
+msgid "Language name"
+msgstr "Nama bahasa"
+
+msgid "Enter the language's name"
+msgstr "Masukkan nama bahasa"
+
+msgid "Add language"
+msgstr "Tambahkan bahasa"
+
+msgid "Enter map address"
+msgstr "Masukkan map adress"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Choose a Language"
+msgstr "Pilih Bahasa"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "You should save your translation after every 20 strings to make sure they won't lost "
+msgstr "Anda harus menyimpan terjemahan anda setiap 20 string untuk memastikan bahwa perkerjaan anda tidak hilang"
+
+msgid "Are you sure you want to delete this?"
+msgstr "Apakah anda yakin untuk menghapus ini?"
+
+msgid "bad"
+msgstr "buruk"
+
+msgid "poor"
+msgstr "lemah"
+
+msgid "nice"
+msgstr "bagus"
+
+msgid "good"
+msgstr "baik"
+
+msgid "gorgeous"
+msgstr "indah"
+
+msgid "Are you sure to archive this?"
+msgstr "Apakah anda yakin untuk mengarsipkan ini?"
+
+msgid "File extension error"
+msgstr "Ekstensi file error"
+
+msgid "Please fill all require fields."
+msgstr "Mohon isi semua bagian yang dibutuhkan"
+
+msgid "Sunday"
+msgstr "Minggu"
+
+msgid "Monday"
+msgstr "Senin"
+
+msgid "Tuesday"
+msgstr "Selasa"
+
+msgid "Wednesday"
+msgstr "Rabu"
+
+msgid "Thursday"
+msgstr "Kamis"
+
+msgid "Friday"
+msgstr "Jumat"
+
+msgid "Saturday"
+msgstr "Sabtu"
+
+msgid "Sun"
+msgstr "Ming"
+
+msgid "Mon"
+msgstr "Sen"
+
+msgid "Tue"
+msgstr "Sel"
+
+msgid "Wed"
+msgstr "Rab"
+
+msgid "Thu"
+msgstr "Kam"
+
+msgid "Fri"
+msgstr "Jum"
+
+msgid "Sat"
+msgstr "Sab"
+
+msgid "Su"
+msgstr "Min"
+
+msgid "Mo"
+msgstr "Sen"
+
+msgid "Tu"
+msgstr "Sel"
+
+msgid "We"
+msgstr "Rab"
+
+msgid "Th"
+msgstr "Kam"
+
+msgid "Fr"
+msgstr "Jum"
+
+msgid "Sa"
+msgstr "Sab"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Maret"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Agustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "This field is required."
+msgstr "Bagian ini dibutuhkan."
+
+msgid "Please enter a valid email address."
+msgstr "Mohon masukkan alamat email yang valid."
+
+msgid "Please enter a valid URL."
+msgstr "Mohon masukkan URL yang valid."
+
+msgid "Please enter a valid number."
+msgstr "Mohon masukkan angka yang valid."
+
+msgid "Please enter only digits."
+msgstr "Mohon masukkan hanya angka."
+
+msgid "Please enter the same value again."
+msgstr "Mohon masukkan lagi nilai yang sama."
+
+msgid "Please enter a valid date."
+msgstr "Mohon masukkan tanggal yang valid."
+
+msgid "Please enter a valid credit card number."
+msgstr "Mohon masukkan nomor kartu kredit yang valid."
+
+msgid "Please enter a value with a valid extension."
+msgstr "Mohon masukkan nilai dengan  ekstensi yang valid."
+
+msgid "Please enter no more than {0} characters."
+msgstr "Mohon masukkan karakter tidak lebih dari {0}"
+
+msgid "Please enter at least {0} characters."
+msgstr "Mohon masukkan minimal {0} karakter"
+
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Mohon masukkan nilai diantara {0} dan {1} karakter."
+
+msgid "Please enter a value between {0} and {1}."
+msgstr "Mohon masukkan nilai diantara {0} dan {1}."
+
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Mohon masukkan nilai lebih besar atau sama dengan {0}"
+
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Mohon masukkan nilai lebih kecil atau sama dengan {0}"
+
+msgid "Your account has been confirmed successfully!"
+msgstr "Akun anda telah dikonfirmasi dengan sukses!"
+
+msgid "Page %s"
+msgstr "Halaman %s"
+
+msgid "Not owned this image!"
+msgstr "Tidak memiliki gambar ini!"
+
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr "Gunakan koma daripada %s untuk memisahkan aturan keluaran."
+
+msgid "There was a problem with your upload."
+msgstr "Terdapat masalah dengan unggahan anda."
+
+msgid "Where is the file?"
+msgstr "Dimana file tersebut?"
+
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr "Tidak memiliki ruang yang cukup untuk mengunggah. Dibutuhkan %1$s KB."
+
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr "File ini terlalu besar. File harus berukuran kurang dari %1$s KB."
+
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr "Anda telah menggunakan kuota yang anda miliki. Mohon hapus beberapa file sebelum mengunggah."
+
+msgid "on %s"
+msgstr "pada %s"
+
+msgid "ago"
+msgstr "lalu"
+
+msgid "%s min"
+msgstr "%s menit"
+
+msgid "%s mins"
+msgstr "%s menit"
+
+msgid "%s hour"
+msgstr "%s jam"
+
+msgid "%s hours"
+msgstr "%s jam"
+
+msgid "%s day"
+msgstr "%s hari"
+
+msgid "%s days"
+msgstr "%s hari"
+
+msgid "%s week"
+msgstr "%s minggu"
+
+msgid "%s weeks"
+msgstr "%s minggu"
+
+msgid "%s month"
+msgstr "%s bulan"
+
+msgid "%s months"
+msgstr "%s bulan"
+
+msgid "%s year"
+msgstr "%s tahun"
+
+msgid "%s years"
+msgstr "%s tahun"
+
+msgid "Please fill out the form below "
+msgstr "Mohon isi form dibawah ini"
+
+msgid "1 Day"
+msgstr "1 Hari"
+
+msgid "3 Days"
+msgstr "3 Hari"
+
+msgid "7 Days"
+msgstr "7 Hari"
+
+msgid "15 Days"
+msgstr "15 Hari"
+
+msgid "1 Month"
+msgstr "1 Bulan"
+
+msgid "3 Months"
+msgstr "3 Bulan"
+
+msgid "6 Months"
+msgstr " 6 Bulan"
+
+msgid "1 Year"
+msgstr "1 Tahun"
+
+msgid "Forever"
+msgstr "Selamanya"
+
+msgid "Remote server did not respond"
+msgstr "Remote server tidak merespon"
+
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Remote server mengembalikan respon error %1$d %2$s"
+
+msgid "Remote file is incorrect size"
+msgstr "Remote file tidak dalam ukuran yang sesuai"
+
+msgid "Zero size file downloaded"
+msgstr "File dengan ukuran nul terdownload"
+
+msgid "Remote file is too large, limit is %s"
+msgstr "Remote file terlalu besar, batas %s"
+
+msgid "There was an error when reading this WXR file"
+msgstr "Terjadi error ketika ketika membaca file WXR ini."
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/import/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/import/parsers.php:67
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/import/parsers.php:72
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/import/parsers.php:262
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/import/parsers.php:452
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-2CO.php:161
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-authorize.php:155
+msgid "Your Authorize.Net was disabled because of invalid settings!"
+msgstr ""
+
+msgid "Send your payment via Authorize.Net"
+msgstr "Kirim pembayaran anda via Authorize.Net"
+
+msgid "Please send your payment to account number: XXXX. Once payment has been verified, admin will approve your post or request."
+msgstr "Mohon kirim pembayaran anda ke nomor akun: XXXX. Setiap pembayaran akan diverifikasi, admin akan mengapprove post atau request anda."
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-google-checkout.php:91
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr ""
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Send your payment via Paypal."
+msgstr "Kirim pembayaran anda melalui Paypal"
+
+msgid "Send your payment via 2Checkout."
+msgstr "Kirim pembayaran anda melalui 2Checkout"
+
+msgid "Send your cash payment to our bank account"
+msgstr "Kirim pembayaran cash anda ke akun bank kami"
+
+msgid "Australian Dollar"
+msgstr "Dollar Australia"
+
+msgid "Canadian Dollar"
+msgstr "Dollar Kanada"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-payment.php:69
+msgid "Euro"
+msgstr ""
+
+msgid "American Dollar"
+msgstr "Dollar Amerika"
+
+msgid "Japanese Yen"
+msgstr "Yen Jepang"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-payment.php:78
+msgid "British Pound"
+msgstr ""
+
+msgid "New Zealand Dollar"
+msgstr "Dollar New Zealand"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-payment.php:84
+msgid "Swiss Franc"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-payment.php:87
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-payment.php:90
+msgid "Singapore Dollar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-payment.php:449
+msgid "Paypal option is disabled because of invalid setting."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/et-payment.php:657
+msgid "Please fill in a valid email!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:347
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:393
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:403
+msgid "MD5 False"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:348
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:404
+msgid "Md5 check sum not match!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:394
+msgid "In  Demo mode the 2Checkout order number is changed to '1' which will cause the hash to fail this. This is intentional so that merchants selling downloadable products and services can compare the hash to determine whether to provide a product to a customer"
+msgstr ""
+
+msgid "Discount"
+msgstr "Diskon"
+
+msgid "You have use a coupon code to get discount"
+msgstr "Anda telah menggunakan kode kupon untuk mendapatkan diskon"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:525
+msgid "Fraudulent or error!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:581
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/payment-visitor.php:582
+msgid "Invalid order ID"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/visitor-free.php:48
+msgid "Invalid Payment package"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/visitor-free.php:66
+msgid "Invalid Post ID"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/visitor-use-package.php:68
+msgid "Invalid Order or Package"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payment/visitor-use-package.php:117
+msgid "Invalid Ad ID"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payments.php:82
+#, php-format
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/payments.php:83
+#, php-format
+msgid "You purchased package <strong>%s</strong> and have %d post/s left. Your posted post is pending until payment."
+msgstr ""
+
+msgid "SIGN IN WITH FACEBOOK"
+msgstr "MASUK DENGAN FACEBOOK"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/facebook.php:11
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:517
+msgid "This seems to be your first time signing in using your Facebook account.If you already have an account, please log in using the form below to link it to your Facebook account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+msgid "Please provide a username to continue"
+msgstr "Mohon sediakan username untuk melanjutkan"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/facebook.php:48
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/facebook.php:56
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/facebook.php:71
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/facebook.php:91
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/facebook.php:100
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:560
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:568
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:588
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:608
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:617
+msgid "Social login is invalid. Please contact administrator for help."
+msgstr ""
+
+msgid "Please login by using your Facebook account again!"
+msgstr "Mohon masuk lagi dengan menggunakan akun Facebook anda."
+
+msgid "You have logged in successfully"
+msgstr "Anda telah masuk dengan sukses"
+
+msgid "SIGN IN WITH GOOGLE+"
+msgstr "MASUK DENGAN GOOGLE+"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/google.php:13
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:728
+msgid "This seems to be your first time signing in using your Google+ account.If you already have an account, please log in using the form below to link it to your Google+ account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/google.php:27
+msgid "Please enter your Google client id and secret key in setting page!"
+msgstr ""
+
+msgid "success"
+msgstr "sukses"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/google.php:115
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/google.php:130
+msgid "Error to connect to Google Server!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/google.php:126
+msgid "Error to connect to Google"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/google.php:183
+msgid "Error to connect to Google Server"
+msgstr ""
+
+msgid "SIGN IN WITH LINKEDIN"
+msgstr "MASUK DENGAN LINKEDIN"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/linkedin.php:16
+msgid "This seems to be your first time signing in using your LinkedIn account.If you already have an account, please log in using the form below to link it to your LinkedIn account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/linkedin.php:31
+msgid "Please enter your Linkedin App id and secret key!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/linkedin.php:107
+msgid "Error to connect to Linkedin server!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/linkedin.php:111
+msgid "Can not get the access token from Linkedin server!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/linkedin.php:128
+msgid "Error to connect to Linkedin server2!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/linkedin.php:132
+msgid "Can not get user information from Linkedin server!"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/linkedin.php:194
+msgid "Error to connect to Linkedin server"
+msgstr ""
+
+msgid "Social API"
+msgstr "Social API"
+
+msgid "Enabling this will allow users to log in via Twitter."
+msgstr "Mengaktifkan ini akan memperbolehkan pengguna masuk melalui Twitter."
+
+msgid "Enabling this will allow users to log in via Facebook."
+msgstr "Mengaktifkan ini akan memperbolehkan pengguna masuk melalui Facebook."
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:90
+msgid "Facebook Secret Key"
+msgstr ""
+
+msgid "Enabling this will allow users to log in via Google."
+msgstr "Mengaktifkan ini akan memperbolehkan pengguna masuk melalui Google."
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:114
+msgid "Google key "
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:122
+msgid "Google Secret key "
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:131
+msgid "LinkedIn API"
+msgstr ""
+
+msgid "Enabling this will allow users to log in via LinkedIn."
+msgstr "Mengaktifkan ini akan memperbolehkan pengguna masuk melalui LinkedIn"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:141
+msgid "LinkedIn API "
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:148
+msgid "Consumer Key / API Key "
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:150
+msgid "LinkedIn API Key"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:156
+msgid "Consumer Secret / Secret Key "
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:158
+msgid "LinkedIn secret key"
+msgstr ""
+
+msgid "General setting"
+msgstr "Pengaturan umum"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:178
+msgid "Social connect page"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:181
+msgid "You can create a new page and paste shortcode [social_connect_page] here"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:188
+msgid "Social connect page url "
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:190
+msgid "eg:http://enginethemes.com/directoryengine/social-connect"
+msgstr ""
+
+msgid "Select User roles"
+msgstr "Pilih role Pengguna"
+
+msgid "Select the user roles."
+msgstr "Pilih role pengguna"
+
+msgid "Select user roles"
+msgstr "Pilih role pengguna"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:235
+msgid "Social login"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:236
+msgid "SOCIAL LOGIN"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/settings.php:240
+msgid "Setup login by social network accounts"
+msgstr ""
+
+msgid "Username and password does not matched"
+msgstr "Username dan password tidak cocok"
+
+msgid "Login information is missing"
+msgstr "Informasi masuk telah hilang"
+
+msgid "Please provide a valid email"
+msgstr "Mohon sediakan email yang valid"
+
+msgid "Can not authenticate user"
+msgstr "Tidak dapat mengautentikasi pengguna"
+
+msgid "Can't find Social ID"
+msgstr "Tidak dapat menemukan Social ID"
+
+msgid "This email is already existed. If you are the owner, please enter the right password"
+msgstr "Email ini telah ada. Jika anada pemiliknya, mohon masukkan password dengan benar"
+
+msgid "Username is existed, please choose another one"
+msgstr "Username telah ada, mohon pilih yang lain"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:29
+#, php-format
+msgid "This seems to be your first time signing in using your Facebook account. <br />If you already have an account with %s, please log in using the form below to link it to your Facebook account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.<br />You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:33
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/twitter.php:17
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:309
+msgid "SIGN IN WITH TWITTER"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:36
+#, php-format
+msgid "This seems to be your first time signing in using your Twitter account.<br />If you already have an account with %s, please log in using the form below to link it to your Twitter account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.<br > You will only do this step ONCE. Next time, you'll get logged in right away.</p>"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:44
+msgid "This seems to be your first time signing in using your Google+ account.If you already have an account, please log in using the form below to link it to your Google+  account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.</p>"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:51
+msgid "This seems to be your first time signing in using your Linkedin account.If you already have an account, please log in using the form below to link it to your Linkedin  account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.</p>"
+msgstr ""
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "author"
+msgstr "penulis"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:115
+msgid "subscriber"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:115
+msgid "editor"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:115
+msgid "contributor"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:162
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:69
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/template/modal-profile.php:48
+msgid "Facebook"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:170
+msgid "Google"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:178
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:73
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/template/modal-profile.php:51
+msgid "Twitter"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/template.php:186
+msgid "Linkedin"
+msgstr ""
+
+msgid "This seems to be your first time signing in using your Twitter account.If you already have an account  , please log in using the form below to link it to your Twitter account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Ops! Lost your way?\n"
+" \n"
+"Sorry, but the page you were looking for is not here.\n"
+" \n"
+"Back to home page\n"
+" \n"
+"Package name\n"
+" \n"
+"SKU\n"
+" \n"
+"Price\n"
+" \n"
+"Pump number\n"
+" \n"
+"pumps\n"
+" \n"
+"Short description about this package\n"
+" \n"
+"Save Package\n"
+" \n"
+"Cancel\n"
+" \n"
+"Enter a name for your plan\n"
+" \n"
+"Save Plan\n"
+" \n"
+"All Polls\n"
+" \n"
+"No questions has been created yet.\n"
+" \n"
+"All Questions\n"
+" \n"
+"%s's Profile\n"
+" \n"
+"Edit\n"
+" \n"
+"Logout\n"
+" \n"
+"Contact\n"
+" \n"
+"Earth\n"
+" \n"
+"Email is hidden.\n"
+" \n"
+"Points\n"
+" \n"
+"Questions\n"
+" \n"
+"Answers\n"
+" \n"
+"Your pump package\n"
+" \n"
+"Pumps\n"
+" \n"
+"Cooldown\n"
+" \n"
+"Buy more pump\n"
+" \n"
+"Pump\n"
+" \n"
+"You can buy more pump package to pump faster.\n"
+" \n"
+"Polls\n"
+" \n"
+"Following\n"
+" \n"
+"There are no polls yet.\n"
+" \n"
+"There are no answers yet.\n"
+" \n"
+"There are no questions or polls yet.\n"
+" \n"
+"There are no questions yet.\n"
+" \n"
+"Please check your mailbox to confirm your email address.\n"
+" \n"
+"or\n"
+" \n"
+"Resend the confirmation email.\n"
+" \n"
+"Search at blog\n"
+" \n"
+"Be the first to post a comment.\n"
+" \n"
+"1 Comment\n"
+" \n"
+"%s Comments\n"
+" \n"
+"1 Comment on this article\n"
+" \n"
+"% Comments on this article\n"
+" \n"
+"Comment closed!\n"
+" \n"
+"Reply\n"
+" \n"
+"Add a comment\n"
+" \n"
+"Clear\n"
+" \n"
+"Default\n"
+" \n"
+"Select Color\n"
+" \n"
+"Please enter a valid captcha!\n"
+" \n"
+"Enter Keywords\n"
+" \n"
+"User Profile\n"
+" \n"
+"User Settings\n"
+" \n"
+"Log out\n"
+" \n"
+"Login or Register\n"
+" \n"
+"General\n"
+" \n"
+"Website Title\n"
+" \n"
+"Enter your website title.\n"
+" \n"
+"Website Description\n"
+" \n"
+"Enter your website description\n"
+" \n"
+"Copyright\n"
+" \n"
+"This copyright information will appear in the footer.\n"
+" \n"
+"Google Analytics Script\n"
+" \n"
+"Google analytics is a service offered by Google that generates detailed statistics about the visits to a website.\n"
+" \n"
+"Email Confirmation\n"
+" \n"
+"Enabling this will require users to confirm their email addresses after registration.\n"
+" \n"
+"User Confirm\n"
+" \n"
+"Administrator Email\n"
+" \n"
+"This email is used for admin purposes.\n"
+" \n"
+"Social\n"
+" \n"
+"Twitter API\n"
+" \n"
+"Enabling this will allow users to login via Twitter.\n"
+" \n"
+"Twitter API\n"
+" \n"
+"Twitter key\n"
+" \n"
+"Twitter Consumer Key\n"
+" \n"
+"Twitter secret\n"
+" \n"
+"Twitter Consumer Secret\n"
+" \n"
+"Facebook API\n"
+" \n"
+"Enabling this will allow users to login via Facebook.\n"
+" \n"
+"Facebook API\n"
+" \n"
+"Facebook key\n"
+" \n"
+"Facebook Application ID\n"
+" \n"
+"Facebook secret key\n"
+" \n"
+"Facebook Secret Key ID\n"
+" \n"
+"Google API\n"
+" \n"
+"Enabling this will allow users to login via Google.(<a target=\"_blank\" href=\"https://code.google.com/apis/console\">get key</a>)\n"
+" \n"
+"Google API\n"
+" \n"
+"Google client key\n"
+" \n"
+"Client ID\n"
+" \n"
+"Google secret key\n"
+" \n"
+"Secret ID\n"
+" \n"
+"Google Plus\n"
+" \n"
+"Facebook URL\n"
+" \n"
+"Twitter URL\n"
+" \n"
+"Youtube URL\n"
+" \n"
+"LinkedIn URL\n"
+" \n"
+"Content\n"
+" \n"
+"Filter Bad Words ( Questions / Answers )\n"
+" \n"
+"Each word seperate by comma (,)\n"
+" \n"
+"Enter Keywords Here\n"
+" \n"
+"Intro Text\n"
+" \n"
+"This text will appear in the intro page.\n"
+" \n"
+"Intro Slide Texts\n"
+" \n"
+"Intro Bottom Texts\n"
+" \n"
+"Maximum length of title\n"
+" \n"
+"Insert the maximum length of the title\n"
+" \n"
+"Editor Upload Images\n"
+" \n"
+"Turn on / off Feature Images Upload in Editor.\n"
+" \n"
+"Upload Images\n"
+" \n"
+"Login To View Content\n"
+" \n"
+"If you enable this option, users have to login to see content.\n"
+" \n"
+"Login\n"
+" \n"
+"Pending Questions\n"
+" \n"
+"If you enable this option, the new posted questions have to be approved to be displayed.\n"
+" \n"
+"Pending Answers\n"
+" \n"
+"If you enable this option, the new posted answers have to be approved to be displayed.\n"
+" \n"
+"Email Notification For Followed Questions\n"
+" \n"
+"If you enable this option, whenever there's a new answer for the followed questions, the system will automatically send emails to the following users.\n"
+" \n"
+"Send Mail Following\n"
+" \n"
+"Infinite Scroll\n"
+" \n"
+"Enabling this will activate the Infinite Scrolling.\n"
+" \n"
+"Live Notifications\n"
+" \n"
+"Turn on / off live notifications feature.\n"
+" \n"
+"Login To View Answer\n"
+" \n"
+"If you enable this option, users have to login to see answer\n"
+" \n"
+"View answer\n"
+" \n"
+"Send Email From\n"
+" \n"
+"This email will appear in the email's header\n"
+" \n"
+"Url slug\n"
+" \n"
+"Enter slug for your Single Question page (this slug must be unique, please re-save the permalink options after changed slug).\n"
+" \n"
+"Single Question page Slug\n"
+" \n"
+"Questions Category\n"
+" \n"
+"Enter slug for your Question Category archive (this slug must be unique and can not be 'category', please re-save the permalink options after changed slug).\n"
+" \n"
+"Questions Category Slug\n"
+" \n"
+"Questions Tag\n"
+" \n"
+"Enter slug for your Question Tag archive (this slug must be unique, please re-save the permalink options after changed slug).\n"
+" \n"
+"Questions Tag Slug\n"
+" \n"
+"Questions Search\n"
+" \n"
+"Questions Search Slug\n"
+" \n"
+"Members\n"
+" \n"
+"Members Slug Page\n"
+" \n"
+"Captcha\n"
+" \n"
+"Google reCaptcha\n"
+" \n"
+"Enabling this will prevent spammers to register.<a href='https://www.google.com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>\n"
+" \n"
+"Site key\n"
+" \n"
+"reCaptcha Site Key\n"
+" \n"
+"Secret key\n"
+" \n"
+"reCaptcha Secret Key\n"
+" \n"
+"Google reCaptcha for Questions\n"
+" \n"
+"Enable Google reCaptcha for Questions\n"
+" \n"
+"Branding\n"
+" \n"
+"Site logo\n"
+" \n"
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than 1500Kb.\n"
+" \n"
+"Site Logo\n"
+" \n"
+"Mobile Icon\n"
+" \n"
+"This icon will be used as a launcher icon for iPhone and Android smartphones and also as the website favicon. The image dimensions should be 57x57px.\n"
+" \n"
+"Intro Page Background\n"
+" \n"
+"This image will be used as a background image in Intro Page. The image dimensions should be 1400x700px or more and size less than 1000KB.\n"
+" \n"
+"Mailing\n"
+" \n"
+"Authentication Mail Template\n"
+" \n"
+"Mail description here\n"
+" \n"
+"Email templates for authentication process. You can use placeholders to include some specific content.\n"
+" \n"
+"user's details you want to send mail\n"
+" \n"
+"member dashboard url\n"
+" \n"
+"question title, link and details\n"
+" \n"
+"activate link is require for user to renew their pass\n"
+" \n"
+"site info, admin email\n"
+" \n"
+"Register Mail Template\n"
+" \n"
+"Register Mail\n"
+" \n"
+"Confirmation Mail Template\n"
+" \n"
+"Confirmation Mail\n"
+" \n"
+"Confirmed Mail Template\n"
+" \n"
+"Forgotpass Mail Template\n"
+" \n"
+"Resetpass Mail Template\n"
+" \n"
+"Resetpassword Mail\n"
+" \n"
+"Pending Questions Mail Template\n"
+" \n"
+"Pending Questions Mail\n"
+" \n"
+"New Answer Mail Template\n"
+" \n"
+"New Answer Mail\n"
+" \n"
+"Report Mail Template\n"
+" \n"
+"Report Mail\n"
+" \n"
+"Best Answer Mail Template\n"
+" \n"
+"Best Answer Mail\n"
+" \n"
+"Ban User Mail Template\n"
+" \n"
+"Ban User Mail\n"
+" \n"
+"Inbox Mail Template\n"
+" \n"
+"Inbox User Mail\n"
+" \n"
+"New Badges Mail Template\n"
+" \n"
+"New Badges Mail\n"
+" \n"
+"Down Badges Mail Template\n"
+" \n"
+"Down Badges Mail\n"
+" \n"
+"Language\n"
+" \n"
+"Website Language\n"
+" \n"
+"Select the language you want to use for your website.\n"
+" \n"
+"Translator\n"
+" \n"
+"Translate a language\n"
+" \n"
+"Update\n"
+" \n"
+"License Key\n"
+" \n"
+"Overview\n"
+" \n"
+"OVERVIEW\n"
+" \n"
+"%s overview\n"
+" \n"
+"Settings\n"
+" \n"
+"SETTINGS\n"
+" \n"
+"Manage how your Q&A Engine looks and feels\n"
+" \n"
+"MEMBERS\n"
+" \n"
+"Overview of registered members\n"
+" \n"
+"Positive Point\n"
+" \n"
+"Set up points that users can gain\n"
+" \n"
+"create a question\n"
+" \n"
+"answer a question\n"
+" \n"
+"question is voted up\n"
+" \n"
+"answer is voted up\n"
+" \n"
+"answer is marked 'accepted'\n"
+" \n"
+"Negative Point\n"
+" \n"
+"Set up points that user can lose\n"
+" \n"
+"your question is voted down\n"
+" \n"
+"your answer is voted down\n"
+" \n"
+"you vote down an answer or question\n"
+" \n"
+"Privileges\n"
+" \n"
+"Set up point users have to achieve to have specific privileges\n"
+" \n"
+"Level\n"
+" \n"
+"User Badges\n"
+" \n"
+"USER BADGES\n"
+" \n"
+"Manage what your members can do.\n"
+" \n"
+"%s color has been updated\n"
+" \n"
+"An error has occurred!\n"
+" \n"
+"%s icon has been updated\n"
+" \n"
+"Add a category\n"
+" \n"
+"Add sub tax for this tax\n"
+" \n"
+"Move jobs to\n"
+" \n"
+"Accept\n"
+" \n"
+"There is an error occurred\n"
+" \n"
+"You cannot delete a parent category. You need to delete its sub-categories first.\n"
+" \n"
+"Can't delete category\n"
+" \n"
+"Category name is required\n"
+" \n"
+"Cannot find category\n"
+" \n"
+"Already added.\n"
+" \n"
+"Please wait 2 minutes after each action submission.\n"
+" \n"
+"You have already comment on this.\n"
+" \n"
+"Invalid file name!\n"
+" \n"
+"Adding new language successfully.\n"
+" \n"
+"Theme functions required to create a folder wp-content/et-content. Please set chmod folder wp-content to 755.\n"
+" \n"
+"There was no changes in your translation.\n"
+" \n"
+"Translation saved!\n"
+" \n"
+"Type the translation in your language\n"
+" \n"
+"Loading successfully!\n"
+" \n"
+"Congratulations! Your account has been verified successfully.\n"
+" \n"
+"[%s] New Private Message From %s\n"
+" \n"
+"Activate Link\n"
+" \n"
+"[%s] Password Reset\n"
+" \n"
+"[%s]New report message from %s.\n"
+" \n"
+"[%s]Your claim request has been approved.\n"
+" \n"
+"[%s]Your claim request has been rejected.\n"
+" \n"
+"[%s]New claim request from %s.\n"
+" \n"
+"Congratulations! You have successfully registered to %s.\n"
+" \n"
+"You have request a confirm email from %s.\n"
+" \n"
+"Your post '%s' has been approved.\n"
+" \n"
+"Your post \"%s\" has been archived\n"
+" \n"
+"Your post '%s' has been rejected.\n"
+" \n"
+"Have a new post on your site.\n"
+" \n"
+"<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>\n"
+" \n"
+"You submit a post by cash on '%s'\n"
+" \n"
+"You purchase successfully package '%s' by cash on '%s'\n"
+" \n"
+"Thank you for your payment!\n"
+" \n"
+"Author's Posts\n"
+" \n"
+"Confirm link\n"
+" \n"
+"Post ad\n"
+" \n"
+"3 Months Overview\n"
+" \n"
+"2 weeks Overview\n"
+" \n"
+"Signup\n"
+" \n"
+"Revenue(%s)\n"
+" \n"
+"Revenue\n"
+" \n"
+"content here\n"
+" \n"
+"(%s)%s for %d days\n"
+" \n"
+"(%s)%s for %d day\n"
+" \n"
+"(%s)%s for unlimited days\n"
+" \n"
+"%s(%s) for %d days\n"
+" \n"
+"%s(%s) for %d day\n"
+" \n"
+"%s(%s) for unlimited days\n"
+" \n"
+"Sync success.\n"
+" \n"
+"Sorry, SKU you entered already exists. Try another?\n"
+" \n"
+"Payment plans have been sorted\n"
+" \n"
+"%s for %d days\n"
+" \n"
+"You have reached the maximum number of Free posts. Please select another plan.\n"
+" \n"
+"Loading...\n"
+" \n"
+"Loading\n"
+" \n"
+"Categories' level is limited to 3\n"
+" \n"
+"Image Files\n"
+" \n"
+"You must enter an integer value.\n"
+" \n"
+"The free package already existed.\n"
+" \n"
+"Administration\n"
+" \n"
+"You are an admin. Here you administrate.\n"
+" \n"
+"Engine Settings\n"
+" \n"
+"You do not have permission to change option.\n"
+" \n"
+"Update option successfully!\n"
+" \n"
+"You must login to upload image.\n"
+" \n"
+"Missing image ID\n"
+" \n"
+"Security error!\n"
+" \n"
+"Branding image has been uploaded successfully\n"
+" \n"
+"Error when updating settings.\n"
+" \n"
+"Uploaded file not found\n"
+" \n"
+"Site Dashboard\n"
+" \n"
+"Post author information is incorrect!\n"
+" \n"
+"There is no payment plan.\n"
+" \n"
+"Invalid payment gateway\n"
+" \n"
+"REJECTED\n"
+" \n"
+"ARCHIVED\n"
+" \n"
+"PENDING\n"
+" \n"
+"DRAFT\n"
+" \n"
+"ACTIVE\n"
+" \n"
+"TRASHED\n"
+" \n"
+"SOLD\n"
+" \n"
+"The ID already existed!\n"
+" \n"
+"You must login to submit listing.\n"
+" \n"
+"Post not found!\n"
+" \n"
+"You can not edit other posts!\n"
+" \n"
+"You do not have permission to delete post.\n"
+" \n"
+"Invalid method\n"
+" \n"
+"Successs\n"
+" \n"
+"Get user data successfully!\n"
+" \n"
+"Input invalid\n"
+" \n"
+"Join on %s\n"
+" \n"
+"Logged in as <span class=\"name\">%s<span>\n"
+" \n"
+"Username only lowercase letters (a-z) and numbers are allowed.\n"
+" \n"
+"Email field is invalid.\n"
+" \n"
+"Password field is required.\n"
+" \n"
+"Repeat Passwords mismatch.\n"
+" \n"
+"You can't create an administrator account.\n"
+" \n"
+"You have registered successfully!\n"
+" \n"
+"You have registered successfully. Please check your mailbox to activate your account.\n"
+" \n"
+"Permission Denied!\n"
+" \n"
+"Old password does not match!\n"
+" \n"
+"Retype password is not equal.\n"
+" \n"
+"This email is already used. Please enter a new email.\n"
+" \n"
+"Your profile has been saved successfully!\n"
+" \n"
+"Your password has been changed successfully!\n"
+" \n"
+"User has been banned!\n"
+" \n"
+"User's data update successfully!\n"
+" \n"
+"You have been banned from %s\n"
+" \n"
+"The login information you entered were incorrect. Please try again!\n"
+" \n"
+"Your account is banned.\n"
+" \n"
+"You have signed in successfully!\n"
+" \n"
+"You cannot change other user password\n"
+" \n"
+"ERROR: Enter username or email address.\n"
+" \n"
+"ERROR: There is no user registered with that email address.\n"
+" \n"
+"ERROR: Invalid username or email address.\n"
+" \n"
+"Password reset is not allowed for this user\n"
+" \n"
+"We have sent an reset password mail to your mailbox. Please check your mail.\n"
+" \n"
+"Invalid Activation Key.\n"
+" \n"
+"Invalid User Name\n"
+" \n"
+"Username is empty.\n"
+" \n"
+"Invalid Activation Key\n"
+" \n"
+"Please enter your new password\n"
+" \n"
+"Your password have updated successfull. You can login with your new password now.\n"
+" \n"
+"Your message has been sent successfully!\n"
+" \n"
+"Get users successfull\n"
+" \n"
+"No user found by your query\n"
+" \n"
+"New confirm email already send to your email account.\n"
+" \n"
+"An unknown error has occurred. Please try again later.\n"
+" \n"
+"Please wait 5 minutes to resend an activation code!\n"
+" \n"
+"You have just installed DirectoryEngine theme, we recommend you follow through our <a href='%s'>setup wizard</a> to set up the basic configuration for your website! <a href='%s'>Close this message</a>\n"
+" \n"
+"Import Data Successfully.\n"
+" \n"
+"Delete Data Successfully.\n"
+" \n"
+"Insert sample data\n"
+" \n"
+"Delete sample data\n"
+" \n"
+"Insert sample data false\n"
+" \n"
+"Delete sample data false\n"
+" \n"
+"It would take up to a few minutes for your images to be uploaded to the server. Please don't close or reload this page.\n"
+" \n"
+"SAMPLE DATA\n"
+" \n"
+"The sample data includes some items for the list below: profile, project, etc.\n"
+" \n"
+"Install sample data\n"
+" \n"
+"Places\n"
+" \n"
+"Add new place types or modify the sample ones to suit your site style.\n"
+" \n"
+"Place Categories\n"
+" \n"
+"Add new categories or modify the sample data to match your directory business.\n"
+" \n"
+"Place Locations\n"
+" \n"
+"Add new locations or modify the sample data to match your directory business.\n"
+" \n"
+"Pages\n"
+" \n"
+"Modify the sample \"About us, Contact us, ...\" pages or add your extra pages when needed.\n"
+" \n"
+"Posts\n"
+" \n"
+"A couple of news & event posts have been added for your review. You can delete it or add your own posts here.\n"
+" \n"
+"MORE SETTINGS\n"
+" \n"
+"Enhance your site by customizing these other features\n"
+" \n"
+"General Settings\n"
+" \n"
+"Modify your site information, social links, analytics script, or add a language, etc.\n"
+" \n"
+"Front Page\n"
+" \n"
+"Rearrange content elements or add more information in your front page to suit your needs.\n"
+" \n"
+"Menus\n"
+" \n"
+"Edit all available menus in your site here.\n"
+" \n"
+"Sidebars & Widgets\n"
+" \n"
+"Add or remove widgets in sidebars throughout the site to best suit your need.\n"
+" \n"
+"Cash\n"
+" \n"
+"Paypal\n"
+" \n"
+"2Checkout\n"
+" \n"
+"All\n"
+" \n"
+"Search post...\n"
+" \n"
+"All Orders\n"
+" \n"
+"There are no payments yet.\n"
+" \n"
+"More Payments\n"
+" \n"
+"No order found by your query.\n"
+" \n"
+"Update order successfull.\n"
+" \n"
+"Search users...\n"
+" \n"
+"All Users\n"
+" \n"
+"More Users\n"
+" \n"
+"Ban user\n"
+" \n"
+"Ban for\n"
+" \n"
+"Reason\n"
+" \n"
+"Close\n"
+" \n"
+"Submit\n"
+" \n"
+"Banned until %s\n"
+" \n"
+"Unban this user\n"
+" \n"
+"Ban this user\n"
+" \n"
+"Browse\n"
+" \n"
+"Remove\n"
+" \n"
+"Removed successfully!\n"
+" \n"
+"Removed failed!\n"
+" \n"
+"Add a new language\n"
+" \n"
+"Enter language name\n"
+" \n"
+"Language name\n"
+" \n"
+"Enter the language's name\n"
+" \n"
+"Add language\n"
+" \n"
+"Enter map address\n"
+" \n"
+"Enable\n"
+" \n"
+"Disable\n"
+" \n"
+"Choose a Language\n"
+" \n"
+"Save\n"
+" \n"
+"You should save your translation after every 20 strings to make sure they won't lost\n"
+" \n"
+"Are you sure you want to delete this?\n"
+" \n"
+"bad\n"
+" \n"
+"poor\n"
+" \n"
+"nice\n"
+" \n"
+"good\n"
+" \n"
+"gorgeous\n"
+" \n"
+"Are you sure to archive this?\n"
+" \n"
+"File extension error\n"
+" \n"
+"Please fill all require fields.\n"
+" \n"
+"Sunday\n"
+" \n"
+"Monday\n"
+" \n"
+"Tuesday\n"
+" \n"
+"Wednesday\n"
+" \n"
+"Thursday\n"
+" \n"
+"Friday\n"
+" \n"
+"Saturday\n"
+" \n"
+"Sun\n"
+" \n"
+"Mon\n"
+" \n"
+"Tue\n"
+" \n"
+"Wed\n"
+" \n"
+"Thu\n"
+" \n"
+"Fri\n"
+" \n"
+"Sat\n"
+" \n"
+"Su\n"
+" \n"
+"Mo\n"
+" \n"
+"Tu\n"
+" \n"
+"We\n"
+" \n"
+"Th\n"
+" \n"
+"Fr\n"
+" \n"
+"Sa\n"
+" \n"
+"January\n"
+" \n"
+"February\n"
+" \n"
+"March\n"
+" \n"
+"April\n"
+" \n"
+"May\n"
+" \n"
+"June\n"
+" \n"
+"July\n"
+" \n"
+"August\n"
+" \n"
+"September\n"
+" \n"
+"October\n"
+" \n"
+"November\n"
+" \n"
+"December\n"
+" \n"
+"Jan\n"
+" \n"
+"Feb\n"
+" \n"
+"Mar\n"
+" \n"
+"Apr\n"
+" \n"
+"Jun\n"
+" \n"
+"Jul\n"
+" \n"
+"Aug\n"
+" \n"
+"Sep\n"
+" \n"
+"Oct\n"
+" \n"
+"Nov\n"
+" \n"
+"Dec\n"
+" \n"
+"This field is required.\n"
+" \n"
+"Please enter a valid email address.\n"
+" \n"
+"Please enter a valid URL.\n"
+" \n"
+"Please enter a valid number.\n"
+" \n"
+"Please enter only digits.\n"
+" \n"
+"Please enter the same value again.\n"
+" \n"
+"Please enter a valid date.\n"
+" \n"
+"Please enter a valid credit card number.\n"
+" \n"
+"Please enter a value with a valid extension.\n"
+" \n"
+"Please enter no more than {0} characters.\n"
+" \n"
+"Please enter at least {0} characters.\n"
+" \n"
+"Please enter a value between {0} and {1} characters long.\n"
+" \n"
+"Please enter a value between {0} and {1}.\n"
+" \n"
+"Please enter a value greater than or equal to {0}.\n"
+" \n"
+"Please enter a value less than or equal to {0}.\n"
+" \n"
+"Your account has been confirmed successfully!\n"
+" \n"
+"Page %s\n"
+" \n"
+"Not owned this image!\n"
+" \n"
+"Use commas instead of %s to separate excluded terms.\n"
+" \n"
+"There was a problem with your upload.\n"
+" \n"
+"Where is the file?\n"
+" \n"
+"Not enough space to upload. %1$s KB needed.\n"
+" \n"
+"This file is too big. Files must be less than %1$s KB in size.\n"
+" \n"
+"You have used your space quota. Please delete files before uploading.\n"
+" \n"
+"on %s\n"
+" \n"
+"ago\n"
+" \n"
+"%s min\n"
+" \n"
+"%s mins\n"
+" \n"
+"%s hour\n"
+" \n"
+"%s hours\n"
+" \n"
+"%s day\n"
+" \n"
+"%s days\n"
+" \n"
+"%s week\n"
+" \n"
+"%s weeks\n"
+" \n"
+"%s month\n"
+" \n"
+"%s months\n"
+" \n"
+"%s year\n"
+" \n"
+"%s years\n"
+" \n"
+"Please fill out the form below\n"
+" \n"
+"1 Day\n"
+" \n"
+"3 Days\n"
+" \n"
+"7 Days\n"
+" \n"
+"15 Days\n"
+" \n"
+"1 Month\n"
+" \n"
+"3 Months\n"
+" \n"
+"6 Months\n"
+" \n"
+"1 Year\n"
+" \n"
+"Forever\n"
+" \n"
+"Remote server did not respond\n"
+" \n"
+"Remote server returned error response %1$d %2$s\n"
+" \n"
+"Remote file is incorrect size\n"
+" \n"
+"Zero size file downloaded\n"
+" \n"
+"Remote file is too large, limit is %s\n"
+" \n"
+"There was an error when reading this WXR file\n"
+" \n"
+"Details are shown above. The importer will now try again with a different parser...\n"
+" \n"
+"This does not appear to be a WXR file, missing/invalid WXR version number\n"
+" \n"
+"Your 2Checkout was disabled because of invalid settings!\n"
+" \n"
+"Your Authorize.Net was disabled because of invalid settings!\n"
+" \n"
+"Send your payment via Authorize.Net\n"
+" \n"
+"Please send your payment to account number: XXXX. Once payment has been verified, admin will approve your post or request.\n"
+" \n"
+"Your Google Checkout was disabled because of invalid settings!\n"
+" \n"
+"Order\n"
+" \n"
+"Send your payment via Paypal.\n"
+" \n"
+"Send your payment via 2Checkout.\n"
+" \n"
+"Send your cash payment to our bank account\n"
+" \n"
+"Australian Dollar\n"
+" \n"
+"Canadian Dollar\n"
+" \n"
+"Euro\n"
+" \n"
+"American Dollar\n"
+" \n"
+"Japanese Yen\n"
+" \n"
+"British Pound\n"
+" \n"
+"New Zealand Dollar\n"
+" \n"
+"Swiss Franc\n"
+" \n"
+"Hong Kong Dollar\n"
+" \n"
+"Singapore Dollar\n"
+" \n"
+"Paypal option is disabled because of invalid setting.\n"
+" \n"
+"Please fill in a valid email!\n"
+" \n"
+"MD5 False\n"
+" \n"
+"Md5 check sum not match!\n"
+" \n"
+"In Demo mode the 2Checkout order number is changed to '1' which will cause the hash to fail this. This is intentional so that merchants selling downloadable products and services can compare the hash to determine whether to provide a product to a customer\n"
+" \n"
+"Discount\n"
+" \n"
+"You have use a coupon code to get discount\n"
+" \n"
+"Fraudulent or error!\n"
+" \n"
+"Invalid order ID\n"
+" \n"
+"Invalid Payment package\n"
+" \n"
+"Invalid Post ID\n"
+" \n"
+"Invalid Order or Package\n"
+" \n"
+"Invalid Ad ID\n"
+" \n"
+"You purchased package <strong>%s</strong> and have %d post/s left.\n"
+" \n"
+"You purchased package <strong>%s</strong> and have %d post/s left. Your posted post is pending until payment.\n"
+" \n"
+"SIGN IN WITH FACEBOOK\n"
+" \n"
+"This seems to be your first time signing in using your Facebook account.If you already have an account, please log in using the form below to link it to your Facebook account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.\n"
+" \n"
+"Please provide a username to continue\n"
+" \n"
+"Social login is invalid. Please contact administrator for help.\n"
+" \n"
+"Please login by using your Facebook account again!\n"
+" \n"
+"You have logged in successfully\n"
+" \n"
+"SIGN IN WITH GOOGLE+\n"
+" \n"
+"This seems to be your first time signing in using your Google+ account.If you already have an account, please log in using the form below to link it to your Google+ account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.\n"
+" \n"
+"Please enter your Google client id and secret key in setting page!\n"
+" \n"
+"success\n"
+" \n"
+"Error to connect to Google Server!\n"
+" \n"
+"Error to connect to Google\n"
+" \n"
+"Error to connect to Google Server\n"
+" \n"
+"SIGN IN WITH LINKEDIN\n"
+" \n"
+"This seems to be your first time signing in using your LinkedIn account.If you already have an account, please log in using the form below to link it to your LinkedIn account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.\n"
+" \n"
+"Please enter your Linkedin App id and secret key!\n"
+" \n"
+"Error to connect to Linkedin server!\n"
+" \n"
+"Can not get the access token from Linkedin server!\n"
+" \n"
+"Error to connect to Linkedin server2!\n"
+" \n"
+"Can not get user information from Linkedin server!\n"
+" \n"
+"Error to connect to Linkedin server\n"
+" \n"
+"Social API\n"
+" \n"
+"Enabling this will allow users to log in via Twitter.\n"
+" \n"
+"Enabling this will allow users to log in via Facebook.\n"
+" \n"
+"Facebook Secret Key\n"
+" \n"
+"Enabling this will allow users to log in via Google.\n"
+" \n"
+"Google key\n"
+" \n"
+"Google Secret key\n"
+" \n"
+"LinkedIn API\n"
+" \n"
+"Enabling this will allow users to log in via LinkedIn.\n"
+" \n"
+"LinkedIn API\n"
+" \n"
+"Consumer Key / API Key\n"
+" \n"
+"LinkedIn API Key\n"
+" \n"
+"Consumer Secret / Secret Key\n"
+" \n"
+"LinkedIn secret key\n"
+" \n"
+"General setting\n"
+" \n"
+"Social connect page\n"
+" \n"
+"You can create a new page and paste shortcode [social_connect_page] here\n"
+" \n"
+"Social connect page url\n"
+" \n"
+"eg:http://enginethemes.com/directoryengine/social-connect\n"
+" \n"
+"Select User roles\n"
+" \n"
+"Select the user roles.\n"
+" \n"
+"Select user roles\n"
+" \n"
+"Social login\n"
+" \n"
+"SOCIAL LOGIN\n"
+" \n"
+"Setup login by social network accounts\n"
+" \n"
+"Username and password does not matched\n"
+" \n"
+"Login information is missing\n"
+" \n"
+"Please provide a valid email\n"
+" \n"
+"Can not authenticate user\n"
+" \n"
+"Can't find Social ID\n"
+" \n"
+"This email is already existed. If you are the owner, please enter the right password\n"
+" \n"
+"Username is existed, please choose another one\n"
+" \n"
+"This seems to be your first time signing in using your Facebook account. <br />If you already have an account with %s, please log in using the form below to link it to your Facebook account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.<br />You will only do this step ONCE. Next time, you'll get logged in right away.\n"
+" \n"
+"SIGN IN WITH TWITTER\n"
+" \n"
+"This seems to be your first time signing in using your Twitter account.<br />If you already have an account with %s, please log in using the form below to link it to your Twitter account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.<br > You will only do this step ONCE. Next time, you'll get logged in right away.</p>\n"
+" \n"
+"This seems to be your first time signing in using your Google+ account.If you already have an account, please log in using the form below to link it to your Google+ account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.</p>\n"
+" \n"
+"This seems to be your first time signing in using your Linkedin account.If you already have an account, please log in using the form below to link it to your Linkedin account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.</p>\n"
+" \n"
+"Email\n"
+" \n"
+"Password\n"
+" \n"
+"Username\n"
+" \n"
+"author\n"
+" \n"
+"subscriber\n"
+" \n"
+"editor\n"
+" \n"
+"contributor\n"
+" \n"
+"Facebook\n"
+" \n"
+"Google\n"
+" \n"
+"Twitter\n"
+" \n"
+"Linkedin\n"
+" \n"
+"This seems to be your first time signing in using your Twitter account.If you already have an account , please log in using the form below to link it to your Twitter account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.\n"
+" \n"
+"Conection with twitter Failed\n"
+" \n"
+"Error Receiving Request Token\n"
+" \n"
+"Enter a name for your badge\n"
+" \n"
+"Point\n"
+" \n"
+"Color\n"
+" \n"
+"Load more\n"
+" \n"
+"Add badge\n"
+" \n"
+"Approve\n"
+" \n"
+"Decline\n"
+" \n"
+"Pending\n"
+" \n"
+"Confirmed\n"
+" \n"
+"Failed\n"
+" \n"
+"by\n"
+" \n"
+"This post has been deleted by %s\n"
+" \n"
+"%d points\n"
+" \n"
+"Comments\n"
+" \n"
+"Select\n"
+" \n"
+"Got error, please contact site administrator\n"
+" \n"
+"Pack\n"
+" \n"
+"Add New\n"
+" \n"
+"Add New Pack\n"
+" \n"
+"Edit Pack\n"
+" \n"
+"New Pack\n"
+" \n"
+"All Packs\n"
+" \n"
+"View Pack\n"
+" \n"
+"Search Packs\n"
+" \n"
+"No Pack found\n"
+" \n"
+"NoPacks found in Trash\n"
+" \n"
+"Packs\n"
+" \n"
+"Vote up a question/answer\n"
+" \n"
+"Leave comments on other people's posts\n"
+" \n"
+"Vote down a question/answer\n"
+" \n"
+"Add new tags to the site\n"
+" \n"
+"Edit any question\n"
+" \n"
+"Edit any answer\n"
+" \n"
+"Approve any answer\n"
+" \n"
+"change log\n"
+" \n"
+"Add New log\n"
+" \n"
+"Edit log\n"
+" \n"
+"New change log\n"
+" \n"
+"All change logs\n"
+" \n"
+"View change log\n"
+" \n"
+"Search change logs\n"
+" \n"
+"No change log found\n"
+" \n"
+"Nochange logs found in Trash\n"
+" \n"
+"change logs\n"
+" \n"
+"Your question \"%s\" was voted up, earned %d points\n"
+" \n"
+"Your answer on question \"%s\" was voted up, earned %d points\n"
+" \n"
+"Your question \"%s\" was voted down, earned %d points\n"
+" \n"
+"Your answer on question \"%s\" was voted down, earned %d points\n"
+" \n"
+"Your question \"%s\" was unvoted, return %d points\n"
+" \n"
+"Your answer on question \"%s\" was unvoted, return %d points\n"
+" \n"
+"Your answer on question \"%s\" was marked best answer, gain %d points\n"
+" \n"
+"Your best answer on question \"%s\" was undo, gain %d points\n"
+" \n"
+"You answered on question \"%s\"\n"
+" \n"
+"Your posted a question \"%s\"\n"
+" \n"
+"You question on question \"%s\" was edited\n"
+" \n"
+"Your answer on question \"%s was edited\"\n"
+" \n"
+"This is default text.\n"
+" \n"
+"Your answer on question %s was voted up.\n"
+" \n"
+"You voted up an answer on question %s.\n"
+" \n"
+"Your answer on question %s was voted down.\n"
+" \n"
+"Your voted down an answer on question %s.\n"
+" \n"
+"Your question %s was voted up.\n"
+" \n"
+"You voted up question %s.\n"
+" \n"
+"Your question %s was voted down.\n"
+" \n"
+"You voted down question %s.\n"
+" \n"
+"You asked %s.\n"
+" \n"
+"Your question %s was edited.\n"
+" \n"
+"You edited question %s.\n"
+" \n"
+"You answered question %s.\n"
+" \n"
+"Your answer on question %s was edited.\n"
+" \n"
+"You edited answer on question %s.\n"
+" \n"
+"Your question %s was unvoted.\n"
+" \n"
+"You unvoted question %s.\n"
+" \n"
+"Your answer on question %s was unvoted.\n"
+" \n"
+"Your unvoted an answer on question %s.\n"
+" \n"
+"Your answer on question %s was marked as the accepted answer.\n"
+" \n"
+"You marked question %s was answered.\n"
+" \n"
+"Your best answer on question %s was unaccepted.\n"
+" \n"
+"You changed the best answer on question %s.\n"
+" \n"
+"QA Options\n"
+" \n"
+"Allows you to customize some example settings for QAEngine.\n"
+" \n"
+"Link Color\n"
+" \n"
+"Main Action Color\n"
+" \n"
+"Sidebar Background Color\n"
+" \n"
+"Header Background Color\n"
+" \n"
+"Header Menus Background Color\n"
+" \n"
+"You need to verify your account to view the content.\n"
+" \n"
+"Congratulations! Your account has been confirmed successfully.\n"
+" \n"
+"You must log in to post question.\n"
+" \n"
+"Post title should not contain any HTML Tag.\n"
+" \n"
+"You don't have enough point to add a comment.\n"
+" \n"
+"An error occur when created comment.\n"
+" \n"
+"Comment has been created successfully.\n"
+" \n"
+"An error occur when created answer.\n"
+" \n"
+"Your answer has been created successfully and need to be approved by Admin before displayed!\n"
+" \n"
+"Answer has been created successfully.\n"
+" \n"
+"Your question has recieved a new answer\n"
+" \n"
+"Your question has been created successfully. It'll appear right after being approved by admin.\n"
+" \n"
+"Question has been created successfully.\n"
+" \n"
+"An error occur when created question.\n"
+" \n"
+"Invalid action\n"
+" \n"
+"You don't have enough point to vote up.\n"
+" \n"
+"You don't have enough point to vote down.\n"
+" \n"
+"You don't have enough point to approve answer.\n"
+" \n"
+"Only author has right to change the best answer.\n"
+" \n"
+"Question has been saved successfully.\n"
+" \n"
+"New Question\n"
+" \n"
+"There's a new post, why don't you give a look at\n"
+" \n"
+"You've just successfully approved a question.\n"
+" \n"
+"You've just successfully approved an answer.\n"
+" \n"
+"Login required\n"
+" \n"
+"Error occurred\n"
+" \n"
+"You have started following this question.\n"
+" \n"
+"You have stopped following this question.\n"
+" \n"
+"Invalid post\n"
+" \n"
+"You have reported successfully\n"
+" \n"
+"Error when reported!\n"
+" \n"
+"Image file size is too big.Size must be less than < %sMB.\n"
+" \n"
+"The file was uploaded successfully\n"
+" \n"
+"Comment deleted successfully!\n"
+" \n"
+"Answer deleted successfully!\n"
+" \n"
+"Question deleted successfully!\n"
+" \n"
+"An error occur when created sign up\n"
+" \n"
+"Member not found\n"
+" \n"
+"Your account has been deleted successfully.\n"
+" \n"
+"Your profile has been updated!\n"
+" \n"
+"This email is already used. Please enter another email!\n"
+" \n"
+"Please enter all required information to reset your password.\n"
+" \n"
+"Confirmed password does not matched\n"
+" \n"
+"Old password is not correct.\n"
+" \n"
+"Your new password cannot be empty.\n"
+" \n"
+"Your password was changed! Please login again!\n"
+" \n"
+"Your login information was incorrect. Please try again.\n"
+" \n"
+"Your account has been banned. Reason \"%s\". Expired on \"%s\".\n"
+" \n"
+"You have logged out\n"
+" \n"
+"Missing user data\n"
+" \n"
+"User logo has been uploaded successfully!\n"
+" \n"
+"Problem occurred while updating user field\n"
+" \n"
+"You have registered an account successfully but are not able to join the discussions yet. Please confirm your email address first.\n"
+" \n"
+"You are registered and logged in successfully.\n"
+" \n"
+"<strong>ERROR</strong>: Enter username or email address.\n"
+" \n"
+"<strong>ERROR</strong>: There is no user registered with that email address.\n"
+" \n"
+"Please check your email inbox to reset password.\n"
+" \n"
+"This user is not found.\n"
+" \n"
+"Invalid Key\n"
+" \n"
+"Your password has been changed. Please log in again.\n"
+" \n"
+"You don't have permission\n"
+" \n"
+"Required user ID.\n"
+" \n"
+"User has been confirmed\n"
+" \n"
+"No result found\n"
+" \n"
+"You have recieved a confirmation email from %s.\n"
+" \n"
+"Successfully resend the confirmation email.\n"
+" \n"
+"Your account has been activated.\n"
+" \n"
+"New Private Message From\n"
+" \n"
+"Email sending failed.\n"
+" \n"
+"Message was sent successfully.\n"
+" \n"
+"User has been banned\n"
+" \n"
+"User has been unbanned\n"
+" \n"
+"This email address was not found.\n"
+" \n"
+"Username is invalid\n"
+" \n"
+"Invalid key\n"
+" \n"
+"<strong>ERROR</strong>: Invalid username or email address.\n"
+" \n"
+"There is a request to reset the password for the following account:\n"
+" \n"
+"Username: %s\n"
+" \n"
+"If this was a mistake, just ignore this email and nothing will happen.\n"
+" \n"
+"To reset your password, visit the following link:\n"
+" \n"
+"The email could not be sent.\n"
+" \n"
+"Possible reason: your host may have disabled the mail() function...\n"
+" \n"
+"Please fill in all required fields.\n"
+" \n"
+"Not authorized.\n"
+" \n"
+"Invalid date format. It should be dd/mm/yyyy\n"
+" \n"
+"Please add at lease 2 answers for this poll.\n"
+" \n"
+"You poll has been created successfully!\n"
+" \n"
+"You poll has been saved successfully!\n"
+" \n"
+"Invalid poll!\n"
+" \n"
+"Please choose the answer!\n"
+" \n"
+"This poll was expired!\n"
+" \n"
+"You have already voted for this poll.\n"
+" \n"
+"Your IP has been used to vote.\n"
+" \n"
+"Your answer has been voted.\n"
+" \n"
+"Poll Questions\n"
+" \n"
+"Poll Question\n"
+" \n"
+"Add new\n"
+" \n"
+"Edit poll question\n"
+" \n"
+"New poll question\n"
+" \n"
+"View poll question\n"
+" \n"
+"Search poll questions\n"
+" \n"
+"No poll questions found\n"
+" \n"
+"No poll questions found in Trash\n"
+" \n"
+"Parent poll question:\n"
+" \n"
+"Poll Answers\n"
+" \n"
+"Poll Answer\n"
+" \n"
+"Edit poll answer\n"
+" \n"
+"New poll answer\n"
+" \n"
+"View poll answer\n"
+" \n"
+"Search poll answers\n"
+" \n"
+"No poll answers found\n"
+" \n"
+"No poll answers found in Trash\n"
+" \n"
+"Parent poll answer:\n"
+" \n"
+"Poll Maker\n"
+" \n"
+"Enabling this feature will allow users to create polls on your site.\n"
+" \n"
+"Maximum poll answers\n"
+" \n"
+"Set maximum number of anwers for a poll. Default is 5\n"
+" \n"
+"Max answer number of a poll\n"
+" \n"
+"e.g. 5\n"
+" \n"
+"Check user voted by\n"
+" \n"
+"Check user who has already voted by IP or Cookie. Default is IP\n"
+" \n"
+"user voted\n"
+" \n"
+"Select chart\n"
+" \n"
+"Select the chart that you want to show the result of poll answers\n"
+" \n"
+"chart type\n"
+" \n"
+"Poll\n"
+" \n"
+"POLL\n"
+" \n"
+"All settings for poll\n"
+" \n"
+"Submit answer\n"
+" \n"
+"By submit your answer, you agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>\n"
+" \n"
+"Your Question\n"
+" \n"
+"Select Category\n"
+" \n"
+"Your Description\n"
+" \n"
+"Your answer\n"
+" \n"
+"More answer\n"
+" \n"
+"You can create %s answer(s).\n"
+" \n"
+"Tag(max 5 tags)\n"
+" \n"
+"End day\n"
+" \n"
+"Multi time\n"
+" \n"
+"Multi choice\n"
+" \n"
+"Ask a Poll\n"
+" \n"
+"Add comment\n"
+" \n"
+"You can only create %s answers.\n"
+" \n"
+"Your question has been pumped.\n"
+" \n"
+"Please wait in %s\n"
+" \n"
+"You are not the author of this question.\n"
+" \n"
+"Finish your update.\n"
+" \n"
+"Only administrator can run the update.\n"
+" \n"
+"%s for %d pumps\n"
+" \n"
+"Set up the database for pumping\n"
+" \n"
+"The new feature Pump Question is available on QAEngine from version 2.0. Run the update <strong>only one time and you have it for forever</strong>.\n"
+" \n"
+"set up the database\n"
+" \n"
+"Update Database\n"
+" \n"
+"Pump Action\n"
+" \n"
+"Enabling this feature will allow users to pump on your site.\n"
+" \n"
+"Time delay for free pump\n"
+" \n"
+"Set up the time delay for free pump\n"
+" \n"
+"e.g. 60\n"
+" \n"
+"Time delay for premium pump\n"
+" \n"
+"Set up the time delay for premium pump\n"
+" \n"
+"e.g. 2\n"
+" \n"
+"Time format\n"
+" \n"
+"Select the format for time delay. Default is second.\n"
+" \n"
+"time format\n"
+" \n"
+"Second\n"
+" \n"
+"Minute\n"
+" \n"
+"Hour\n"
+" \n"
+"Day\n"
+" \n"
+"Payment\n"
+" \n"
+"Payment Currency\n"
+" \n"
+"Enter currency code and sign ....\n"
+" \n"
+"Code\n"
+" \n"
+"Sign\n"
+" \n"
+"Align\n"
+" \n"
+"Left\n"
+" \n"
+"Right\n"
+" \n"
+"Number Format\n"
+" \n"
+"Format a number with grouped thousands\n"
+" \n"
+"Decimal point\n"
+" \n"
+"Thousand separator\n"
+" \n"
+"Number of decimal points\n"
+" \n"
+"Sets the number of decimal points.\n"
+" \n"
+"Payment Test Mode\n"
+" \n"
+"Enabling this will allow you to test payment without charging your account.\n"
+" \n"
+"Payment Gateways\n"
+" \n"
+"Set payment plans your users can choose when posting new project.\n"
+" \n"
+"Enabling this will allow your users to pay through PayPal\n"
+" \n"
+"Enter your PayPal email address\n"
+" \n"
+"Enabling this will allow your users to pay through 2Checkout\n"
+" \n"
+"2Checkout mode\n"
+" \n"
+"Sid\n"
+" \n"
+"Your 2Checkout Seller ID\n"
+" \n"
+"Secret Key\n"
+" \n"
+"Your 2Checkout Secret Key\n"
+" \n"
+"Enabling this will allow your user to send cash to your bank account.\n"
+" \n"
+"Pump Packages\n"
+" \n"
+"Payments\n"
+" \n"
+"PAYMENTS\n"
+" \n"
+"Overview of all payments\n"
+" \n"
+"Pump Question\n"
+" \n"
+"PUMP QUESTION\n"
+" \n"
+"All settings for pump question\n"
+" \n"
+"The are new features are available on QAEngine version 2.0. Please <a href=\"%s\">run update</a> only one time.\n"
+" \n"
+"Missing Author\n"
+" \n"
+"Thread not found!\n"
+" \n"
+"Category is not existed!\n"
+" \n"
+"Question\n"
+" \n"
+"Add New Question\n"
+" \n"
+"Edit Question\n"
+" \n"
+"View Question\n"
+" \n"
+"Search Questions\n"
+" \n"
+"No questions found\n"
+" \n"
+"No questions found in Trash\n"
+" \n"
+"Question Categories\n"
+" \n"
+"Category\n"
+" \n"
+"Search Categories\n"
+" \n"
+"All Categories\n"
+" \n"
+"Parent Category\n"
+" \n"
+"Parent Category:\n"
+" \n"
+"Edit Category\n"
+" \n"
+"Update Category\n"
+" \n"
+"Add New Category\n"
+" \n"
+"New Category Name\n"
+" \n"
+"Tags\n"
+" \n"
+"Tag\n"
+" \n"
+"Search Tags\n"
+" \n"
+"Popular Tags\n"
+" \n"
+"All Tags\n"
+" \n"
+"Edit Tag\n"
+" \n"
+"Update Tag\n"
+" \n"
+"Add New Tag\n"
+" \n"
+"New Tag Name\n"
+" \n"
+"Separate tags with commas\n"
+" \n"
+"Add or remove tags\n"
+" \n"
+"Choose from the most used tags\n"
+" \n"
+"No tags found.\n"
+" \n"
+"Required Log In\n"
+" \n"
+"You must have %d points to edit question.\n"
+" \n"
+"Category must not empty\n"
+" \n"
+"Permission denied\n"
+" \n"
+"Answer\n"
+" \n"
+"Add New Answer\n"
+" \n"
+"Edit Answer\n"
+" \n"
+"New Answer\n"
+" \n"
+"All Answers\n"
+" \n"
+"View Answer\n"
+" \n"
+"Search Answers\n"
+" \n"
+"No answers found\n"
+" \n"
+"No answers found in Trash\n"
+" \n"
+"You must have %d points to edit answer.\n"
+" \n"
+"Comment(%d)\n"
+" \n"
+"Login Required\n"
+" \n"
+"User Level\n"
+" \n"
+"Are you sure you want to delete this badge?\n"
+" \n"
+"Can't not authenticate user\n"
+" \n"
+"Please login by using your Google plus account again!\n"
+" \n"
+"ASK A QUESTION\n"
+" \n"
+"Latest\n"
+" \n"
+"Votes\n"
+" \n"
+"Unanswered\n"
+" \n"
+"Filter by\n"
+" \n"
+"Filter by category\n"
+" \n"
+"Questions Per Page:\n"
+" \n"
+"Select a Category\n"
+" \n"
+"%s today, %s this week, %s this month.\n"
+" \n"
+"year\n"
+" \n"
+"month\n"
+" \n"
+"day\n"
+" \n"
+"hour\n"
+" \n"
+"minute\n"
+" \n"
+"second\n"
+" \n"
+"You must have %d points to add comment.\n"
+" \n"
+"Add Comment\n"
+" \n"
+"By posting your answer, you agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>\n"
+" \n"
+"By posting your question, you agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>\n"
+" \n"
+"Select Categories\n"
+" \n"
+"Normal\n"
+" \n"
+"You must be <a class=\"login-url\" href=\"%s\" data-toggle=\"modal\">logged in</a> to post a comment.\n"
+" \n"
+"You must be <a class=\"login-url\" href=\"javascript:void(0)\" data-toggle=\"modal\">logged in</a> to post a comment.\n"
+" \n"
+"marked\n"
+" \n"
+"unmarked\n"
+" \n"
+"[%s] Your answer has been marked as the best.\n"
+" \n"
+"[%s] New pending question has been created.\n"
+" \n"
+"[New Answer] Your question %s has a new reply.\n"
+" \n"
+"Confirm this user\n"
+" \n"
+"Password updated successfully!\n"
+" \n"
+"Menu display on Header\n"
+" \n"
+"Menu display on Left Sidebar\n"
+" \n"
+"Left Sidebar\n"
+" \n"
+"Display widgets in left sidebar\n"
+" \n"
+"Right Sidebar\n"
+" \n"
+"Display widgets in right sidebar\n"
+" \n"
+"Header Sidebar\n"
+" \n"
+"Display widgets in header sidebar\n"
+" \n"
+"Blog's Left Sidebar\n"
+" \n"
+"Display widgets in blog's left sidebar\n"
+" \n"
+"Blog's Right Sidebar\n"
+" \n"
+"Display widgets in blog's right sidebar\n"
+" \n"
+"Single Question Sidebar\n"
+" \n"
+"Display widgets in single question sidebar\n"
+" \n"
+"Top Questions Listing Ads Banner Sidebar\n"
+" \n"
+"Display ad banners widgets in top questions listing sidebar\n"
+" \n"
+"Bottom Ads Banner Sidebar\n"
+" \n"
+"Display ad banners widgets in bottom of website\n"
+" \n"
+"Content Question Ad Banner Sidebar\n"
+" \n"
+"Display ad banners widgets in bottom questions listing sidebar\n"
+" \n"
+"Below Answers Listing Ad Banner Sidebar\n"
+" \n"
+"Reports\n"
+" \n"
+"Report\n"
+" \n"
+"Add New Report\n"
+" \n"
+"Edit Report\n"
+" \n"
+"New Report\n"
+" \n"
+"All Reports\n"
+" \n"
+"View Report\n"
+" \n"
+"Search Reports\n"
+" \n"
+"No Reports found\n"
+" \n"
+"No Reports found in Trash\n"
+" \n"
+"Reports taxonomy\n"
+" \n"
+"Report taxonomys\n"
+" \n"
+"Popular Reports\n"
+" \n"
+"Update Report\n"
+" \n"
+"New Report Name\n"
+" \n"
+"Separate Reports with commas\n"
+" \n"
+"Add or remove Reports\n"
+" \n"
+"Choose from the most used Reports\n"
+" \n"
+"No Reports found.\n"
+" \n"
+"Report Information\n"
+" \n"
+"Admin\n"
+" \n"
+"There's a new report\n"
+" \n"
+"Please fill out all fields required.\n"
+" \n"
+"Please enter your user name.\n"
+" \n"
+"Please enter a valid username.\n"
+" \n"
+"Please enter the same password as above.\n"
+" \n"
+"You must accept the terms & privacy.\n"
+" \n"
+"You must be logged in to perform this action.\n"
+" \n"
+"You don't have enought points to perform this action.\n"
+" \n"
+"Create Topic\n"
+" \n"
+"Insert Code\n"
+" \n"
+"No file chosen.\n"
+" \n"
+"Please insert at least one tag.\n"
+" \n"
+"Sign Up\n"
+" \n"
+"Sign In\n"
+" \n"
+"Best answer\n"
+" \n"
+"Forgot Password\n"
+" \n"
+"You have made some changes which you might want to save.\n"
+" \n"
+"You must activate your account first to create questions / answers!.\n"
+" \n"
+"User cancelled login or did not fully authorize.\n"
+" \n"
+"You account has been banned, you can't make this action!\n"
+" \n"
+"You must activate your account first to buy pump package.\n"
+" \n"
+"Uploading...\n"
+" \n"
+"Insert\n"
+" \n"
+"Please enter no more than %s characters\n"
+" \n"
+"Post link\n"
+" \n"
+"Unable to get post link\n"
+" \n"
+"Key is invalid\n"
+" \n"
+"Congratulations, you have advanced to a higher level\n"
+" \n"
+"You have been moved down a level\n"
+" \n"
+"Drag this widget to single sidebars to display a list of related questions.\n"
+" \n"
+"QA Related Questions\n"
+" \n"
+"RELATED QUESTIONS\n"
+" \n"
+"Title:\n"
+" \n"
+"Number of questions to display:\n"
+" \n"
+"Questions base on:\n"
+" \n"
+"There are no related questions!\n"
+" \n"
+"This widget should be placed in Single Question Sidebar\n"
+" \n"
+"Drag this widget to any sidebars to display a list of hot questions.\n"
+" \n"
+"QA Latest Questions / Hot Questions\n"
+" \n"
+"HOT QUESTIONS\n"
+" \n"
+"Latest questions (sort by date)\n"
+" \n"
+"Date range:\n"
+" \n"
+"All days\n"
+" \n"
+"Last 7 days\n"
+" \n"
+"Last 30 days\n"
+" \n"
+"Drag this widget to sidebar to display the statistic of website.\n"
+" \n"
+"QA Statistics\n"
+" \n"
+"STATISTICS WIDGET\n"
+" \n"
+"Drag this widget to sidebar to display the list of tags.\n"
+" \n"
+"QA Tags\n"
+" \n"
+"Tags Widget\n"
+" \n"
+"Number of tag to display:\n"
+" \n"
+"See more tags\n"
+" \n"
+"Drag this widget to sidebar to display the list of top users.\n"
+" \n"
+"QA Top Users\n"
+" \n"
+"TOP USERS\n"
+" \n"
+"Number of users to display:\n"
+" \n"
+"Latest users (sort by date)\n"
+" \n"
+"Order By:\n"
+" \n"
+"%d Question(s)\n"
+" \n"
+"%d Answer(s)\n"
+" \n"
+"%d Point(s)\n"
+" \n"
+"Drag this widget to sidebar to display the list of user's activities.\n"
+" \n"
+"QA Recent Activities\n"
+" \n"
+"Number of activities to display:\n"
+" \n"
+"Drag this widget to any sidebars to display a list of latest answers.\n"
+" \n"
+"QA Latest Answers\n"
+" \n"
+"LATEST ANSWERS\n"
+" \n"
+"By <a href=\"%s\">%s</a> - %s\n"
+" \n"
+"Your site&#8217;s most recent comments.\n"
+" \n"
+"Recent Comments\n"
+" \n"
+"%1$s %2$s on %3$s\n"
+" \n"
+"Number of comments to show:\n"
+" \n"
+"Blog\n"
+" \n"
+"Change Profile\n"
+" \n"
+"Change Password\n"
+" \n"
+"Full name\n"
+" \n"
+"Location\n"
+" \n"
+"Google+\n"
+" \n"
+"admin@local.com\n"
+" \n"
+"Make this email public.\n"
+" \n"
+"Description\n"
+" \n"
+"Old Password\n"
+" \n"
+"New Password\n"
+" \n"
+"Repeat New Password\n"
+" \n"
+"points\n"
+" \n"
+"pump\n"
+" \n"
+"cooldown\n"
+" \n"
+"Enter keyword\n"
+" \n"
+"Please check your mail box to confirm your email address.\n"
+" \n"
+"Resend confirm email.\n"
+" \n"
+"Find a blog\n"
+" \n"
+"No posts yet.\n"
+" \n"
+"Terms & Privacy\n"
+" \n"
+"Ask a Question\n"
+" \n"
+"Create a Poll\n"
+" \n"
+"You must have %d points to add tag. Current, you have to select existing tags.\n"
+" \n"
+"Insert Image\n"
+" \n"
+"Size must be less than < %sMB.\n"
+" \n"
+"Type your comment\n"
+" \n"
+"Sign Out\n"
+" \n"
+"List Categories\n"
+" \n"
+"Badges\n"
+" \n"
+"Points System\n"
+" \n"
+"You earn reputation when people vote on your posts\n"
+" \n"
+"answer is accepted\n"
+" \n"
+"Badges System\n"
+" \n"
+"At the highest levels, you'll have access to special moderation tools. You'll be able to work alongside our community moderators to keep the site focused and helpful.\n"
+" \n"
+"points required\n"
+" \n"
+"You can:\n"
+" \n"
+"Edit other people's questions\n"
+" \n"
+"Edit other people's answers\n"
+" \n"
+"Vote down (costs %s point on answers and questions)\n"
+" \n"
+"Leave comments\n"
+" \n"
+"Vote up\n"
+" \n"
+"Buy Package\n"
+" \n"
+"Categories\n"
+" \n"
+"Find a categories\n"
+" \n"
+"Name\n"
+" \n"
+"Popular\n"
+" \n"
+"Sign in\n"
+" \n"
+"Sign up\n"
+" \n"
+"Remember me\n"
+" \n"
+"Forgot password ?\n"
+" \n"
+"Sign in with:\n"
+" \n"
+"User Name\n"
+" \n"
+"Repeat Password\n"
+" \n"
+"By clicking \"Sign Up\" you indicate that you have read and agree to the\n"
+" \n"
+"Terms of Service.\n"
+" \n"
+"Proccess Payment\n"
+" \n"
+"All Question\n"
+" \n"
+"Reset Password\n"
+" \n"
+"Enter your new password here\n"
+" \n"
+"Reset\n"
+" \n"
+"Search Question\n"
+" \n"
+"No results for keyword:\n"
+" \n"
+"Find a tag\n"
+" \n"
+"Users\n"
+" \n"
+"Find a user\n"
+" \n"
+"No Category\n"
+" \n"
+"Asked by %s %s in\n"
+" \n"
+"Answered\n"
+" \n"
+"Follow\n"
+" \n"
+"Unfollow\n"
+" \n"
+"Share\n"
+" \n"
+"Comment\n"
+" \n"
+"Vote\n"
+" \n"
+"Oldest\n"
+" \n"
+"Result\n"
+" \n"
+"Select multiple answer\n"
+" \n"
+"Select one answer\n"
+" \n"
+"<span class=\"number\">%s</span> Vote\n"
+" \n"
+"<span class=\"number\">%s</span> Votes\n"
+" \n"
+"Login to post answer\n"
+" \n"
+"Login or Register to view and post answer\n"
+" \n"
+"Post answer\n"
+" \n"
+"Size must be less than < %u MB.\n"
+" \n"
+"Type your answer\n"
+" \n"
+"Pages:\n"
+" \n"
+"There are no questions in this category!.\n"
+" \n"
+"Answered by\n"
+" \n"
+"Asked %s in\n"
+" \n"
+"Accepted\n"
+" \n"
+"Touch here to see more %s tags\n"
+" \n"
+"Pending Answer\n"
+" \n"
+"Answered by %s %s.\n"
+" \n"
+"Contact\n"
+" \n"
+"Your message:\n"
+" \n"
+"Got something to say? Type your message here.\n"
+" \n"
+"Send\n"
+" \n"
+"Report\n"
+" \n"
+"Your message\n"
+" \n"
+"%s in\n"
+" \n"
+"READ MORE\n"
+" \n"
+"Vote to close, reopen, or migrate questions\n"
+" \n"
+"Select plan\n"
+" \n"
+"Authencation\n"
+" \n"
+"Select payment method\n"
+" \n"
+"Find Categories\n"
+" \n"
+"Search Questions: <em>%s</em>\n"
+" \n"
+"Find Tags\n"
+" \n"
+"Find Users\n"
+" \n"
+"%d Points\n"
+" \n"
+"No users found.\n"
+" \n"
+"Home\n"
+" \n"
+"Your Answer\n"
+" \n"
+"Delete\n"
+" \n"
+"Select your answer - End in %s\n"
+" \n"
+"Results of this poll\n"
+" \n"
+"(This poll was expired)\n"
+" \n"
+"Answer(s)\n"
+" \n"
+"Active\n"
+" \n"
+"Question Cagtegory: %s\n"
+" \n"
+"Question Tag: %s\n"
+" \n"
+"There are no questions in category \"%s\".\n"
+" \n"
+"View all %s results\n"
+" \n"
+"View all results\n"
+" \n"
+"No results found\n"
+" \n"
+"This answer accepted by\n"
+" \n"
+"Earned %d points.\n"
+" \n"
+"views\n"
+" \n"
+"answers\n"
+" \n"
+"votes\n"
+" \n"
+"Free\n"
+" \n"
+"Don't have an account?\n"
+" \n"
+"Register here\n"
+" \n"
+"Your username\n"
+" \n"
+"Enter your username or email\n"
+" \n"
+"Enter password\n"
+" \n"
+"Enter your password\n"
+" \n"
+"Enter your username\n"
+" \n"
+"Your email\n"
+" \n"
+"Enter your email\n"
+" \n"
+"Your password\n"
+" \n"
+"Retype password\n"
+" \n"
+"By clicking \"Sign up\" you indicate that you have read and agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>\n"
+" \n"
+"Answered %s.\n"
+" \n"
+"You must have %d points to vote up.\n"
+" \n"
+"You must have %d points to vote down.\n"
+" \n"
+"This is useful.\n"
+" \n"
+"This is not useful\n"
+" \n"
+"Mark as best answer\n"
+" \n"
+"Username or Email\n"
+" \n"
+"Forgot password\n"
+" \n"
+"Sign up here\n"
+" \n"
+"or sign in with\n"
+" \n"
+"Retype Password\n"
+" \n"
+"Enter your email here\n"
+" \n"
+"Edit Profile\n"
+" \n"
+"Upload New Avatar\n"
+" \n"
+"About me\n"
+" \n"
+"Update Profile\n"
+" \n"
+"Tag (max 5 tags)\n"
+" \n"
+"Press enter to add new tag\n"
+" \n"
+"SUBMIT QUESTION\n"
+" \n"
+"More answers\n"
+" \n"
+"You can create up to %s answer(s).\n"
+" \n"
+"Multichoice\n"
+" \n"
+"SUBMIT A QUESTION\n"
+" \n"
+"Insert Images\n"
+" \n"
+"Upload an image\n"
+" \n"
+"Please log in to use this function.\n"
+" \n"
+"Admin has disabled this function.\n"
+" \n"
+"Add an image via URL\n"
+" \n"
+"Alt text\n"
+" \n"
+"Your payment has failed, friend.\n"
+" \n"
+"You could <a href=\"%s\">buy more pumps to continue</a> or <a href=\"%s\">return home</a>.\n"
+" \n"
+"Your payment has been successful. Thank you!\n"
+" \n"
+"You have successfully purchased the package: %s\n"
+" \n"
+"Your payment has been sent successfully but is currently set as 'pending' by %s. <br/>You will be notified when your listing is approved.\n"
+" \n"
+"%s\n"
+" \n"
+"click <a href=\"%s\">here</a> to see you pump package.\n"
+" \n"
+"Pending Question\n"
+" \n"
+"Digit"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/twitter.php:91
+msgid "Conection with twitter Failed"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/social/twitter.php:97
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/social_auth.php:377
+msgid "Error Receiving Request Token"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/template-js/add-pack-form.php:7
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/aecore/template/add-pack-form.php:4
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/section-badges.php:80
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/section-badges.php:120
+msgid "Enter a name for your badge"
+msgstr ""
+
+msgid "Point"
+msgstr "Poin"
+
+msgid "Color"
+msgstr "Warna"
+
+msgid "Load more"
+msgstr "Muat lebih banyak"
+
+msgid "Add badge"
+msgstr "Tambahkan lencana"
+
+msgid "Approve"
+msgstr "Setuju"
+
+msgid "Decline"
+msgstr "Tolak"
+
+msgid "Pending"
+msgstr "Tunggu"
+
+msgid "Confirmed"
+msgstr "Konfirmasi"
+
+msgid "Failed"
+msgstr "Gagal"
+
+msgid " by "
+msgstr "oleh"
+
+msgid "This post has been deleted by %s"
+msgstr "Post ini telah dihapus oleh %s"
+
+msgid "%d points"
+msgstr "%d poin"
+
+msgid "Comments"
+msgstr "Komentar"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Got error, please contact site administrator"
+msgstr "Menemukan error, mohon kontak admin dari website"
+
+msgid "Pack"
+msgstr "Paket"
+
+msgid "Add New"
+msgstr "Tambahkan"
+
+msgid "Add New Pack"
+msgstr "Tambahkan Paket Baru"
+
+msgid "Edit Pack"
+msgstr "Ubah Paket"
+
+msgid "New Pack"
+msgstr "Paket Baru"
+
+msgid "All Packs"
+msgstr "Semua Paket"
+
+msgid "View Pack"
+msgstr "Lihat Paket"
+
+msgid "Search Packs"
+msgstr "Cari Paket"
+
+msgid "No Pack found"
+msgstr "Tidak Ada Pack Ditemukan"
+
+msgid "NoPacks found in Trash"
+msgstr "Tidak Ada Pack didalam Keranjang Sampah"
+
+msgid "Packs"
+msgstr "Paket"
+
+msgid "Vote up a question/answer"
+msgstr "Setujui sebuah pertanyaan/jawaban"
+
+msgid "Leave comments on other people's posts"
+msgstr "Tinggalkan komentar pada post orang lain"
+
+msgid "Vote down a question/answer"
+msgstr "Tolak sebuah pertanyaan/jawaban"
+
+msgid "Add new tags to the site"
+msgstr "Tambahkan tag baru ke situs ini"
+
+msgid "Edit any question"
+msgstr "Ubah pertanyaan mana saja"
+
+msgid "Edit any answer"
+msgstr "Ubah jawaban mana saja"
+
+msgid "Approve any answer"
+msgstr "Approve jawaban mana saja"
+
+msgid "change log"
+msgstr "log perubahan"
+
+msgid "Add New log"
+msgstr "Tambahkan log Baru"
+
+msgid "Edit log"
+msgstr "Ubah log"
+
+msgid "New change log"
+msgstr "Log perubahan baru"
+
+msgid "All change logs"
+msgstr "Semua log perubahan"
+
+msgid "View change log"
+msgstr "Lihat log perubahan"
+
+msgid "Search change logs"
+msgstr "Cari log perubahan"
+
+msgid "No change log found"
+msgstr "Tidak ditemukan log perubahan"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/changelog.php:20
+msgid "Nochange logs found in Trash"
+msgstr ""
+
+msgid "change logs"
+msgstr "log perubahan"
+
+msgid "Your question \"%s\" was voted up, earned %d points"
+msgstr "Pertanyaan anda \"%s\" telah divoted up(setujui), menghasilkan %d poin"
+
+msgid "Your answer on question \"%s\" was voted up, earned %d points"
+msgstr "Jawaban anda pada pertanyaan \"%s\" telah divoted up(setujui), menghasilkan %d poin"
+
+msgid "Your question \"%s\" was voted down, earned %d points"
+msgstr "Pertanyaan anda \"%s\" telah divoted down(tolak), menghasilkan %d poin"
+
+msgid "Your answer on question \"%s\" was voted down, earned %d points"
+msgstr "Jawaban anda pada pertanyaan\"%s\" telah divoted down(tolak), menghasilkan %d poin"
+
+msgid "Your question \"%s\" was unvoted, return %d points"
+msgstr "Pertanyaan anda \"%s\" tidak diberi penilaian, mengembalikan %d poin"
+
+msgid "Your answer on question \"%s\" was unvoted, return %d points"
+msgstr "Pertanyaan anda \"%s\" tidak diberi penilaian, mengembalikan %d poin"
+
+msgid "Your answer on question \"%s\" was marked best answer, gain %d points"
+msgstr "Jawaban anda pada pertanyaan \"%s\" telah ditandai sebagai jawaban terbaik, menaikkan %d poin"
+
+msgid "Your best answer on question \"%s\" was undo, gain %d points"
+msgstr "Jawaban terbaik anda pada pertanyaan \"%s\" telah dilepas, menghasilkan %d poin"
+
+msgid "You answered on question \"%s\""
+msgstr "Anda menjawab pada pertanyaan \"%s\""
+
+msgid "Your posted a question \"%s\" "
+msgstr "Anda membuat sebuah pertanyaan \"%s\""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/changelog.php:368
+#, php-format
+msgid "You question on question \"%s\" was edited"
+msgstr ""
+
+msgid "Your answer on question \"%s was edited\""
+msgstr "Jawaban anda pada pertanyaan \"%s telah diubah\""
+
+msgid "This is default text."
+msgstr "Ini adalah text default."
+
+msgid "Your answer on question %s was voted up."
+msgstr "Jawaban anda pada pertanyaan %s telah divote up(setujui)."
+
+msgid "You voted up an answer on question %s."
+msgstr "Anda memvote up(menyetujui) sebuah jawaban pada pertanyaan %s."
+
+msgid "Your answer on question %s was voted down."
+msgstr "Jawaban anda pada pertanyaan %s telah divote down(ditolak)."
+
+msgid "Your voted down an answer on question %s."
+msgstr "Anda memvote down(menolak) sebuah jawaban pada pertanyaan %s."
+
+msgid "Your question %s was voted up."
+msgstr "Pertanyaan anda pada %s telah divote up(setujui)."
+
+msgid "You voted up question %s."
+msgstr "Anda memvote up(menyetujui) pertanyaan %s."
+
+msgid "Your question %s was voted down."
+msgstr "Pertanyaan anda %s telah divote down(ditolak)."
+
+msgid "You voted down question %s."
+msgstr "Anda memvote down(menolak) pertanyaan %s."
+
+msgid "You asked %s."
+msgstr "Anda bertanya %s."
+
+msgid "Your question %s was edited."
+msgstr "Pertanyaan anda %s telah diubah."
+
+msgid "You edited question %s."
+msgstr "Anda mengubah pertanyaan %s."
+
+msgid "You answered question %s."
+msgstr "Anda menjawab pertanyaan %s."
+
+msgid "Your answer on question %s was edited."
+msgstr "Jawaban anda pada pertanyaan %s telah diubah"
+
+msgid "You edited answer on question %s."
+msgstr "Anda mengubah jawaban pada pertanyaan %s."
+
+msgid "Your question %s was unvoted."
+msgstr "Pertanyaan anda %s tidak direspon(unvote)."
+
+msgid "You unvoted question %s."
+msgstr "Anda tidak memberi respon kembali (unvoted) pada pertanyaan %s."
+
+msgid "Your answer on question %s was unvoted."
+msgstr "Jawaban anda pada pertanyaan %s tidak direspon kembali (unvoted)"
+
+msgid "Your unvoted an answer on question %s."
+msgstr "Anda tidak respon kembali (unvoted) sebuah jawaban pada pertanyaan %s."
+
+msgid "Your answer on question %s was marked as the accepted answer."
+msgstr "Jawaban anda pada pertanyaan %w ditandai sebagai jawaban yang diterima."
+
+msgid "You marked question %s was answered."
+msgstr "Anda menandai pertanyaan %s menjadi terjawab."
+
+msgid "Your best answer on question %s was unaccepted."
+msgstr "Jawaban anda pada pertanyaan %s tidak disetujui"
+
+msgid "You changed the best answer on question %s."
+msgstr "Anda mengubah jawaban terbaik pada pertanyaan %s"
+
+msgid "QA Options"
+msgstr "Pilihan QA"
+
+msgid "Allows you to customize some example settings for QAEngine."
+msgstr "Mengijinkan anda untuk menyesuaikan contoh pengaturan pada QAEngine"
+
+msgid "Link Color"
+msgstr "Warna Link"
+
+msgid "Main Action Color"
+msgstr "Warna Aksi Utama"
+
+msgid "Sidebar Background Color"
+msgstr "Warna Background Sidebar"
+
+msgid "Header Background Color"
+msgstr "Warna Header Background "
+
+msgid "Header Menus Background Color"
+msgstr "Warna Background Menu Header"
+
+msgid "You need to verify your account to view the content."
+msgstr "Anda butuh memverifikasi akun anda untuk melihat isinya."
+
+msgid "Congratulations! Your account has been confirmed successfully."
+msgstr "Selamat! Akun anda telah berhasil dikonfirmasi."
+
+msgid "You must log in to post question."
+msgstr "Anda harus login untuk membuat pertanyaan."
+
+msgid "Post title should not contain any HTML Tag."
+msgstr "Judul post tidak akan mengandung setiap tag HTML"
+
+msgid "You don't have enough point to add a comment."
+msgstr "Anda tidak memilki poin yang cukup untuk menambahkan sebuah komentar"
+
+msgid "An error occur when created comment."
+msgstr "Eror terjadi ketika membuat komentar"
+
+msgid "Comment has been created successfully."
+msgstr "Komentar berhasil dibuat"
+
+msgid "An error occur when created answer."
+msgstr "Eror terjadi ketika membuat jawaban"
+
+msgid "Your answer has been created successfully and need to be approved by Admin before displayed!"
+msgstr "Jawaban anda sukses dibuat dan membutuhkan persetujuan dari admin sebelum ditampilkan!"
+
+msgid "Answer has been created successfully."
+msgstr "Jawaban sukses dibuat."
+
+msgid "Your question has recieved a new answer"
+msgstr "Pertanyaan anda telah menerima sebuah jawaban baru"
+
+msgid "Your question has been created successfully. It'll appear right after being approved by admin."
+msgstr "Pertanyaan anda berhasil dibuat. Itu akan ditampilkan setelah disetujui oleh admin."
+
+msgid "Question has been created successfully."
+msgstr "Pertanyaan berhasil dibuat."
+
+msgid "An error occur when created question."
+msgstr "Eror terjadi ketika membuat pertanyaan."
+
+msgid "Invalid action"
+msgstr "Aksi tidak valid"
+
+msgid "You don't have enough point to vote up."
+msgstr "Anda tidak memiliki poin yang cukup untuk memvote up(menyetujui)."
+
+msgid "You don't have enough point to vote down."
+msgstr "Anda tidak memiliki poin yang cukup untuk memvote down(menolak)."
+
+msgid "You don't have enough point to approve answer."
+msgstr "Anda tidak memiliki poin yang cukup untuk menyetujui jawaban."
+
+msgid "Only author has right to change the best answer."
+msgstr "Hanya author yang dapat mengubah jawaban yang terbaik."
+
+msgid "Question has been saved successfully."
+msgstr "Pertanyaan berhasil disimpan."
+
+msgid "New Question"
+msgstr "Pertanyaan baru"
+
+msgid "There's a new post, why don't you give a look at"
+msgstr "Terdapat post baru, silahkan anda lihat"
+
+msgid "You've just successfully approved a question."
+msgstr "Anda berhasil menyetujui sebuah pertanyaan."
+
+msgid "You've just successfully approved an answer."
+msgstr "Anda berhasil menyetujui sebuah jawaban."
+
+msgid "Login required"
+msgstr "Perlu masuk"
+
+msgid "Error occurred"
+msgstr "Terjadi error"
+
+msgid "You have started following this question."
+msgstr "Anda telah memulai mengikuti pertanyaan ini."
+
+msgid "You have stopped following this question."
+msgstr "Anda telah berhenti mengikuti pertanyaan ini."
+
+msgid "Invalid post"
+msgstr "Post tidak valid"
+
+msgid "You have reported successfully"
+msgstr "Anda telah berhasil melapor"
+
+msgid "Error when reported!"
+msgstr "Terjadi eror saat melaporkan"
+
+msgid "Image file size is too big.Size must be less than < %sMB."
+msgstr "Ukuran gambar file terlalu besar. Ukuran harus lebih lebih kecil dari < %sMB"
+
+msgid "The file was uploaded successfully"
+msgstr "File berhasil diupload"
+
+msgid "Comment deleted successfully!"
+msgstr "Komentar berhasil dihapus"
+
+msgid "Answer deleted successfully!"
+msgstr "Jawaban berhasil dihapus!"
+
+msgid "Question deleted successfully!"
+msgstr "Pertanyaan berhasil dihapus!"
+
+msgid "An error occur when created sign up"
+msgstr "Terjadi eror ketika melakukan pendaftaran (sign up)"
+
+msgid "Member not found"
+msgstr "Anggota tidak ditemukan"
+
+msgid "Your account has been deleted successfully."
+msgstr "Akun anda berhasil di hapus"
+
+msgid "Your profile has been updated!"
+msgstr "Profil anda telah di update"
+
+msgid "This email is already used. Please enter another email!"
+msgstr "Email ini sudah digunakan. Silahkan masukkan email yang lain"
+
+msgid "Please enter all required information to reset your password."
+msgstr "Silahkan masukkan informasi yang dibutuhkan untuk merest password anda"
+
+msgid "Confirmed password does not matched"
+msgstr "Konfirmasi password tidak cocok"
+
+msgid "Old password is not correct."
+msgstr "Password yang lama tidak tepat"
+
+msgid "Your new password cannot be empty."
+msgstr "Password baru anda tidak bisa kosong"
+
+msgid "Your password was changed! Please login again!"
+msgstr "Password anda di ubah! Silhkan masuk kembali!"
+
+msgid "Your login information was incorrect. Please try again."
+msgstr "Informasi masuk anda tidak benar. Silahkan coba kembali."
+
+msgid "Your account has been banned. Reason \"%s\". Expired on \"%s\"."
+msgstr "Akun anda dilarang. Alasannya \"%s\". Berlaku sampai \"%s\"."
+
+msgid "You have logged out"
+msgstr "Anda telah keluar"
+
+msgid "Missing user data"
+msgstr "Kesalahan data pengguna"
+
+msgid "User logo has been uploaded successfully!"
+msgstr "Logo pengguna telah berhasil diupload!"
+
+msgid "Problem occurred while updating user field"
+msgstr "Masalah terjadi selama mengupdate bagian pengguna"
+
+msgid "You have registered an account successfully but are not able to join the discussions yet. Please confirm your email address first."
+msgstr "Anda telah berhasil mendaftar sebuah akun namun belum bisa melakukan diskusi. Silahkan konfirmasi alamat email anda."
+
+msgid "You are registered and logged in successfully."
+msgstr "Anda berhasil masuk dan mendaftar."
+
+msgid "<strong>ERROR</strong>: Enter username or email address."
+msgstr "<strong>Eror</strong>: Masukkan username atau alamat email"
+
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>Eror</strong> : Tidak ada pengguna mendaftar dengan alamat email ini."
+
+msgid "Please check your email inbox to reset password."
+msgstr "Silahkan periksa inbox di email anda untuk mereset password."
+
+msgid "This user is not found."
+msgstr "Pengguna tidak ditemukan."
+
+msgid "Invalid Key"
+msgstr "Key tidak valid"
+
+msgid "Your password has been changed. Please log in again."
+msgstr "Password anda telah diubah. Silahkan login kembali."
+
+msgid "You don't have permission"
+msgstr "Anda tidak memilki izin"
+
+msgid "Required user ID."
+msgstr "Dibutuhkan ID pengguna"
+
+msgid "User has been confirmed"
+msgstr "Pengguna telah dikonfirmasi"
+
+msgid "No result found"
+msgstr "Tidak ditemukan hasil"
+
+msgid "You have recieved a confirmation email from %s."
+msgstr "Anda telah menerima sebuah konfirmasi email dari %s."
+
+msgid "Successfully resend the confirmation email."
+msgstr "Sukses mengirim kembali konfirmasi email."
+
+msgid "Your account has been activated."
+msgstr "Akun anda telah diaktifkan."
+
+msgid "New Private Message From "
+msgstr "Pesan Pribadi Baru Dari"
+
+msgid "Email sending failed."
+msgstr "Gagal mengirim email."
+
+msgid "Message was sent successfully."
+msgstr "Pesan berhasil dikirim."
+
+msgid "User has been banned"
+msgstr "Pengguna telah dilarang"
+
+msgid "User has been unbanned"
+msgstr "Pengguna tidak dilarang"
+
+msgid "This email address was not found."
+msgstr "Alamat email ini tidak ditemukan."
+
+msgid "Username is invalid"
+msgstr "Username tidak valid"
+
+msgid "Invalid key"
+msgstr "Key tidak valid"
+
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr "<strong>Eror</strong>: Username atau alamat email tidak valid"
+
+msgid "There is a request to reset the password for the following account:"
+msgstr "Terdapat permintaan untuk mereset password untuk akun berikut:"
+
+msgid "Username: %s"
+msgstr "Username :%s"
+
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Jika ini adalah sebuah kesalahan, cukup abaika email ini dan tidak akan terjadi apa-apa."
+
+msgid "To reset your password, visit the following link:"
+msgstr "Untuk mereset password anda, kunjungi link berikut:"
+
+msgid "The email could not be sent."
+msgstr "Email ini tidak dapat dikirim."
+
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Alasan yang mungkin: host anda mungkin tidak dapat menjalankan fungsi mail()..."
+
+msgid "Please fill in all required fields."
+msgstr "Mohon isi bagian yang dibutuhkan."
+
+msgid "Not authorized."
+msgstr "Tidak terauthorisasi."
+
+msgid "Invalid date format. It should be dd/mm/yyyy"
+msgstr "Format tanggal tidak valid. Seharusnnya dd/mm/yyyy"
+
+msgid "Please add at lease 2 answers for this poll."
+msgstr "Mohon tambahkan setidaknya 2 jawaban untuk poll ini."
+
+msgid "You poll has been created successfully!"
+msgstr "Poll anda telah sukses dibuat!"
+
+msgid "You poll has been saved successfully!"
+msgstr "Pol anda telah sukses disimpan!"
+
+msgid "Invalid poll!"
+msgstr "Poll tidak valid!"
+
+msgid "Please choose the answer!"
+msgstr "Mohon pilih jawabannya!"
+
+msgid "This poll was expired!"
+msgstr "Poll ini telah kadaluarsa!"
+
+msgid "You have already voted for this poll."
+msgstr "Anda telah memberikan vote pada poll ini."
+
+msgid "Your IP has been used to vote."
+msgstr "IP anda telah digunakan untuk memvote."
+
+msgid "Your answer has been voted."
+msgstr "Jawaban anda telah divote."
+
+msgid "Poll Questions"
+msgstr "Pertanyaan Poll"
+
+msgid "Poll Question"
+msgstr "Pertanyaan Poll"
+
+msgid "Add new"
+msgstr "Tambahkan baru"
+
+msgid "Edit poll question"
+msgstr "Ubah pertanyaan poll"
+
+msgid "New poll question"
+msgstr "Pertanyaan poll baru"
+
+msgid "View poll question"
+msgstr "Lihat pertanyaan poll"
+
+msgid "Search poll questions"
+msgstr "Cari pertanyaan poll"
+
+msgid "No poll questions found"
+msgstr "Tidak ada pertanyaan poll yang ditemukan"
+
+msgid "No poll questions found in Trash"
+msgstr "Tidak ada pertanyaan poll ditemukan dalam keranjang sampah"
+
+msgid "Parent poll question:"
+msgstr "Induk pertanyaan poll:"
+
+msgid "Poll Answers"
+msgstr "Jawaban Poll"
+
+msgid "Poll Answer"
+msgstr "Jawaban Poll"
+
+msgid "Edit poll answer"
+msgstr "Ubah jawaban poll"
+
+msgid "New poll answer"
+msgstr "Jawaban poll baru"
+
+msgid "View poll answer"
+msgstr "Lihat jawaban poll"
+
+msgid "Search poll answers"
+msgstr "Cari jawaban poll"
+
+msgid "No poll answers found"
+msgstr "Tidak ada jawaban poll ditemukan"
+
+msgid "No poll answers found in Trash"
+msgstr "Tidak ada jawaban poll yang ditemukan di Keranjang Sampah"
+
+msgid "Parent poll answer:"
+msgstr "Induk jawaban poll"
+
+msgid "Poll Maker"
+msgstr "Pembuat Poll"
+
+msgid "Enabling this feature will allow users to create polls on your site."
+msgstr "Mngaktifkan fitur ini akan memperbolehkan pengguna untuk membuat poll di situs anda."
+
+msgid "Maximum poll answers"
+msgstr "Jawaban maksimal poll"
+
+msgid "Set maximum number of anwers for a poll. Default is 5"
+msgstr "Atur jumlah jawaban maximum untuk sebuah poll. Defaultnya adalah 5"
+
+msgid "Max answer number of a poll"
+msgstr "Jumlah jawaban maksimal untuk sebuah poll"
+
+msgid "e.g. 5"
+msgstr "cth. 5"
+
+msgid "Check user voted by"
+msgstr "Cek pengguna vote dengan"
+
+msgid "Check user who has already voted by IP or Cookie. Default is IP"
+msgstr "Cek pengguna yang telah memvote berdasarkan IP atau Cookie. Defaultnya adalah IP"
+
+msgid "user voted"
+msgstr "pengguna vote"
+
+msgid "Select chart"
+msgstr "Pilih chart"
+
+msgid "Select the chart that you want to show the result of poll answers"
+msgstr "Pilih chart yang anda inginkan untuk ditampilkan sebagai hasil dari jawaban poll"
+
+msgid "chart type"
+msgstr "tipe chart"
+
+msgid "Poll"
+msgstr "Poll"
+
+msgid "POLL"
+msgstr "POLL"
+
+msgid "All settings for poll"
+msgstr "Semua pengaturan untuk poll"
+
+msgid "Submit answer"
+msgstr "Submit jawaban"
+
+msgid "By submit your answer, you agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>"
+msgstr "Dengan menyubmit jawaban anda, anda setuju dengan a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a> "
+
+msgid "Your Question"
+msgstr "Judul Pertanyaan Anda"
+
+msgid "Select Category"
+msgstr "Pilih Kategori"
+
+msgid "Your Description"
+msgstr "Deskripsi Anda"
+
+msgid "Your answer"
+msgstr "Jawaban anda"
+
+msgid "More answer"
+msgstr "Jawaban lebih"
+
+msgid "You can create %s answer(s)."
+msgstr "And dapat membuat %s jawaban."
+
+msgid "Tag(max 5 tags)"
+msgstr "Tag(max 5 tag)"
+
+msgid "End day"
+msgstr "Hari berakhir"
+
+msgid "Multi time"
+msgstr "Multi time"
+
+msgid "Multi choice"
+msgstr "Pilihan berganda"
+
+msgid "Ask a Poll"
+msgstr "Tanyakan sebuah Poll"
+
+msgid "Add comment"
+msgstr "Tambahkan komentar"
+
+msgid "You can only create %s answers."
+msgstr "Anda hanya dapat membuat %s jawaban."
+
+msgid "Your question has been pumped."
+msgstr "Jawaban anda telah dipump."
+
+msgid "Please wait in %s"
+msgstr "Mohon tunggu dalam %s"
+
+msgid "You are not the author of this question."
+msgstr "Anda bukan penulis dari pertanyaan ini."
+
+msgid "Finish your update."
+msgstr "Selesaikan update anda."
+
+msgid "Only administrator can run the update."
+msgstr "Hanya admin yang dapat menjalankan update."
+
+msgid "%s for %d pumps"
+msgstr "%s untuk %d pump"
+
+msgid "Set up the database for pumping"
+msgstr "Menyetel database untuk pump"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:31
+msgid "The new feature Pump Question is available on QAEngine from version 2.0. Run the update <strong>only one time and you have it for forever</strong>."
+msgstr ""
+
+msgid "set up the database"
+msgstr "menyetel database"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:40
+msgid "Update Database"
+msgstr ""
+
+msgid "Pump Action"
+msgstr "Aksi Pump"
+
+msgid "Enabling this feature will allow users to pump on your site."
+msgstr "Mengaktifkan fitur ini akan memperbolehkan pengguna untuk mempump di situs anda"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:68
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:78
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:99
+msgid "Time delay for free pump"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:71
+msgid "Set up the time delay for free pump"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:80
+msgid "e.g. 60"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:89
+msgid "Time delay for premium pump"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:92
+msgid "Set up the time delay for premium pump"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:101
+msgid "e.g. 2"
+msgstr ""
+
+msgid "Time format"
+msgstr "Format waktu"
+
+msgid "Select the format for time delay. Default is second."
+msgstr "Pilih format untuk time delay. "
+
+msgid "time format"
+msgstr "format waktu"
+
+msgid "Second"
+msgstr "Detik"
+
+msgid "Minute"
+msgstr "Menit"
+
+msgid "Hour"
+msgstr "Jam"
+
+msgid "Day"
+msgstr "Hari"
+
+msgid "Payment"
+msgstr "Pembayaran"
+
+msgid "Payment Currency"
+msgstr "Mata Uang Pembayaran"
+
+msgid "Enter currency code and sign ...."
+msgstr "Masukkan kode mata uang dan sign ..."
+
+msgid "Code"
+msgstr "Kode"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:166
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:168
+msgid "Sign"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:174
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:241
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:276
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:283
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:339
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:346
+msgid "Align"
+msgstr ""
+
+msgid "Left"
+msgstr "Kiri"
+
+msgid "Right"
+msgstr "Kanan"
+
+msgid "Number Format"
+msgstr "Format Nomor"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:190
+msgid "Format a number with grouped thousands"
+msgstr ""
+
+msgid "Decimal point"
+msgstr "Poin desimal"
+
+msgid "Thousand separator"
+msgstr "Pemisah ribuan"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:215
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:216
+msgid "Number of decimal points"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:218
+msgid "Sets the number of decimal points."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:228
+msgid "Payment Test Mode"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:231
+msgid "Enabling this will allow you to test payment without charging your account."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:252
+msgid "Payment Gateways"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:255
+msgid "Set payment plans your users can choose when posting new project."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:268
+msgid "Enabling this will allow your users to pay through PayPal"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:286
+msgid "Enter your PayPal email address"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:296
+msgid "Enabling this will allow your users to pay through 2Checkout"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:304
+msgid "2Checkout mode"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:311
+msgid "Sid"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:314
+msgid "Your 2Checkout Seller ID"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:319
+msgid "Secret Key"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:322
+msgid "Your 2Checkout Secret Key"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pump_settings.php:331
+msgid "Enabling this will allow your user to send cash to your bank account."
+msgstr ""
+
+msgid "Pump Packages"
+msgstr "Paket Pump"
+
+msgid "Payments"
+msgstr "Pembayaran"
+
+msgid "PAYMENTS"
+msgstr "PEMBAYARAN"
+
+msgid "Overview of all payments"
+msgstr "Overview semua pembayaran"
+
+msgid "Pump Question"
+msgstr "Pump Pertanyaan"
+
+msgid "PUMP QUESTION"
+msgstr "PUMP PERTANYAAN"
+
+msgid "All settings for pump question"
+msgstr "Semua pengaturan untuk pump pertanyaan"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/pumping/pumping.php:247
+#, php-format
+msgid "The are new features are available on QAEngine version 2.0. Please <a href=\"%s\">run update</a> only one time."
+msgstr ""
+
+msgid "Missing Author"
+msgstr "Kesalahan Penulis"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/questions.php:98
+msgid "Thread not found!"
+msgstr ""
+
+msgid "Category is not existed!"
+msgstr "Kategori tidak ada!"
+
+msgid "Question"
+msgstr "Pertanyaan"
+
+msgid "Add New Question"
+msgstr "Tambahkan Pertanyaan Baru"
+
+msgid "Edit Question"
+msgstr "Ubah Pertanyaan"
+
+msgid "View Question"
+msgstr "Lihat Pertanyaan"
+
+msgid "Search Questions"
+msgstr "Cari Pertanyaan"
+
+msgid "No questions found"
+msgstr "Tidak ada pertanyaan yang ditemukan"
+
+msgid "No questions found in Trash"
+msgstr "Tidak ada pertanyaan yang ditemukan di Keranjang Sampah"
+
+msgid "Question Categories"
+msgstr "Kategori Pertanyaan"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Search Categories"
+msgstr "Cari Kategori"
+
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+msgid "Parent Category"
+msgstr "Kategori Induk"
+
+msgid "Parent Category:"
+msgstr "Kategori Induk:"
+
+msgid "Edit Category"
+msgstr "Ubah Kategori"
+
+msgid "Update Category"
+msgstr "Update Kategori"
+
+msgid "Add New Category"
+msgstr "Tambahkan Kategori Baru"
+
+msgid "New Category Name"
+msgstr "Nama Kategori Baru"
+
+msgid "Tags"
+msgstr "Tag"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Search Tags"
+msgstr "Cari Tag"
+
+msgid "Popular Tags"
+msgstr "Tag Populer"
+
+msgid "All Tags"
+msgstr "Semua Tag"
+
+msgid "Edit Tag"
+msgstr "Ubah Tag"
+
+msgid "Update Tag"
+msgstr "Update Tag"
+
+msgid "Add New Tag"
+msgstr "Tambahkan Tag Baru"
+
+msgid "New Tag Name"
+msgstr "Nama Tag Baru"
+
+msgid "Separate tags with commas"
+msgstr "Pisahkan tag dengan koma"
+
+msgid "Add or remove tags"
+msgstr "Tambahkan atau hapus tag"
+
+msgid "Choose from the most used tags"
+msgstr "Pilih berdasarkan tag yang paling sering digunakan"
+
+msgid "No tags found."
+msgstr "Tidak ada tag yang ditemukan."
+
+msgid "Required Log In"
+msgstr "Dibutuhkan Untuk Masuk"
+
+msgid "You must have %d points to edit question."
+msgstr "Anda harus memiliki %d poin untuk mengubah pertanyaan."
+
+msgid "Category must not empty"
+msgstr "Kategori tidak boleh kosong"
+
+msgid "Permission denied"
+msgstr "Izin ditolak"
+
+msgid "Answer"
+msgstr "Jawaban"
+
+msgid "Add New Answer"
+msgstr "Tambahkan Jawaban Baru"
+
+msgid "Edit Answer"
+msgstr "Ubah Jawaban"
+
+msgid "New Answer"
+msgstr "Jawaban Baru"
+
+msgid "All Answers"
+msgstr "Semua Jawaban"
+
+msgid "View Answer"
+msgstr "Lihat Jawaban"
+
+msgid "Search Answers"
+msgstr "Cari Jawaban"
+
+msgid "No answers found"
+msgstr "Jawaban tidak ditemukan"
+
+msgid "No answers found in Trash"
+msgstr "Jawaban tidak ditemukan di Keranjang Sampah"
+
+msgid "You must have %d points to edit answer."
+msgstr "Anda harus memiliki d% poin untuk mengubah jawaban."
+
+msgid "Comment(%d) "
+msgstr "Komentar(%d)"
+
+msgid "Login Required"
+msgstr "Masuk Terlebuh Dahulu"
+
+msgid "User Level"
+msgstr "Level Pengguna"
+
+msgid "Are you sure you want to delete this badge?"
+msgstr "Apakah Anda yakin untuk menghapus lencana ini?"
+
+msgid "Can't not authenticate user"
+msgstr "User tidak dikenali"
+
+msgid "Please login by using your Google plus account again!"
+msgstr "Mohon login kembali dengan akun Google plus anda!"
+
+msgid "ASK A QUESTION"
+msgstr "BUAT PERTANYAAN"
+
+msgid "Latest"
+msgstr "Terakhir"
+
+msgid "Votes"
+msgstr "Vote"
+
+msgid "Unanswered"
+msgstr "Belum terjawab"
+
+msgid "Filter by"
+msgstr "Lihat berdasarkan"
+
+msgid "Filter by category"
+msgstr "Filter berdasakan kategori"
+
+msgid "Questions Per Page: "
+msgstr "Pertanyaan Per Halaman"
+
+msgid "Select a Category"
+msgstr "Pilih Kategori"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/template.php:692
+#, php-format
+msgid "%s today, %s this week, %s this month."
+msgstr ""
+
+msgid "year"
+msgstr "tahun"
+
+msgid "month"
+msgstr "bulan"
+
+msgid "day"
+msgstr "hari"
+
+msgid "hour"
+msgstr "jam"
+
+msgid "minute"
+msgstr "menit"
+
+msgid "second"
+msgstr "detik"
+
+msgid "You must have %d points to add comment."
+msgstr "Anda harus memiliki %d poin untuk menambah komentar."
+
+msgid "Add Comment"
+msgstr "Berikan Komentar"
+
+msgid "By posting your answer, you agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>"
+msgstr "Dengan mempublikasikan jawaban, Anda setuju <a target=\"_blank\" href=\"%s\">Kebijakan Privasi</a> and <a target=\"_blank\" href=\"%s\">Syarat dan Ketentuan</a>"
+
+msgid "By posting your question, you agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>"
+msgstr "Dengan mempublikasikan pertanyaan, Anda setuju <a target=\"_blank\" href=\"%s\">Kebijakan Privasi</a> and <a target=\"_blank\" href=\"%s\"> Syarat dan Ketentuan.</a>"
+
+msgid "Select Categories"
+msgstr "Pilih Kategori"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "You must be <a class=\"login-url\" href=\"%s\" data-toggle=\"modal\">logged in</a> to post a comment."
+msgstr "Anda harus <a class=\"login-url\" href=\"%s\" data toggle=\"modal\"> masuk </a> terlebih dahulu untuk memberikan komentar."
+
+msgid "You must be <a class=\"login-url\" href=\"javascript:void(0)\" data-toggle=\"modal\">logged in</a> to post a comment."
+msgstr "Anda harus <a class=\"login-url\" href=\"javascript:void(0)\" data-toggle=\"modal\">masuk </a>terlebih dahulu untuk memberikan komentar"
+
+msgid "marked"
+msgstr "tandai"
+
+msgid "unmarked"
+msgstr "batal tandai"
+
+msgid "[%s] Your answer has been marked as the best."
+msgstr "[%s] Jawaban Anda ditandai sebagai Jawaban Terbaik"
+
+msgid "[%s] New pending question has been created."
+msgstr "[%s] Pertanyaan yang baru dimuat berhasil dibuat"
+
+msgid "[New Answer] Your question %s has a new reply."
+msgstr "[Jawaban baru] Pertanyaan Anda %s telah dijawab"
+
+msgid "Confirm this user"
+msgstr "Konfirmasi user "
+
+msgid "Password updated successfully!"
+msgstr "Password berhasil diupdate!"
+
+msgid "Menu display on Header"
+msgstr "Menu tampil pada Header"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:514
+msgid "Menu display on Left Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:519
+msgid "Left Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:521
+msgid "Display widgets in left sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:524
+msgid "Right Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:526
+msgid "Display widgets in right sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:531
+msgid "Header Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:533
+msgid "Display widgets in header sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:538
+msgid "Blog's Left Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:540
+msgid "Display widgets in blog's left sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:543
+msgid "Blog's Right Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:545
+msgid "Display widgets in blog's right sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:550
+msgid "Single Question Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:552
+msgid "Display widgets in single question sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:556
+msgid "Top Questions Listing Ads Banner Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:558
+msgid "Display ad banners widgets in top questions listing sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:562
+msgid "Bottom Ads Banner Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:564
+msgid "Display ad banners widgets in bottom of website"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:568
+msgid "Content Question Ad Banner Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:570
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:576
+msgid "Display ad banners widgets in bottom questions listing sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:574
+msgid "Below Answers Listing Ad Banner Sidebar"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:591
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:603
+msgid "Reports"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:592
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/single-answer.php:129
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/single-poll.php:122
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/single-question.php:126
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/template-js/item-answer.php:50
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/template/item-answer.php:96
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/single-poll.php:89
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/single-poll.php:177
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/single-question.php:90
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/single-question.php:178
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/template-js/item-answer.php:85
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/template/item-answer.php:41
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/template/item-answer.php:113
+msgid "Report"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:594
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:630
+msgid "Add New Report"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:595
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:628
+msgid "Edit Report"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:596
+msgid "New Report"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:597
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:625
+msgid "All Reports"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:598
+msgid "View Report"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:599
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:623
+msgid "Search Reports"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:600
+msgid "No Reports found"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:601
+msgid "No Reports found in Trash"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:621
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:636
+msgid "Reports taxonomy"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:622
+msgid "Report taxonomys"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:624
+msgid "Popular Reports"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:629
+msgid "Update Report"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:631
+msgid "New Report Name"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:632
+msgid "Separate Reports with commas"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:633
+msgid "Add or remove Reports"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:634
+msgid "Choose from the most used Reports"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:635
+msgid "No Reports found."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:654
+msgid "Report Information"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:770
+msgid "Admin"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/theme.php:788
+msgid "There's a new report "
+msgstr ""
+
+msgid "Please fill out all fields required."
+msgstr "Mohon isi semua bagian yang diperlukan."
+
+msgid "Please enter your user name."
+msgstr "Mohon masukkan username anda."
+
+msgid "Please enter a valid username."
+msgstr "Mohon masukkan username yang valid."
+
+msgid "Please enter the same password as above."
+msgstr "Mohon masukan pasword yang sama dengan diatas."
+
+msgid "You must accept the terms & privacy."
+msgstr "Anda harus menyetujui aturan & ketentuan."
+
+msgid "You must be logged in to perform this action."
+msgstr "Anda harus masuk untuk melakukan aksi ini."
+
+msgid "You don't have enought points to perform this action."
+msgstr "Anda tidak memiliki poin yang cukup untuk melakukan aksi ini."
+
+msgid "Create Topic"
+msgstr "Buat Topik"
+
+msgid "Insert Code"
+msgstr "Masukkan Kode"
+
+msgid "No file chosen."
+msgstr "Tidak ada file yang dipilih."
+
+msgid "Please insert at least one tag."
+msgstr "Mohon masukkan minimal satu tag."
+
+msgid "Sign Up"
+msgstr "Mendaftar"
+
+msgid "Sign In"
+msgstr "Masuk"
+
+msgid "Best answer"
+msgstr "Jawaban terbaik"
+
+msgid "Forgot Password"
+msgstr "Lupa Password"
+
+msgid "You have made some changes which you might want to save."
+msgstr "Anda telah melakukan perubahan yang mungkin perlu disimpan"
+
+msgid "You must activate your account first to create questions / answers!."
+msgstr "Anda harus mengaktifkan akun Anda terlebih dahulu untuk membuat pertanyaan / jawaban!"
+
+msgid "User cancelled login or did not fully authorize."
+msgstr "User membatalkan login atau atau autorisasi belum lengkap."
+
+msgid "You account has been banned, you can't make this action!"
+msgstr "Akun Anda tidak diizinkan, Anda tidak dapat menjalankan aksi ini!"
+
+msgid "You must activate your account first to buy pump package."
+msgstr "Anda harus mengaktifkan akun Anda terlebih dahulu untuk membeli paket."
+
+msgid "Uploading..."
+msgstr "Memuat…"
+
+msgid "Insert"
+msgstr "Tambah"
+
+msgid "Please enter no more than %s characters"
+msgstr "Mohon masukkan karakter tidak lebih dari %s"
+
+msgid "Post link"
+msgstr "Link Post"
+
+msgid "Unable to get post link"
+msgstr "Gagal mendapatkan link post"
+
+msgid "Key is invalid"
+msgstr "Key tidak valid"
+
+msgid "Congratulations, you have advanced to a higher level"
+msgstr "Selamat, Anda mencapai level yang lebih tinggi"
+
+msgid "You have been moved down a level"
+msgstr "Anda turun level "
+
+msgid "Drag this widget to single sidebars to display a list of related questions."
+msgstr "Drag widget ke sidebar tunggal untuk menampilkan daftar pertanyaan yang terkait"
+
+msgid "QA Related Questions"
+msgstr "QA Pertanyan Terkait"
+
+msgid "RELATED QUESTIONS"
+msgstr "PERTANYAAN TERKAIT"
+
+msgid "Title:"
+msgstr "Judul:"
+
+msgid "Number of questions to display:"
+msgstr "Jumlah pertanyaan yang ditampilkan:"
+
+msgid "Questions base on:"
+msgstr "Pertanyaan berdasarkan:"
+
+msgid "There are no related questions!"
+msgstr "Tidak ada pertanyaan yang terkait!"
+
+msgid "This widget should be placed in Single Question Sidebar"
+msgstr "Widget ini harus ditempatkan pada Sidebar Pertanyaan Tunggal"
+
+msgid "Drag this widget to any sidebars to display a list of hot questions."
+msgstr "Drag widget ini ke sidebar lain untuk menampilkan daftar pertanyaan terkini"
+
+msgid "QA Latest Questions / Hot Questions"
+msgstr "QA Pertanyaan Terakhir / Pertanyaan Terkini"
+
+msgid "HOT QUESTIONS"
+msgstr "PERTANYAAN TERKINI"
+
+msgid "Latest questions (sort by date)"
+msgstr "Pertanyaan terakhir (urut berdasarkan tanggal)"
+
+msgid "Date range:"
+msgstr "Rentang tanggal:"
+
+msgid "All days"
+msgstr "Sepanjang hari"
+
+msgid "Last 7 days"
+msgstr "7 hari terakhir"
+
+msgid "Last 30 days"
+msgstr "30 hari terakhir"
+
+msgid "Drag this widget to sidebar to display the statistic of website."
+msgstr "Drag widget ini ke sidebar untuk menampilkan stastik website"
+
+msgid "QA Statistics"
+msgstr "QA Statistik"
+
+msgid "STATISTICS WIDGET"
+msgstr "WIDGET STATISTIK"
+
+msgid "Drag this widget to sidebar to display the list of tags."
+msgstr "Drag widget ini ke sidebar untuk menampilkan daftar tag"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:313
+msgid "QA Tags"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:321
+msgid "Tags Widget"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:328
+msgid "Number of tag to display:"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:353
+msgid "See more tags"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:364
+msgid "Drag this widget to sidebar to display the list of top users."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:370
+msgid "QA Top Users"
+msgstr ""
+
+msgid "TOP USERS"
+msgstr "TOP USER"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:392
+msgid "Number of users to display:"
+msgstr ""
+
+msgid "Latest users (sort by date)"
+msgstr "User terakhir (urut berdasarkan tanggal)"
+
+msgid "Order By:"
+msgstr "Urut berdasarkan:"
+
+msgid "%d Question(s)"
+msgstr "d% Pertanyaan"
+
+msgid "%d Answer(s)"
+msgstr "d% Jawaban"
+
+msgid "%d Point(s)"
+msgstr "d% Poin"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:561
+msgid "Drag this widget to sidebar to display the list of user's activities."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:563
+msgid "QA Recent Activities"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:579
+msgid "Number of activities to display:"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:625
+msgid "Drag this widget to any sidebars to display a list of latest answers."
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:627
+msgid "QA Latest Answers"
+msgstr ""
+
+msgid "LATEST ANSWERS"
+msgstr "JAWABAN TERAKHIR"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/includes/widget.php:684
+#, php-format
+msgid "By <a href=\"%s\">%s</a> - %s"
+msgstr ""
+
+msgid "Your site&#8217;s most recent comments."
+msgstr " Situs anda&#8217;s komentar terbanyak terbaru"
+
+msgid "Recent Comments"
+msgstr "Komentar Terbaru"
+
+msgid "%1$s %2$s on %3$s"
+msgstr "%1$s %2$s pada %3$s"
+
+msgid "Number of comments to show:"
+msgstr "Jumlah komentar yang ditampilkan:"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/index.php:15
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/index.php:18
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/search.php:15
+msgid "Blog"
+msgstr ""
+
+msgid "Change Profile"
+msgstr "Ubah Profil"
+
+msgid "Change Password"
+msgstr "Ubah Password"
+
+msgid "Full name"
+msgstr "Nama Lengkap"
+
+msgid "Location"
+msgstr "Lokasi"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:77
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/template/modal-profile.php:54
+msgid "Google+"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:82
+msgid "admin@local.com"
+msgstr ""
+
+msgid "Make this email public."
+msgstr "Buat email ini publik"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Old Password"
+msgstr "Password Lama"
+
+msgid "New Password"
+msgstr "Password Baru"
+
+msgid "Repeat New Password"
+msgstr "Ulangi Password Baru"
+
+msgid "points"
+msgstr "poin"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:240
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:256
+msgid "pump"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:243
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/author.php:259
+msgid "cooldown"
+msgstr ""
+
+msgid "Enter keyword"
+msgstr "Masukkan kata kunci"
+
+msgid "Please check your mail box to confirm your email address."
+msgstr "Mohon check kotak masuk e-mail Anda untuk mengkonfirmasikan alamat e-mail."
+
+msgid "Resend confirm email."
+msgstr "Kirim ulang e-mail konfirmasi."
+
+msgid "Find a blog"
+msgstr "Temukan blog"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/category.php:43
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/index.php:54
+msgid "No posts yet."
+msgstr ""
+
+msgid "Terms & Privacy"
+msgstr "Syarat dan Privasi"
+
+msgid "Ask a Question"
+msgstr "Buat Pertanyaan"
+
+msgid "Create a Poll"
+msgstr "Buat Poll"
+
+msgid "You must have %d points to add tag. Current, you have to select existing tags."
+msgstr "Anda harus memiliki %d poin untuk menambah tag. Selanjutnya, Anda harus memilih tag yang tersedia"
+
+msgid "Insert Image"
+msgstr "Tambah Gambar"
+
+msgid "Size must be less than < %sMB."
+msgstr "Ukuran harus kurang dari < %sMB."
+
+msgid "Type your comment"
+msgstr "Ketikkan komentar Anda"
+
+msgid "Sign Out"
+msgstr "Keluar"
+
+msgid "List Categories"
+msgstr "Daftar Kategori"
+
+msgid "Badges"
+msgstr "Lencana"
+
+msgid "Points System"
+msgstr "Sistem Poin"
+
+msgid "You earn reputation when people vote on your posts"
+msgstr "Anda mendapatkan reputasi pada saat orang lain vote pada publikasi Anda"
+
+msgid "answer is accepted"
+msgstr "Jawaban diterima"
+
+msgid "Badges System"
+msgstr "Sistem Lencana"
+
+msgid "At the highest levels, you'll have access to special moderation tools. You'll be able to work alongside our community moderators to keep the site focused and helpful."
+msgstr "Pada level tertinggi, Anda akan memiliki akses tools istimewa yang terbatas. Anda dapat bekerja di sepanjang komunitas untuk menjaga situs tetap fokus dan membantu."
+
+msgid "points required"
+msgstr "poin dibutuhkan"
+
+msgid "You can:"
+msgstr "Anda dapat:"
+
+msgid "Edit other people's questions"
+msgstr "Edit pertanyaan orang lain"
+
+msgid "Edit other people's answers"
+msgstr "Edit jawaban orang lain"
+
+msgid "Vote down (costs %s point on answers and questions)"
+msgstr "Vote down (tolak) (biaya %s poin pada jawaban dan pertanyaan)"
+
+msgid "Leave comments"
+msgstr "Tinggalkan komentar"
+
+msgid "Vote up"
+msgstr "Vote up"
+
+msgid "Buy Package"
+msgstr "Beli Package"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Find a categories"
+msgstr "Temukan Kategori"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Popular"
+msgstr "Populer"
+
+msgid "Sign in"
+msgstr "Masuk"
+
+msgid "Sign up"
+msgstr "Daftar"
+
+msgid "Remember me"
+msgstr "Ingat saya"
+
+msgid "Forgot password ?"
+msgstr "Lupa password?"
+
+msgid "Sign in with:"
+msgstr "Masuk dengan:"
+
+msgid "User Name"
+msgstr "User Name"
+
+msgid "Repeat Password"
+msgstr "Ulangi Password"
+
+msgid "By clicking \"Sign Up\" you indicate that you have read and agree to the"
+msgstr "Dengan meng-klik Daftar berarti Anda telah membaca dan setuju terhadap"
+
+msgid "Terms of Service."
+msgstr "Syarat"
+
+msgid "Proccess Payment"
+msgstr "Proses Pembayaran"
+
+msgid "All Question"
+msgstr "Semua Pertanyaan"
+
+msgid "Reset Password"
+msgstr "Hapus Password"
+
+msgid "Enter your new password here"
+msgstr "Masukkan password baru anda disini"
+
+msgid "Reset"
+msgstr "Hapus"
+
+msgid "Search Question"
+msgstr "Cari Pertanyaan"
+
+msgid "No results for keyword:"
+msgstr "Tidak ada hasil untuk kata kunci:"
+
+msgid "Find a tag"
+msgstr "Temukan tag"
+
+msgid "Users"
+msgstr "Pengguna"
+
+msgid "Find a user"
+msgstr "Temukan user"
+
+msgid "No Category"
+msgstr "Tidak ada kategori"
+
+msgid "Asked by %s %s in"
+msgstr "Ditanya oleh %s pada %s"
+
+msgid "Answered"
+msgstr "Terjawab"
+
+msgid "Follow"
+msgstr "Ikuti"
+
+msgid "Unfollow"
+msgstr "Berhenti Mengikuti"
+
+msgid "Share"
+msgstr "Bagikan"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Vote"
+msgstr "Vote"
+
+msgid "Oldest"
+msgstr "Lampau"
+
+msgid "Result"
+msgstr "Hasil"
+
+msgid "Select multiple answer"
+msgstr "Pilih multi jawaban"
+
+msgid "Select one answer"
+msgstr "Pilih satu jawaban"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/single-poll.php:206
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/single-poll.php:248
+#, php-format
+msgid "<span class=\"number\">%s</span> Vote"
+msgstr ""
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/single-poll.php:208
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/single-poll.php:250
+#, php-format
+msgid "<span class=\"number\">%s</span> Votes"
+msgstr ""
+
+msgid "Login to post answer"
+msgstr "Masuk untuk membuat jawaban"
+
+msgid "Login or Register to view and post answer"
+msgstr "Masuk atau Daftar untuk melihat dan mempublikasikan jawaban"
+
+msgid "Post answer"
+msgstr "Publikasikan jawaban"
+
+msgid "Size must be less than < %u MB."
+msgstr "Ukuran harus kurang dari < %u MB"
+
+msgid "Type your answer"
+msgstr "Ketikkan jawaban Anda"
+
+msgid "Pages:"
+msgstr "Halaman:"
+
+msgid "There are no questions in this category!."
+msgstr "Tidak ada pertanyaan pada kategori ini!"
+
+msgid "Answered by "
+msgstr "Dijawab oleh"
+
+msgid "Asked %s in"
+msgstr "Ditanya %s dikategori"
+
+msgid "Accepted"
+msgstr "Diterima"
+
+msgid "Touch here to see more %s tags"
+msgstr "Sentuh di sini untuk lihat banyak tag"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/mobile/template/item-answer.php:43
+msgid "Pending Answer"
+msgstr ""
+
+msgid "Answered by %s %s."
+msgstr "Dijawab oleh %s %s"
+
+msgid "Contact "
+msgstr "Kontak"
+
+msgid "Your message:"
+msgstr "Pesan Anda"
+
+msgid "Got something to say? Type your message here."
+msgstr "Ingin menyampaikan sesuatu? Ketikkan pesan Anda disini"
+
+msgid "Send"
+msgstr "Kirim"
+
+msgid "Report "
+msgstr "Laporan"
+
+msgid "Your message"
+msgstr "Pesan Anda"
+
+msgid "%s in"
+msgstr "%s pada"
+
+msgid "READ MORE"
+msgstr "BACA SELENGKAPNYA"
+
+#: D:\YOUNGWORLD\YW.THEME\QAEngine\qaengine/page-badges.php:107
+msgid "Vote to close, reopen, or migrate questions"
+msgstr ""
+
+msgid "Select plan"
+msgstr "Pilih rencana"
+
+msgid "Authencation"
+msgstr "Autentikasi"
+
+msgid "Select payment method"
+msgstr "Pilih metode pembayaran"
+
+msgid "Find Categories"
+msgstr "Temukan Kategori"
+
+msgid "Search Questions: <em>%s</em>"
+msgstr "Cari Pertanyaan : <em>%s</em>"
+
+msgid "Find Tags"
+msgstr "Temukan Tag"
+
+msgid "Find Users"
+msgstr "Temukan User"
+
+msgid "%d Points"
+msgstr "%d Poin"
+
+msgid "No users found."
+msgstr "User tidak ditemukan."
+
+msgid "Home"
+msgstr "Beranda"
+
+msgid "Your Answer"
+msgstr "Jawaban Anda"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Select your answer - End in %s"
+msgstr "Pilih jawaban Anda – berakhir pada %s"
+
+msgid "Results of this poll"
+msgstr "Hasil polling"
+
+msgid " (This poll was expired)"
+msgstr "(Polling ini telah kadaluarsa)"
+
+msgid "Answer(s)"
+msgstr "Jawaban"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Question Cagtegory: %s"
+msgstr "Kategori Pertanyaan : %s"
+
+msgid "Question Tag: %s"
+msgstr "Tag Pertanyaan : %s"
+
+msgid "There are no questions in category \"%s\"."
+msgstr "Tidak ada pertanyaan pada kategori “%s”."
+
+msgid "View all %s results"
+msgstr "Lihat semua %s hasil"
+
+msgid "View all results"
+msgstr "Lihat semua hasil"
+
+msgid "No results found"
+msgstr "Hasil tidak ditemukan"
+
+msgid "This answer accepted by"
+msgstr "Jawaban diterima oleh"
+
+msgid "Earned %d points."
+msgstr "Mencapai %d poin"
+
+msgid "views"
+msgstr "lihat"
+
+msgid "answers"
+msgstr "jawaban"
+
+msgid "votes"
+msgstr "vote"
+
+msgid "Free"
+msgstr "Gratis"
+
+msgid "Don't have an account?"
+msgstr "Tidak punya akun?"
+
+msgid "Register here"
+msgstr "Daftar di sini"
+
+msgid "Your username"
+msgstr "Username Anda"
+
+msgid "Enter your username or email"
+msgstr "Masukkan username atau email"
+
+msgid "Enter password"
+msgstr "Masukkan password"
+
+msgid "Enter your password"
+msgstr "Masukkan password Anda"
+
+msgid "Enter your username"
+msgstr "Masukkan username Anda"
+
+msgid "Your email"
+msgstr "Email Anda"
+
+msgid "Enter your email"
+msgstr "Masukkan email Anda"
+
+msgid "Your password"
+msgstr "Password Anda"
+
+msgid "Retype password"
+msgstr "Ketik ulang Password"
+
+msgid "By clicking \"Sign up\" you indicate that you have read and agree to the <a target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service.</a>"
+msgstr "Dengan mengklik “Daftar” berarti Anda telah membaca dan setuju pada <a target=\"_blank\" href=\"%s\">Kebijakan Privasi</a> and <a target=\"_blank\" href=\"%s\"> Syarat dan Ketentuan</a>"
+
+msgid "Answered %s."
+msgstr "Dijawab %s"
+
+msgid "You must have %d points to vote up."
+msgstr "Anda harus memiliki %d poin untuk vote up."
+
+msgid "You must have %d points to vote down."
+msgstr "Anda harus memiliki %d poin untuk vote down."
+
+msgid "This is useful."
+msgstr "Bermanfaat"
+
+msgid "This is not useful"
+msgstr "Tidak bermanfaat"
+
+msgid "Mark as best answer"
+msgstr "Tandai sebagai jawaban terbaik"
+
+msgid "Username or Email"
+msgstr "Username atau Email"
+
+msgid "Forgot password"
+msgstr "Lupa password"
+
+msgid "Sign up here"
+msgstr "Daftar di sini"
+
+msgid "or sign in with"
+msgstr " "
+
+msgid "Retype Password"
+msgstr "Ketik ulang Password"
+
+msgid "Enter your email here"
+msgstr "Masukkan email Anda di sini"
+
+msgid "Edit Profile"
+msgstr "Edit Profil"
+
+msgid "Upload New Avatar"
+msgstr "Upload Avatar Baru"
+
+msgid "About me"
+msgstr "Tentang saya"
+
+msgid "Update Profile"
+msgstr "Update Profil"
+
+msgid "Tag (max 5 tags)"
+msgstr "Tag (max 5 tag)"
+
+msgid "Press enter to add new tag"
+msgstr "Tekan enter untuk menambahkan tag baru"
+
+msgid "SUBMIT QUESTION"
+msgstr "SUBMIT PERTANYAAN"
+
+msgid "More answers"
+msgstr "Jawaban selengkapnya"
+
+msgid "You can create up to %s answer(s)."
+msgstr "Anda dapat membuat %s jawaban"
+
+msgid "Multichoice"
+msgstr "Pilihan Ganda"
+
+msgid "SUBMIT A QUESTION"
+msgstr "SUBMIT PERTANYAAN"
+
+msgid "Insert Images"
+msgstr "Sisipkan Gambar"
+
+msgid "Upload an image"
+msgstr "Upload Gambar"
+
+msgid "Please log in to use this function."
+msgstr "Mohon masuk untuk menggunakan fungsi ini."
+
+msgid "Admin has disabled this function."
+msgstr "Admin tidak mengizinkan fungsi ini."
+
+msgid "Add an image via URL"
+msgstr "Tambahkan gambar via URL"
+
+msgid "Alt text"
+msgstr "Ubah teks"
+
+msgid "Your payment has failed, friend."
+msgstr "Pembayaran Anda gagal"
+
+msgid "You could <a href=\"%s\">buy more pumps to continue</a> or <a href=\"%s\">return home</a>."
+msgstr "Anda dapat <a href-\"%s\">membeli pump lebih banyak untuk melanjutkan</a> or <a href-\"%s\">kembali ke Beranda</a>."
+
+msgid "Your payment has been successful. Thank you!"
+msgstr "Pembayaran Anda berhasil. Terima kasih!"
+
+msgid "You have successfully purchased the package: %s"
+msgstr "Anda berhasil memesan package: %s"
+
+msgid "Your payment has been sent successfully but is currently set as 'pending' by %s. <br/>You will be notified when your listing is approved."
+msgstr "Pembayaran Anda berhasil terkirim namun diatur sebagai ‘pending’ oleh %s.<br/> Anda akan diberi notifikasi pada saat diterima."
+
+msgid "%s "
+msgstr "%s"
+
+msgid "click <a href=\"%s\">here</a> to see you pump package."
+msgstr "Klik <a href- “%s”>di sini</a> untuk melihat paket pump."
+
+msgid "Pending Question"
+msgstr "Pertanyaan Pending"
+
+msgid "Digit"
+msgstr "Digit"

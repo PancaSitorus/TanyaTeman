@@ -1,0 +1,1058 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>QAEngine</title>
+	
+	<meta name="description" content="">
+	<meta name="author" content="An Nguyen">
+	<meta name="copyright" content="An Nguyen">
+	<meta name="generator" content="Documenter v2.0 http://rxa.li/documenter">
+	<meta name="date" content="2015-04-09T00:00:00+02:00">
+	
+	<link rel="stylesheet" href="assets/css/documenter_style.css" media="all">
+	
+	
+	
+	<script src="assets/js/jquery.js"></script>
+	
+	<script src="assets/js/jquery.scrollTo.js"></script>
+	<script src="assets/js/jquery.easing.js"></script>
+	
+	<script>document.createElement('section');var duration='500',easing='swing';</script>
+	<script src="assets/js/script.js"></script>
+	
+	<style>
+		html{background-color:#FFFFFF;color:#383838;}
+		::-moz-selection{background:#444444;color:#DDDDDD;}
+		::selection{background:#444444;color:#DDDDDD;}
+		#documenter_sidebar #documenter_logo{background-image:url();}
+		a{color:#0000FF;}
+		.btn {
+			border-radius:3px;
+		}
+		.btn-primary {
+			  background-image: -moz-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -ms-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -webkit-gradient(linear, 0 0, 0 0088CC%, from(#DDDDDD), to(#0044CC));
+			  background-image: -webkit-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -o-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: linear-gradient(top, #0088CC, #0044CC);
+			  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0088CC', endColorstr='#0044CC', GradientType=0);
+			  border-color: #0044CC #0044CC #bfbfbf;
+			  color:#FFFFFF;
+		}
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.btn-primary.disabled,
+		.btn-primary[disabled] {
+		  border-color: #0088CC #0088CC #bfbfbf;
+		  background-color: #0044CC;
+		}
+		hr{border-top:1px solid #EBEBEB;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ul a{background-color:#DDDDDD;color:#222222;}
+		#documenter_sidebar ul a{-webkit-text-shadow:1px 1px 0px #EEEEEE;-moz-text-shadow:1px 1px 0px #EEEEEE;text-shadow:1px 1px 0px #EEEEEE;}
+		#documenter_sidebar ul{border-top:1px solid #AAAAAA;}
+		#documenter_sidebar ul a{border-top:1px solid #EEEEEE;border-bottom:1px solid #AAAAAA;color:#444444;}
+		#documenter_sidebar ul a:hover{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_sidebar ul a.current{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+</head>
+<body class="documenter-project-qaengine">
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo"></a>
+		<ul id="documenter_nav">
+			<li><a class="current" href="#documenter_cover">Start</a></li>
+				
+			<li><a href="#documentation_overview" title="0. Documentation overview">0. Documentation overview</a></li>
+			<li><a href="#package_content" title="1. Package content">1. Package content</a></li>
+			<li><a href="#basic_information_about_wordpress" title="2. Basic information about WordPress">2. Basic information about WordPress</a></li>
+			<li><a href="#introducing_qaengine" title="3. Introducing QAEngine">3. Introducing QAEngine</a>
+				<ul>
+					<li><a href="#introducing_qaengine_what_is_qaengine">What is QAEngine?</a>
+					<li><a href="#introducing_qaengine_what_can_users_do">What can users do?</a>
+				</ul>
+			</li>
+			<li><a href="#main_steps_to_set_up_the_site" title="4. Main steps to set up the site">4. Main steps to set up the site</a>
+				<ul>
+					<li><a href="#main_steps_to_set_up_the_site_41_video_tutorial">4.1. Video tutorial</a>
+					<li><a href="#main_steps_to_set_up_the_site_42_main_steps">4.2. Main steps</a>
+				</ul>
+			</li>
+			<li><a href="#1_download_and_install_qaengine" title="4.1. Download and install QAEngine">4.1. Download and install QAEngine</a>
+				<ul>
+					<li><a href="#1_download_and_install_qaengine_strong_style"box_sizing_border_box_color_rgb_0,_0,_0_font_family_proxima_nova,_sans_serif_font_size_14px"1_download_your_theme_strong">1. Download your theme</a>
+					<li><a href="#1_download_and_install_qaengine_strong_style"box_sizing_border_box_color_rgb_0,_0,_0_font_family_proxima_nova,_sans_serif_font_size_14px"2_install_your_theme_strong">2. Install your theme</a>
+				</ul>
+			</li>
+			<li><a href="#2_import_data" title="4.2. Import data">4.2. Import data</a></li>
+			<li><a href="#3_set_up_the_general_information" title="4.3. Set up the general information  ">4.3. Set up the general information  </a></li>
+			<li><a href="#4_manage_content_and_appearance" title="4.4 Manage content and appearance">4.4 Manage content and appearance</a>
+				<ul>
+					<li><a href="#4_manage_content_and_appearance_541span_class"apple_tab_span"_style"white_space_pre"_spanmanage_content">5.4.1. Manage content</a>
+					<li><a href="#4_manage_content_and_appearance_542span_class"apple_tab_span"_style"white_spacepre"_spancustomize_appearance">5.4.2. Customize Appearance</a>
+				</ul>
+			</li>
+			<li><a href="#5_control_members_in_your_site" title="4.5. Control members in your site">4.5. Control members in your site</a></li>
+			<li><a href="#6_set_up_social_login_page" title="4.6. Set up social login page">4.6. Set up social login page</a>
+				<ul>
+					<li><a href="#6_set_up_social_login_page_setting_in_the_back_end">Setting in the back-end</a>
+					<li><a href="#6_set_up_social_login_page_get_the_apis">Get the APIs</a>
+				</ul>
+			</li>
+			<li><a href="#7_setting_up_the_intro_page" title="4.7. Setting up the intro page">4.7. Setting up the intro page</a></li>
+			<li><a href="#8_menus_and_widgets" title="4.8. Menus and widgets">4.8. Menus and widgets</a>
+				<ul>
+					<li><a href="#8_menus_and_widgets_how_to_create_the_menus">How to create the menus?</a>
+					<li><a href="#8_menus_and_widgets_additional_setting_add_icons_in_front_of_the_page_rsquos_name">Additional setting: Add icons in front of the page&rsquo;s name.</a>
+					<li><a href="#8_menus_and_widgets_img_alt""_src"http_supportenginethemescom_customer_portal_attachments_434740"_style"width_680px_height_298px""></a>
+					<li><a href="#8_menus_and_widgets_how_to_use_widgets">How to use widgets?</a>
+				</ul>
+			</li>
+			<li><a href="#9_using_localization_feature" title="4.9. Using localization feature">4.9. Using localization feature</a></li>
+			<li><a href="#complete_other_settings" title="5. Complete other settings">5. Complete other settings</a>
+				<ul>
+					<li><a href="#complete_other_settings_51span_class"apple_tab_span"_style"white_spacepre"_spanoverview">5.1. Overview:</a>
+					<li><a href="#complete_other_settings_52span_class"apple_tab_span"_style"white_spacepre"_spanurl_slug">5.2. Url slug:</a>
+					<li><a href="#complete_other_settings_53span_class"apple_tab_span"_style"white_spacepre"_spancaptcha">5.3. Captcha:</a>
+					<li><a href="#complete_other_settings_54span_class"apple_tab_span"_style"white_spacepre"_spanmailing">5.4. Mailing:</a>
+				</ul>
+			</li>
+			<li><a href="#updating_the_theme" title="6. Updating the theme">6. Updating the theme</a>
+				<ul>
+					<li><a href="#updating_the_theme_71span_class"apple_tab_span"_style"white_space_pre"_spanvia_the_back_end">7.1. Via the back-end</a>
+					<li><a href="#updating_the_theme_72span_class"apple_tab_span"_style"white_space_pre"_spanvia_your_ftp_account">7.2. Via your FTP account</a>
+				</ul>
+			</li>
+
+		</ul>
+		<div id="documenter_copyright">Copyright An Nguyen 2015<br>
+		made with the <a href="http://rxa.li/documenter">Documenter v2.0</a> 
+		</div>
+	</div>
+	<div id="documenter_content">
+	<section id="documenter_cover">
+	<h1>QAEngine</h1>
+	
+	<div id="documenter_buttons">
+		
+	</div>
+	<hr>
+	<ul>
+	
+	<li>latest update: 04/9/2015</li>
+	<li>by: An Nguyen</li>
+	
+	
+	</ul>
+	<p></p>
+	</section>
+	
+	<section id="documentation_overview">
+	<div class="page-header"><h3>0. Documentation overview</h3><hr class="notop"></div>
+<p>
+	This documentation includes all the essential information to help you set up and run your site smoothly.<br>
+	Below is the summary of all the articles in this documentation. You can check out these content right from the package we provided or access them via our documentation center.</p>
+<p>
+	<strong>&nbsp;1. Package content</strong></p>
+<p>
+	This section describes the function of the files you can get from your member area.&nbsp;</p>
+<p>
+	<strong>2. Basic information about WordPress</strong></p>
+<p>
+	This section provides you some brief information about WordPress so that you can understand more about the product.</p>
+<p>
+	<strong>3. Introducing QAEngine</strong></p>
+<p>
+	A quick look at the main work flow of QAEngine including:</p>
+<ul>
+	<li>
+		Short description</li>
+	<li>
+		Things users can do</li>
+	<li>
+		The main workflow</li>
+</ul>
+<p>
+	<strong>4. Main steps to set up the website:</strong></p>
+<p>
+	Giving a step by step guide to help you install your QAEngine:</p>
+<ul>
+	<li>
+		Download and install your theme</li>
+	<li>
+		Import data</li>
+	<li>
+		Set up general information</li>
+	<li>
+		Manage content and appearance</li>
+	<li>
+		Menus and widgets</li>
+	<li>
+		Use localization feature</li>
+	<li>
+		Set up the Social login page</li>
+	<li>
+		Set up the Intro page</li>
+</ul>
+<p style="margin-left:-6.75pt;">
+	<strong>&nbsp; 5. Complete other settings</strong></p>
+<p>
+	Giving information about other settings in the admin panel:</p>
+<ul>
+	<li>
+		Engine settings &gt; Overview</li>
+	<li>
+		Url slug</li>
+	<li>
+		Captcha</li>
+	<li>
+		Mailing</li>
+	<li>
+		Update the theme</li>
+	<li>
+		Control members of your website</li>
+	<li>
+		Users Badges</li>
+</ul>
+<p style="margin-left:11.25pt;">
+	Should you have any concern while using our theme, please don&rsquo;t hesitate to contact us via our Forum: <strong>forum.enginethemes.com</strong></p>
+</section>
+<section id="package_content">
+	<div class="page-header"><h3>1. Package content</h3><hr class="notop"></div>
+<div>
+	After complete your payment, you can access your member area and get all the offered files:</div>
+<ul>	<li>		QAEngine version X: this is the theme package, which is the main file you can use to set up your site.</li>
+</ul>
+<ul>	<li>		QAEngine documentation: this file includes steps- by &ndash; steps guide to help you set up your site. You don&rsquo;t have to upload it in your site.</li>
+</ul>
+<ul>	<li>		QAEngine Sample data: this is the sample data including the default content similar to our demo site. You will use it when install the theme, the video &ldquo;Install the theme&rdquo; will demonstrate how to use it.</li>
+</ul>
+<ul>	<li>		QAEngine child theme: this is the additional package, you can use it if you want to customize the theme more. You can learn more about it here.</li>
+</ul>
+<ul>	<li>		QAEngine PSD package: The name speaks itself, it&rsquo;s the design of the theme, you don&rsquo;t have to upload it.</li>
+</ul>
+<ul>	<li>		OneEngine: This is the free multipurpose theme we offer, you don&rsquo;t have to upload it on your site. Learn more about it here.</li>
+</ul>
+<div>
+	&nbsp;</div>
+</section>
+<section id="basic_information_about_wordpress">
+	<div class="page-header"><h3>2. Basic information about WordPress</h3><hr class="notop"></div>
+<p>	<strong style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">How to install Wordpress?</strong><br style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">Here&#39;s the quick version of the instructions for those who are already comfortable with performing such installations. More&nbsp;</span><a href="http://codex.wordpress.org/Installing_WordPress#Detailed_Instructions" style="color: rgb(7, 130, 193); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">detailed instructions</a><span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">&nbsp;follow.</span><br style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">If you are not comfortable with renaming files, go ahead and skip step 3 as the install program will create the&nbsp;</span><strong style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">wp-config.php</strong><span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">&nbsp;file for you.</span></p>
+<ol style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<li>		<p>			&nbsp; &nbsp; &nbsp;Download and unzip the WordPress package if you haven&#39;t already.</p>
+	</li>
+	<li>		<p>			&nbsp; &nbsp; &nbsp;Create a database for WordPress on your web server, as well as a&nbsp;<a href="http://codex.wordpress.org/Glossary#MySQL" style="color: rgb(7, 130, 193);">MySQL</a>&nbsp;user who has all privileges for accessing and modifying it.</p>
+	</li>
+	<li>		<p>			&nbsp; &nbsp; &nbsp;(Optional) Find and rename wp-config-sample.php to wp-config.php, then edit the file (see&nbsp;<a href="http://codex.wordpress.org/Editing_wp-config.php" style="color: rgb(7, 130, 193);">Editing wp-config.php</a>) and add your database information.</p>
+	</li>
+	<li>		<p>			&nbsp; &nbsp; &nbsp;Upload the WordPress files to the desired location on your web server:</p>
+	</li>
+</ol>
+<ul style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<li>		<p>			&nbsp; &nbsp; &nbsp; If you want to integrate WordPress into the root of your domain (e.g. http://example.com/), move or upload all contents of the unzipped WordPress directory (excluding the WordPress directory itself) into the root directory of your web server.</p>
+	</li>
+	<li>		<p>			&nbsp; &nbsp; &nbsp; If you want to have your WordPress installation in its own subdirectory on your website (e.g. http://example.com/blog/), create the blog directory on your server and upload the contents of the unzipped WordPress package to the directory via FTP.</p>
+	</li>
+	<li>		<p>			&nbsp; &nbsp; &nbsp;&nbsp;<em>Note: If your FTP client has an option to convert file names to lower case, make sure it&#39;s disabled.</em></p>
+	</li>
+</ul>
+<p>	<span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">&nbsp; &nbsp; &nbsp;5. &nbsp; &nbsp; Run the WordPress installation script by accessing the URL in a web browser. This should be the URL where you uploaded the WordPress files.</span></p>
+<ul style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<li>		<p>			&nbsp; &nbsp; &nbsp; If you installed WordPress in the root directory, you should visit:&nbsp;<strong>http://example.com/</strong></p>
+	</li>
+	<li>		<p>			&nbsp; &nbsp; &nbsp; If you installed WordPress in its own subdirectory called blog, for example, you should visit: http://example.com/blog/</p>
+	</li>
+</ul>
+<p>	<span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">That&#39;s it! WordPress should now be installed.</span><br style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<br style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">If you require detailed information, please follow this link:&nbsp;</span><br style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;">
+	<a href="http://codex.wordpress.org/Installing_WordPress" style="color: rgb(7, 130, 193); font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; line-height: 20.7999992370605px;"><strong>http://codex.wordpress.org/Installing_WordPress</strong></a></p>
+</section>
+<section id="introducing_qaengine">
+	<div class="page-header"><h3>3. Introducing QAEngine</h3><hr class="notop"></div>
+<h4 id="introducing_qaengine_what_is_qaengine">What is QAEngine?</h4>
+<div>
+	QAEngine is a Wordpress theme which helps you create an online forum for users to post their questions or answers about every field in life. Be as an usual forum website, there is no fee for participants on website using theme QAEngine.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Currently, QAEngine supports two versions: one for desktop and one for mobile. Therefore, it is very convenient for users to control websites on both PC and Mobile equipment.</div>
+<h4 id="introducing_qaengine_what_can_users_do">What can users do?</h4>
+<div>
+	As a user you can <strong>post your questions</strong> about any life&rsquo;s aspect; <strong>answer questions</strong> of other people; <strong>share posts</strong> through Facebook, Twitter, Google+; and vote for any post that you think it is useful. &nbsp;&nbsp;</div>
+<div>
+	&nbsp;</div>
+<ul>	<li>		To post question you click on button Ask a Question in the red circle.</li>
+	<li>		To vote for the post which you think useful, choose the post and click the up arrow in the red circle</li>
+</ul>
+<div>
+	&nbsp;</div>
+<div>
+	Besides the activities mentioned above, users also gain reputation via <strong>points and badges system</strong>; get <strong>live notification</strong>; <strong>mark best answer</strong>; <strong>follow questions</strong>,&hellip;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Aside from logging in directly through the website&rsquo;s account, users can also use their social accounts such as Twitter, Facebook and Google if the admin enables Social option in Engine Settings.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436039" style="width: 693px; height: 263px;"></div>
+</section>
+<section id="main_steps_to_set_up_the_site">
+	<div class="page-header"><h3>4. Main steps to set up the site</h3><hr class="notop"></div>
+<h4 id="main_steps_to_set_up_the_site_41_video_tutorial">4.1. Video tutorial</h4>
+<p>	You can take a look at the video tutorial <a href="https://www.youtube.com/watch?v=5fjblZbQDmo">here.</a></p>
+<h4 id="main_steps_to_set_up_the_site_42_main_steps">4.2. Main steps</h4>
+<p>	Here&#39;s the detailed proces to install and set up the theme.</p>
+<ul>	<li>		Download and install QAEngine</li>
+	<li>		Import data</li>
+	<li>		Set up general information</li>
+	<li>		Manage content and appearance</li>
+	<li>		Control members in your site</li>
+	<li>		Set up social login page</li>
+	<li>		Set up the intro page</li>
+	<li>		Menus and widgets</li>
+	<li>		Using localization feature</li>
+	<li>		Complete other settings</li>
+	<li>		Update the theme</li>
+</ul>
+</section>
+<section id="1_download_and_install_qaengine">
+	<div class="page-header"><h3>4.1. Download and install QAEngine</h3><hr class="notop"></div>
+<h4 id="1_download_and_install_qaengine_strong_style"box_sizing_border_box_color_rgb_0,_0,_0_font_family_proxima_nova,_sans_serif_font_size_14px"1_download_your_theme_strong"><strong style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: proxima-nova, sans-serif; font-size: 14px;">1. Download your theme</strong></h4>
+<div>
+	To download the theme, simply follow the below steps:</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull; &nbsp; &nbsp;Login to your EngineThemes account: http://www.enginethemes.com/member/login</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull; &nbsp; &nbsp;You can see all the product you&rsquo;ve purchased, choose the suitable one then click Download to save the files.</div>
+<p>	<span style="color: rgb(0, 0, 0); font-family: proxima-nova, sans-serif; font-size: 14px;"><img alt="" src="http://support.enginethemes.com/customer/portal/attachments/407052"></span></p>
+<h4 id="1_download_and_install_qaengine_strong_style"box_sizing_border_box_color_rgb_0,_0,_0_font_family_proxima_nova,_sans_serif_font_size_14px"2_install_your_theme_strong"><strong style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: proxima-nova, sans-serif; font-size: 14px;">2. Install your theme</strong></h4>
+<div>
+	Before setting up the theme, you will need a WordPress copy installed on your server or localhost.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Go to http://wordpress.org/download/ to get a WordPress copy. You may want to visit the following links to help you get started with WordPress http://www.maxblogpress.com/wordpresswizard20/</div>
+<div>
+	&nbsp;</div>
+<div>
+	Once you&rsquo;re ready to install your theme, follow either of these two ways:</div>
+<ul>	<li>		Extract your theme zip file at.../wp-content/themes. Once the file is extracted, your theme will automatically appear in Themes page under Appearance tab of your WordPress admin site.</li>
+	<li>		From your WordPress admin site, click Appearance &gt; Themes &gt; Install Themes &gt; Upload tabs. Press Browse button, select your theme zip file and click Install Now. If the installation is successful, you will see the message &ldquo;Theme installed successfully&rdquo; and you will be asked to activate the theme right away or activate it later. You can activate your theme anytime by clicking Appearance &gt; Themes.</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436040"></p>
+<div>
+	&nbsp;</div>
+</section>
+<section id="2_import_data">
+	<div class="page-header"><h3>4.2. Import data</h3><hr class="notop"></div>
+<p>	In the package we provide, you&rsquo;ll find Sample data file, this xml file will give you the exact copy of our demo site. Using this sample data, you can start digging into default projects, profiles, categories, menus, widgets, page, and so on. You will soon learn how to get your own site and content running.</p>
+<div>
+	&bull; &nbsp; &nbsp;Choose Tools &gt; Import.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull; &nbsp; &nbsp;Select WordPress option.</div>
+<p>	<span style="color: rgb(0, 0, 0); font-family: proxima-nova, sans-serif; font-size: 14px;"><img alt="" src="http://support.enginethemes.com/customer/portal/attachments/407054"></span></p>
+<div>
+	&bull; &nbsp; &nbsp;Click on the marked button to upload the file.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull; &nbsp; &nbsp;Click Upload file and import button.</div>
+<p>	<span style="color: rgb(0, 0, 0); font-family: proxima-nova, sans-serif; font-size: 14px;"><img alt="" src="http://support.enginethemes.com/customer/portal/attachments/407055"></span></p>
+</section>
+<section id="3_set_up_the_general_information">
+	<div class="page-header"><h3>4.3. Set up the general information  </h3><hr class="notop"></div>
+<div>
+	You can set up the main information for your site in two tabs: <strong>General</strong> and <strong>Branding</strong>.</div>
+<div>
+	Choose <strong>Engine settings &gt;Settings</strong> and you can see them. In these two tabs, you can insert the <strong>Website title</strong>, <strong>description</strong> and <strong>upload the logos</strong>. You can come back later once complete all the main settings.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Website title</strong>:</div>
+<div>
+	If you enable the Email Confirmation, the new user has to confirm their email address after registration to perform tasks on your website.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436041"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Upload logos</strong>:</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/312092" style="width: 680px; height: 390px;"></div>
+<div>
+	&nbsp;</div>
+</section>
+<section id="4_manage_content_and_appearance">
+	<div class="page-header"><h3>4.4 Manage content and appearance</h3><hr class="notop"></div>
+<h4 id="4_manage_content_and_appearance_541span_class"apple_tab_span"_style"white_space_pre"_spanmanage_content">5.4.1.<span class="Apple-tab-span" style="white-space: pre;"> </span>Manage content</h4>
+<div>
+	To control and manage the content being displayed on your site, you should pay attention to the five following options:<strong> Filter bad words</strong>, <strong>Login to view content</strong>, <strong>Pending questions</strong>, <strong>Pending answers</strong> and <strong>Email notification for following question.</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Filter bad words (Questions/Answers)</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	Sometimes, there are few users using inappropriate words in their questions or answer, so you can prevent these words from appearing on your website by this option. Listing words you suppose that they are not appropriate, remember that each word separated by comma, and these ones will automatically turn into *** on your front-end.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/377226" style="width: 680px; height: 232px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Login to view content</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	Enable this function if you want to restrict the number of people who can see the content. This will only allow the login users to approach the website&rsquo;s content.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/377229" style="width: 680px; height: 458px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Pending questions</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	You can prevent inappropriate questions from appearing on your site by enabling this function. After that, a question has to receive your approval before being displayed in the front-end, which means you can absolutely keep your site stay away from unsuitable ones.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436044"></div>
+<div>
+	&nbsp;</div>
+<div>
+	After that, you can approve the questions by 2 ways:</div>
+<ul>	<li>		In front-end: &nbsp;Choose tab P<strong>ending -&gt; Tick Approve</strong> for questions you want to publish.</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436044" style="width: 680px; height: 222px;"></p>
+<ul>	<li>		In back-end: choose <strong>Questions &gt; All questions &gt; in tab Pending</strong>, click into the post you want to publish &gt; <strong>Publish</strong></li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436045"></p>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436046"></p>
+<p>	<strong>Pending answers</strong></p>
+<div>
+	This function is similar to Pending questions, but this one applies to answers.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436047"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Email notification for following question</strong></div>
+<div>
+	The option allows the system automatically send e-mail to the users whenever there is a new answer for the question they are following.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436048"></div>
+<div>
+	<h4 id="4_manage_content_and_appearance_542span_class"apple_tab_span"_style"white_spacepre"_spancustomize_appearance">5.4.2.<span class="Apple-tab-span" style="white-space:pre"> </span>Customize Appearance</h4>
+	<div>
+		To start your customization, choose <strong>Appearance &gt; Customize</strong>.</div>
+	<div>
+		There are 5 sections for you to customize:</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Site Title &amp; Tagline</strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Simply insert the content and you can quickly change your Site title and Tagline.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434724" style="width: 680px; height: 313px;"></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Colors</strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		You are free to select your favourite color for your site. Simply click on the color you want to set it up for different purposes:</div>
+	<ul>		<li>			The site&rsquo;s link color: choose the color for the text that can link to a page.</li>
+		<li>			The main action color: choose the color for the text present the main actions. Ex: Ask question.</li>
+		<li>			The sidebar background color: choose the color for the sidebar background section.</li>
+		<li>			The header background color: choose the color for the header background section.</li>
+		<li>			The header menus background color: choose the color for the header menu background section.</li>
+	</ul>
+	<div>
+		As you can see in the example below, we chose:</div>
+	<ul>		<li>			The site&rsquo;s link color: blue.</li>
+		<li>			The main action color: pink.</li>
+		<li>			The sidebar background color: grey.</li>
+		<li>			The header background color: violet.</li>
+		<li>			The header menus background color: light blue.</li>
+	</ul>
+	<div>
+		&nbsp;</div>
+	<div>
+		And this is how it will appear in the preview.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434725" style="width: 680px; height: 382px;"></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Navigation</strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		In this section, you can decide which menus to be displayed in the front-end. Currently, QAEngine supports 2 menus: <strong>on header</strong> and on l<strong>eft sidebar</strong>. According to your preference, click on the dropdown list to select which menu will be the header, which menu will be the left sidebar.</div>
+	<div>
+		Ex: As you can see in the picture, <em>we chose &nbsp;&ldquo;Header menu&rdquo; to be displayed on header and &ldquo;Left menu&rdquo; to be displayed on left sidebar.</em></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<em><img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434726" style="width: 680px; height: 382px;"></em></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Static front page&nbsp;</strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		This section allows you to choose a page to appear as your front page and posts page.&nbsp;</div>
+	<ul>		<li>			Your latest posts: if you choose this option, the latest posts will appear in your front page.</li>
+		<li>			A static page: you can choose which page to be displayed as the front page or posts page.</li>
+	</ul>
+	<p>		<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434727" style="width: 680px; height: 382px;"></p>
+	<div>
+		<strong>Widgets for sidebars</strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Just like the widget settings in the back-end. You can quickly add a widget in this section:</div>
+	<ul>		<li>			Click &ldquo;Add a widget&rdquo; then choose the widget you want to appear. You can also use search bar to quickly find the widget.</li>
+		<li>			After add a widget, insert all the needed information. As you can see, we added QA Latest Questions.</li>
+		<li>			You can also delete a widget if you don&rsquo;t want it appear anymore.</li>
+		<li>			Reorder: you can use this function to arrange the order of the widgets.</li>
+		<li>			Finally, click &ldquo;Done&rdquo;.</li>
+	</ul>
+	<div>
+		After completing your customization, hit Save &amp; Publish. You will see the preview appear as following photo:</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434728" style="width: 680px; height: 318px;"></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434729" style="width: 680px; height: 307px;"></div>
+	<div>
+		&nbsp;</div>
+</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434730" style="width: 680px; height: 314px;"></div>
+</section>
+<section id="5_control_members_in_your_site">
+	<div class="page-header"><h3>4.5. Control members in your site</h3><hr class="notop"></div>
+<div>
+	<strong>5.5.1. Control members of your website</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	The Members page allows you to have an overview of the registered people. Choose Engine Settings &gt; Members</div>
+<ul>	<li>		In the dropdown list on the top left, you can choose to see the users based on their roles or see all the users</li>
+	<li>		You can use the search bar to search the user you want to see.</li>
+	<li>		You can also use the dropdown list at the end of each user&rsquo;s name to change its roles. The system will then automatically save whenever you do your changes.</li>
+	<li>		Besides, admins can also directly activate a member manually before they submit their confirmation. If there&#39;s a visitor waiting for your approval, you will see a &quot;Tick&quot; symbol at the end of his/her name, you can click on this symbol to accept him/her.</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/305455" style="width: 680px; height: 371px;"></p>
+<div>
+	<strong>5.5.2. Users Badges</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	This field allows you to categorize your website&rsquo;s members in different levels based on the points they achieved through their actions on the website.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Level</strong></div>
+<p>	<strong>Create new badges:</strong></p>
+<div>
+	You can add new badge in the section below the User Level list.</div>
+<ul>	<li>		Enter a name for your badge: insert a name for the badge you want to make.</li>
+	<li>		Point: decide how many points a user has to achieve so that they can gain this badge.</li>
+	<li>		Color: choose a color to represent this badge.</li>
+	<li>		After completing the empty fields, click Add badges.</li>
+</ul>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296528" style="width: 680px; height: 353px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	Your users can see the badges system in the front-end as below:</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296529" style="width: 680px; height: 556px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Edit a badge</strong></div>
+<ul>	<li>		Click the edit symbol on the right of the badges.</li>
+	<li>		After edit the information, click &ldquo;Save plan&rdquo; button to complete your settings.</li>
+	<li>		You can also click &ldquo;Cancel&rdquo; button if you don&rsquo;t want to edit the badge anymore.</li>
+</ul>
+<div>
+	<strong>Delete a badge</strong></div>
+<div>
+	If you want to delete a badge, simply click the X symbol at the end of the badge.&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296533" style="width: 680px; height: 304px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>5.5.3.<span class="Apple-tab-span" style="white-space:pre"> </span>Points</strong></div>
+<div>
+	You can set the points for each action on the website by choosing Engine Settings &gt; User Badges &gt; Points.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296535" style="width: 680px; height: 391px;"></div>
+<div>
+	<strong>Positive point</strong></div>
+<div>
+	You can decide how many points a user can gain when:</div>
+<ul>	<li>		Their question is voted up.</li>
+	<li>		Their answer is voted up</li>
+	<li>		Their answer is marked &ldquo;accepted&rdquo;.</li>
+</ul>
+<div>
+	Ex: If you want users receive 2 points when they ask a question, simply insert 2 in the &ldquo;create a question&rdquo; field.</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296535" style="width: 680px; height: 391px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Negative point</strong></div>
+<div>
+	You can decide how many points a user can gain when:</div>
+<ul>	<li>		Their question is voted down.</li>
+	<li>		Their answer is voted down.</li>
+	<li>		They vote down an answer or question.</li>
+</ul>
+<div>
+	Ex: If you want users lose 2 points when their question is voted down, simply insert -2 in the &ldquo;your question is voted down&rdquo; field</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296536" style="width: 680px; height: 230px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;In the front &ndash; end, users can see the points system as well as their points. They can see their points whenever they point the badge below their names, they can also see their points in the &ldquo;Users&rdquo; section.</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296539" style="width: 680px; height: 199px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>5.5.4. Privileges</strong></div>
+<div>
+	There are some extra actions which users can do only when they achieve some specific points. This section allows you to set up this points system, you can insert the points you want users to get before they can have some specific privileges. How many points a user have to get before they can:</div>
+<ul>	<li>		Vote up a question/ answer.</li>
+	<li>		Leave comments on other people&rsquo;s posts.</li>
+	<li>		Vote down a question/ answer.</li>
+	<li>		Add new tags to the site.</li>
+	<li>		Edit any question.</li>
+	<li>		Edit any answer.</li>
+</ul>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296542" style="width: 680px; height: 418px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Ex: If you want a user have to gain 10 points before they can leave comments, simply insert 10 in the &ldquo;Leave comments on other people&rsquo;s post&rdquo; field.&nbsp;</div>
+<div>
+	If users don&rsquo;t have more than 10 points, they can&rsquo;t leave a comment:</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296543" style="width: 680px; height: 386px;"></div>
+<div>
+	If they have enough points, they can leave their comment as below:</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296545" style="width: 680px; height: 386px;"></div>
+<div>
+	&nbsp;</div>
+</section>
+<section id="6_set_up_social_login_page">
+	<div class="page-header"><h3>4.6. Set up social login page</h3><hr class="notop"></div>
+<h4 id="6_set_up_social_login_page_setting_in_the_back_end">Setting in the back-end</h4>
+<div>
+	Following these below step to set up a page for your users to login via their social network accounts:</div>
+<ul>	<li>		Visit your admin panel &gt; choose Pages &gt; Add new &gt; create a new page named &quot;Social-connect&quot;. Paste the shortcode &quot;[social_connect_page]&quot; to the content section. Also, let the &quot;Template&quot; option as default.</li>
+	<li>		Choose<strong> Engine settings &gt; Settings &gt; Social.</strong></li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436049" style="width: 684px; height: 286px;"></p>
+<div>
+	Insert the API in the Social API section.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436050"></div>
+<h4 id="6_set_up_social_login_page_get_the_apis">Get the APIs</h4>
+<div>
+	<strong>FaceBook</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	To add FaceBook Login feature on QAEngine, you should follow those steps:</div>
+<ul>	<li>		Create new apps at http://developers.facebook.com/apps.</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434747" style="width: 680px; height: 311px;"></p>
+<ul>	<li>		Get your APP ID and add it in Engine Settings &gt; Settings &gt; Socials.</li>
+	<li>		Please remember to fill your domain in &ldquo;Website with FaceBook Login&rdquo; field in Registration App form as well.&nbsp;</li>
+</ul>
+<div>
+	E.g: EngineThemes will enter http://enginethemes.com if we wish to use this feature for our site.</div>
+<ul>	<li>		If you do not fill in your contact information your app could not be accessed. In your App Settings, Basic tab is where you&rsquo;ll find these things.</li>
+	<li>		In Status &amp; Review window, click on the button to the right of your app&rsquo;s name to make your app be public. If you see the green dot &ndash; that means your app is online. Now your customers could login using Facebook login.&nbsp;</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434748" style="width: 680px; height: 491px;"></p>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434749" style="width: 680px; height: 591px;"></div>
+<div>
+	That&rsquo;s finished.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Twitter</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	Similar to FaceBook, you also create new apps on Twitter at</div>
+<div>
+	&nbsp;https://dev.twitter.com/apps</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434751" style="width: 700px; height: 361px;"></div>
+<ul>	<li>		Fill the full information on create an application form.</li>
+	<li>		Get Consumer key and Consumer secret on your OAuth settings</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436051"></p>
+<ul>	<li>		In Home &rarr; My applications &rarr; Settings page, you may tick on the &ldquo;Allow this application to be used to Sign in with Twitter&rdquo; option to finish the registration processing. Please note, you should check the &ldquo;callback URL&rdquo; field if it is your domain URL.</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436052"></p>
+<ul>	<li>		Add Consumer key and Consumer secret to Your QAEngine. It locates at Engine Settings &gt; Settings &gt; Socials.</li>
+</ul>
+<div>
+	Now, you can log in your site with Twitter account. Good luck. ;)</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Google</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	To add Google Login feature on QAEngine, you should follow those steps:</div>
+<ul>	<li>		Access to https://code.google.com/apis/console</li>
+	<li>		On the left sidebar, choose APIs and auth &gt; Credentials &gt; Create new Client ID</li>
+</ul>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436053"></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436054"></div>
+<ul>	<li>		After typing the information needed, click on the Create new client ID, then you will see the Client ID and Secret ID</li>
+</ul>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436055"></div>
+<ul>	<li>		Add Client key and Client secret to Your QAEngine. It locates at Engine Settings &gt; Settings &gt; Socials.</li>
+</ul>
+<div>
+	And finishing this step, your users can log in through Google.&nbsp;</div>
+<div>
+	&nbsp;</div>
+</section>
+<section id="7_setting_up_the_intro_page">
+	<div class="page-header"><h3>4.7. Setting up the intro page</h3><hr class="notop"></div>
+<div>
+	You can set the intro page for your website if you do not want people accessing directly to the content page after their first click.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	In back-end settings, choose <strong>Settings &gt; Reading &gt; in Front page</strong> displays, tick <strong>a static page</strong> &gt; choose <strong>intro</strong> in the drop-down list in Front page section.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436056"></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	After Save Changes, your front page will look like the photo below when users access to.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436057"></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Note:</strong> In case you do not want to set the intro page for your website, in Front page displays tick Your latest posts, or choose any different page from the drop-down list in a static page &gt; &nbsp;Front page.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436058"></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+</section>
+<section id="8_menus_and_widgets">
+	<div class="page-header"><h3>4.8. Menus and widgets</h3><hr class="notop"></div>
+<h4 id="8_menus_and_widgets_how_to_create_the_menus">How to create the menus?</h4>
+<div>
+	QAEngine supports the <strong>header and left menus</strong>. You can use this to add, sort or display priority information in your site. You can follow these step to create the menu:</div>
+<ul>	<li>		Go to <strong>Appearance -&gt; Menus</strong></li>
+	<li>		Choose Create a new menu</li>
+	<li>		Insert Menu name then clicks Create menu</li>
+</ul>
+<p>	Now you&rsquo;re good to choose custom links, pages or categories and add them to your menus.&nbsp;</p>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436059"></p>
+<div>
+	<strong>To create a header menu similar to our demo site, check the following options:</strong></div>
+<ul>	<li>		Home</li>
+	<li>		About us</li>
+	<li>		Blog</li>
+	<li>		Term</li>
+	<li>		Contact</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436060"></p>
+<div>
+	Click Add to menu then Save menu. You can also drag the items to the suitable order.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Finally, on Theme Locations, select where you want it to appear- in this case, it is &ldquo;Header menu&rdquo;. Do not forget to click Save Menu button.</div>
+<div>
+	&nbsp;</div>
+<div>
+	After completing your settings, the Header menu will be displayed as below in the front-end.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436061" style="width: 678px; height: 323px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>To create menu located on the left sidebar similar to our demo site, check the following options:</strong></div>
+<ul>	<li>		Questions.</li>
+	<li>		Tags.</li>
+	<li>		Badges.</li>
+	<li>		Categories.</li>
+	<li>		Users.</li>
+</ul>
+<div>
+	Click Add to menu then Save menu.</div>
+<div>
+	Finally, on Theme Locations, select where you want them to appear &ndash; in this case is &ldquo; Menu display on left sidebar&rdquo;. Don&rsquo;t forget to hit Save.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434734" style="width: 680px; height: 420px;"></div>
+<div>
+	&nbsp;</div>
+<h4 id="8_menus_and_widgets_additional_setting_add_icons_in_front_of_the_page_rsquos_name">Additional setting: Add icons in front of the page&rsquo;s name.</h4>
+<div>
+	1.Activating the CSS section:</div>
+<ul>	<li>		Choose Screen option button.</li>
+	<li>		Tick the CSS Classes option.</li>
+</ul>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434737" style="width: 680px; height: 115px;"></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	2. Add an icon:</div>
+<ul>	<li>		Visit the following link: http://fortawesome.github.io/Font-Awesome/icons/.</li>
+	<li>		Choose an icon that you like, copy the text and paste it in the CSS Classes section. For example, if you want to add an icon in fron of the Questions page:</li>
+	<li>		Copy the text in the site: http://fortawesome.github.io/Font-Awesome/icons/</li>
+</ul>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434738" style="width: 680px; height: 323px;"></div>
+<div>
+	3. Paste the text in the Questions section</div>
+<ul>	<li>		You can do similar settings for the others.</li>
+</ul>
+<p>	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434739" style="width: 680px; height: 339px;"></p>
+<ul>	<li>		After completing your settings, the Left menu will be displayed as below in the front-end.</li>
+</ul>
+<h4 id="8_menus_and_widgets_img_alt""_src"http_supportenginethemescom_customer_portal_attachments_434740"_style"width_680px_height_298px""><img alt="" src="http://support.enginethemes.com/customer/portal/attachments/434740" style="width: 680px; height: 298px;"></h4>
+<h4 id="8_menus_and_widgets_how_to_use_widgets">How to use widgets?</h4>
+<div>
+	From the back-end, choose <strong>Appearance -&gt; Widgets.</strong></div>
+<div>
+	In Available Widgets, there is a list of widgets you can add to some sidebars on the right. You can add a widget by dragging it to any sidebar to want to add in. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	After adding widgets, you can customize it by click on the widget which has just been added and set up some data for it. You can see the example in below photo, such as changing title of widget and number of activities displayed.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/377237" style="width: 600px; height: 579px;"></div>
+<ul>	<li>		<strong>Attention</strong>: If you want to let ads banners appear on your website, remember to use plugin <strong>AdRotate </strong>downloaded freely on <strong>wordpress.org</strong>. After that, you can make banners for ads and drag them into 2 sidebars <strong>Top Questions Listing Ads Banner</strong> or <strong>Bottom Ads Banner Sidebar</strong>. That is done and you can show ads banners on your website.</li>
+</ul>
+<div>
+	&nbsp;</div>
+</section>
+<section id="9_using_localization_feature">
+	<div class="page-header"><h3>4.9. Using localization feature</h3><hr class="notop"></div>
+<div>
+	English is the default language for QAEngine, but any language can be added and used for the site. Wherever you are, you can use this feature to select the language you want to use for your website. Besides, you can also use this feature to change all texts in the themes.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Choose <strong>Engine settings &gt; Settings &gt; Language </strong>and you can see it.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Website Language:</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	Select your desired language from the list. The system will automatically save and reflect changes in your website. If you wish to use a language that is not on the list, you may add one anytime. However, you will need to manually translate the site&rsquo;s contents</div>
+<ul>	<li>		Click Add a new language to insert.</li>
+	<li>		Press Enter on your keyboard to save.</li>
+</ul>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Translator</strong>:</div>
+<ul>	<li>		Choose the language from the dropdown list you created for your website. Do your translation for each field and it will automatically save after every 20 strings.</li>
+	<li>		However, you should click &ldquo;Save&rdquo; when you complete all your translation.&nbsp;</li>
+</ul>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296510" style="width: 680px; height: 425px;"></div>
+</section>
+<section id="complete_other_settings">
+	<div class="page-header"><h3>5. Complete other settings</h3><hr class="notop"></div>
+<h4 id="complete_other_settings_51span_class"apple_tab_span"_style"white_spacepre"_spanoverview">5.1.<span class="Apple-tab-span" style="white-space:pre"> </span>Overview:</h4>
+<div>
+	This section provides statistic charts about your site activities such as: how many users have signed up, how many places have been posted, and how much revenue you have earned. You can see this overview on different time ranges: 2 weeks or all time. It will be a great tool for admins to track their site content.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296525" style="width: 680px; height: 371px;"></div>
+<h4 id="complete_other_settings_52span_class"apple_tab_span"_style"white_spacepre"_spanurl_slug">5.2.<span class="Apple-tab-span" style="white-space:pre"> </span>Url slug:</h4>
+<div>
+	This section allows you to insert all the slugs for your site. Choose <strong>Engine settings &gt; Settings &gt; URL slug</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436062"></div>
+<h4 id="complete_other_settings_53span_class"apple_tab_span"_style"white_spacepre"_spancaptcha">5.3.<span class="Apple-tab-span" style="white-space:pre"> </span>Captcha:</h4>
+<div>
+	Enable this option you can prevent spammers from registering and posting.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/436063"></div>
+<h4 id="complete_other_settings_54span_class"apple_tab_span"_style"white_spacepre"_spanmailing">5.4.<span class="Apple-tab-span" style="white-space:pre"> </span>Mailing:</h4>
+<div>
+	You can create your own templates for Register Mail, Confirmation Mail, Confirmed Mail, Forgotpass Mail, Resetpass Mail, Pending Questions Mail, New Answer Mail, Report Mail, Best Answer Mail, Ban User Mail , Inbox Mail. For example, there is a template for register mail in the photo below.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296506" style="width: 680px; height: 418px;"></div>
+</section>
+<section id="updating_the_theme">
+	<div class="page-header"><h3>6. Updating the theme</h3><hr class="notop"></div>
+<div>
+	There are two ways to update your theme to the latest versions: <strong>via your back-end</strong> or via your <strong>FTP account</strong>.</div>
+<h4 id="updating_the_theme_71span_class"apple_tab_span"_style"white_space_pre"_spanvia_the_back_end">7.1.<span class="Apple-tab-span" style="white-space: pre;"> </span>Via the back-end</h4>
+<div>
+	Whenever our themes launch a new version, you will automatically receive a notification to upgrade your site. Simply click the message to perform the action.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	If you wish to do it manually, just click <strong>Engine Settings &gt; Settings &gt; Updates</strong> from back-end, then enter your license key on Enginethemes.com. Please note that updating your theme will overwrite all files of older version. So we advise you to keep a back-up of your current version before updating it should you consider using again the older version.</div>
+<div>
+	&nbsp;</div>
+<div>
+	After you enter your license key, whenever our themes are released new version, notification message will be shown in your WordPress dashboard.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/296512" style="width: 680px; height: 331px;"></div>
+<div>
+	&nbsp;</div>
+<h4 id="updating_the_theme_72span_class"apple_tab_span"_style"white_space_pre"_spanvia_your_ftp_account">7.2.<span class="Apple-tab-span" style="white-space: pre;"> </span>Via your FTP account</h4>
+<div>
+	When you download the latest version, extract the package in your computer and you&#39;ll find a file named &quot;<strong>changelog.txt</strong>&quot;. This file includes all the files which have been changed in the new version.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Log in to your FTP account.</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Visit the folder <strong>&quot;.../wp-content/themes/your themes&quot;</strong>. You can then overwrite all the changed files to get the update.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="http://support.enginethemes.com/customer/portal/attachments/242628"  ></div>
+</section>
+
+	</div>
+</body>
+</html>
